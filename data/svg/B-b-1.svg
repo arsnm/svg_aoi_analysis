@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="385.23" y="82.83" width="1040" height="780" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="data-container">
+    <g id="reference-grid-xAxis">
+      <path d="M385.23,82.83v780h1040V82.83" fill="none" stroke="#000"/>
+      <g id="main-grid-xAxis">
+        <line x1="385.23" y1="862.83" x2="385.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="489.23" y1="862.83" x2="489.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="593.23" y1="862.83" x2="593.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="697.23" y1="862.83" x2="697.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="801.23" y1="862.83" x2="801.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="905.23" y1="862.83" x2="905.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="1009.23" y1="862.83" x2="1009.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="1113.23" y1="862.83" x2="1113.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="1217.23" y1="862.83" x2="1217.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="1321.23" y1="862.83" x2="1321.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="1425.23" y1="862.83" x2="1425.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+      </g>
+    </g>
+    <g id="reference-grid-yAxis">
+      <path d="M1425.23,862.83H385.23V82.83h1040" fill="none" stroke="#000"/>
+      <g id="main-grid-yAxis">
+        <line x1="385.23" y1="862.83" x2="1425.23" y2="862.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="784.83" x2="1425.23" y2="784.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="706.83" x2="1425.23" y2="706.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="628.83" x2="1425.23" y2="628.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="550.83" x2="1425.23" y2="550.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="472.83" x2="1425.23" y2="472.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="394.83" x2="1425.23" y2="394.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="316.83" x2="1425.23" y2="316.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="238.83" x2="1425.23" y2="238.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="160.83" x2="1425.23" y2="160.83" fill="none" stroke="#d9d9d9"/>
+        <line x1="385.23" y1="82.83" x2="1425.23" y2="82.83" fill="none" stroke="#d9d9d9"/>
+      </g>
+    </g>
+    <g id="reference-axis-xAxis">
+      <path id="axisLine-xAxis" d="M385.23,870.63v-7.8h1040v7.8" fill="none" stroke="#333"/>
+      <g id="axisTicks-xAxis">
+        <g>
+          <line x1="385.23" y1="862.83" x2="385.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(381.61 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+        </g>
+        <g>
+          <line x1="489.23" y1="862.83" x2="489.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(485.61 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g>
+          <line x1="593.23" y1="862.83" x2="593.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(589.61 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g>
+          <line x1="697.23" y1="862.83" x2="697.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(693.61 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">6</tspan></text>
+        </g>
+        <g>
+          <line x1="801.23" y1="862.83" x2="801.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(797.61 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">8</tspan></text>
+        </g>
+        <g>
+          <line x1="905.23" y1="862.83" x2="905.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(898 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+        </g>
+        <g>
+          <line x1="1009.23" y1="862.83" x2="1009.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(1002 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">12</tspan></text>
+        </g>
+        <g>
+          <line x1="1113.23" y1="862.83" x2="1113.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(1106 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">14</tspan></text>
+        </g>
+        <g>
+          <line x1="1217.23" y1="862.83" x2="1217.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(1210 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">16</tspan></text>
+        </g>
+        <g>
+          <line x1="1321.23" y1="862.83" x2="1321.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(1314 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">18</tspan></text>
+        </g>
+        <g>
+          <line x1="1425.23" y1="862.83" x2="1425.23" y2="870.63" fill="none" stroke="#333"/>
+          <text transform="translate(1418 883.76)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">20</tspan></text>
+        </g>
+      </g>
+      <g id="axis-title-xAxis">
+        <text transform="translate(608.69 918.33)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)</tspan></text>
+      </g>
+    </g>
+    <g id="reference-axis-yAxis">
+      <path id="axisLine-yAxis" d="M377.43,862.83h7.8V82.83h-7.8" fill="none" stroke="#333"/>
+      <g id="axisTicks-yAxis">
+        <g>
+          <line x1="385.23" y1="862.83" x2="377.43" y2="862.83" fill="none" stroke="#333"/>
+          <text transform="translate(366.3 866.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="784.83" x2="377.43" y2="784.83" fill="none" stroke="#333"/>
+          <text transform="translate(366.3 788.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="706.83" x2="377.43" y2="706.83" fill="none" stroke="#333"/>
+          <text transform="translate(366.3 710.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="628.83" x2="377.43" y2="628.83" fill="none" stroke="#333"/>
+          <text transform="translate(366.3 632.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">6</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="550.83" x2="377.43" y2="550.83" fill="none" stroke="#333"/>
+          <text transform="translate(366.3 554.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">8</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="472.83" x2="377.43" y2="472.83" fill="none" stroke="#333"/>
+          <text transform="translate(359.07 476.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="394.83" x2="377.43" y2="394.83" fill="none" stroke="#333"/>
+          <text transform="translate(359.07 398.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">12</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="316.83" x2="377.43" y2="316.83" fill="none" stroke="#333"/>
+          <text transform="translate(359.07 320.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">14</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="238.83" x2="377.43" y2="238.83" fill="none" stroke="#333"/>
+          <text transform="translate(359.07 242.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">16</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="160.83" x2="377.43" y2="160.83" fill="none" stroke="#333"/>
+          <text transform="translate(359.07 164.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">18</tspan></text>
+        </g>
+        <g>
+          <line x1="385.23" y1="82.83" x2="377.43" y2="82.83" fill="none" stroke="#333"/>
+          <text transform="translate(359.07 86.99)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">20</tspan></text>
+        </g>
+      </g>
+      <g id="axis-title-yAxis">
+        <text transform="translate(336.23 743.72) rotate(-90)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)</tspan></text>
+      </g>
+    </g>
+    <g clip-path="url(#clippath)">
+      <g id="data-points">
+        <circle cx="1061.23" cy="446.86" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="1300.43" cy="317.86" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="1134.03" cy="472.15" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="926.03" cy="586.87" r="7.8" fill="#a37" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="1149.63" cy="515.87" r="7.8" fill="#a37" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="1030.03" cy="508.56" r="7.8" fill="#a37" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="780.43" cy="194.87" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="718.03" cy="662.5" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="972.83" cy="641.74" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+        <circle cx="780.43" cy="447.62" r="7.8" fill="#283" isolation="isolate" opacity=".7" stroke="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="legend-container">
+    <g id="color-legend-container">
+      <g id="legend-color-title" isolation="isolate">
+        <text transform="translate(1448.23 101.03)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">STUDENT ENROLLED</tspan></text>
+        <text transform="translate(1448.23 121.96)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">IN COLLEGE AFTER</tspan></text>
+        <text transform="translate(1448.23 142.89)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700"><tspan x="0" y="0">GRADUATION</tspan></text>
+      </g>
+      <g>
+        <g id="legend-color-item-No">
+          <rect x="1448.23" y="180.3" width="20.8" height="20.8" fill="#283"/>
+          <g isolation="isolate">
+            <text transform="translate(1485.53 196.94)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">No</tspan></text>
+          </g>
+        </g>
+        <g id="legend-color-item-Yes">
+          <rect x="1448.23" y="231.5" width="20.8" height="20.8" fill="#a37"/>
+          <g isolation="isolate">
+            <text transform="translate(1485.53 248.14)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Yes</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

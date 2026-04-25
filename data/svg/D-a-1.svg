@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="legend">
+    <g id="legend-item-1">
+      <g>
+        <rect x="1474.16" y="122.54" width="63.06" height="28.77" fill="#fff"/>
+        <text transform="translate(1479.94 142.96)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 1</tspan></text>
+      </g>
+      <line x1="1386.31" y1="136.93" x2="1451.37" y2="136.93" fill="none" isolation="isolate" opacity=".9" stroke="#c67" stroke-width="2"/>
+      <rect x="1377.96" y="127.39" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-2">
+      <g>
+        <rect x="1474.16" y="171.42" width="63.06" height="28.77" fill="#fff"/>
+        <text transform="translate(1479.94 191.84)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 2</tspan></text>
+      </g>
+      <line x1="1386.31" y1="185.8" x2="1451.37" y2="185.8" fill="none" isolation="isolate" opacity=".9" stroke="#993" stroke-width="2"/>
+      <rect x="1377.96" y="176.27" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-3">
+      <g>
+        <rect x="1474.16" y="220.29" width="68.54" height="28.77" fill="#fff"/>
+        <text transform="translate(1479.94 240.71)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 3</tspan></text>
+      </g>
+      <line x1="1386.31" y1="234.68" x2="1451.37" y2="234.68" fill="none" stroke="#d86830" stroke-width="2"/>
+      <rect x="1377.96" y="225.14" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-3-2" data-name="legend-item-3">
+      <g>
+        <rect x="1474.16" y="269.17" width="68.54" height="28.77" fill="#fff"/>
+        <text transform="translate(1479.94 289.59)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 4</tspan></text>
+      </g>
+      <line x1="1386.31" y1="283.56" x2="1451.37" y2="283.56" fill="none" stroke="#a49" stroke-width="2"/>
+      <rect x="1377.96" y="274.02" width="81.76" height="19.49" fill="none"/>
+    </g>
+  </g>
+  <g id="lines-paths">
+    <g id="line-1">
+      <g isolation="isolate" opacity=".9">
+        <path d="M437.88,624.65l53.51,54.31c1.93,1.96,5.76,3.56,8.51,3.56h589.43c2.75,0,6.64-1.54,8.65-3.42l38.56-36.1c2.01-1.88,3.65-5.67,3.65-8.42v-136.82c0-2.75,1.4-6.76,3.12-8.91l46.51-58.19c1.72-2.15,3.12-6.16,3.12-8.91v-59.63" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M437.88,624.65l53.51,54.31c1.93,1.96,5.76,3.56,8.51,3.56h589.43c2.75,0,6.64-1.54,8.65-3.42l38.56-36.1c2.01-1.88,3.65-5.67,3.65-8.42v-136.82c0-2.75,1.4-6.76,3.12-8.91l46.51-58.19c1.72-2.15,3.12-6.16,3.12-8.91v-59.63" fill="none" stroke="#c67" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-3">
+      <g isolation="isolate">
+        <path d="M494.9,748.08v-60.55c0-2.75,1.86-6.26,4.14-7.8l165.7-112.24c2.28-1.54,6.04-4.02,8.35-5.5l150.02-95.84c2.32-1.48,6.14-3.85,8.5-5.27l93.3-56.26c2.35-1.42,4.28-4.83,4.28-7.58v-40.42c0-2.75,1.58-6.6,3.52-8.55l90.1-90.97c1.94-1.95,3.52-5.8,3.52-8.55" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M494.9,748.08v-60.55c0-2.75,1.86-6.26,4.14-7.8l165.7-112.24c2.28-1.54,6.04-4.02,8.35-5.5l150.02-95.84c2.32-1.48,6.14-3.85,8.5-5.27l93.3-56.26c2.35-1.42,4.28-4.83,4.28-7.58v-40.42c0-2.75,1.58-6.6,3.52-8.55l90.1-90.97c1.94-1.95,3.52-5.8,3.52-8.55" fill="none" stroke="#993" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-4">
+      <g isolation="isolate">
+        <path d="M818.68,306.52c0,2.75,2.25,5,5,5h58.3c2.75,0,5,2.25,5,5v47.68c0,2.75,1.78,6.38,3.95,8.07l34.31,26.68c2.17,1.69,5.68,4.5,7.81,6.25l62.36,51.39c2.12,1.75,6.11,3.18,8.86,3.18h67.62c2.75,0,7,1.04,9.43,2.31l54.43,28.38c2.44,1.27,6.68,2.31,9.43,2.31h117.5" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M818.68,306.52c0,2.75,2.25,5,5,5h58.3c2.75,0,5,2.25,5,5v47.68c0,2.75,1.78,6.38,3.95,8.07l34.31,26.68c2.17,1.69,5.68,4.5,7.81,6.25l62.36,51.39c2.12,1.75,6.11,3.18,8.86,3.18h67.62c2.75,0,7,1.04,9.43,2.31l54.43,28.38c2.44,1.27,6.68,2.31,9.43,2.31h117.5" fill="none" stroke="#a49" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-2">
+      <g isolation="isolate">
+        <path d="M578.64,404.5c2.39-1.37,6.59-2.49,9.34-2.49h533.01c2.75,0,6.59,1.59,8.54,3.54l17.68,17.68c1.94,1.94,5.79,3.54,8.54,3.54h32.2c2.75,0,6.91-1.19,9.24-2.65l48.51-30.35" fill="none" stroke="#fff" stroke-width="5"/>
+        <path d="M578.64,404.5c2.39-1.37,6.59-2.49,9.34-2.49h533.01c2.75,0,6.59,1.59,8.54,3.54l17.68,17.68c1.94,1.94,5.79,3.54,8.54,3.54h32.2c2.75,0,6.91-1.19,9.24-2.65l48.51-30.35" fill="none" stroke="#d86830" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+  <g id="all-stars">
+    <g id="achernar">
+      <circle id="circle-achernar" cx="1140.19" cy="639.59" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-achernar">
+        <rect id="label-background-achernar" x="1144.69" y="619.51" width="39.31" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1147.19 633.34)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Ciryne</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="adhara">
+      <circle id="circle-adhara" cx="623.24" cy="682.52" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-adhara">
+        <rect id="label-background-adhara" x="627.74" y="662.44" width="40.58" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(630.24 676.27)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Kelune</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="alpha-centauri">
+      <circle id="circle-alpha-centauri" cx="997.08" cy="459.77" r="5.01" fill="#a49" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-alpha-centauri">
+        <rect id="label-background-alpha-centauri" x="958.77" y="464.33" width="40.8" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(963.19 478.16)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Varion</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="arcturus">
+      <circle id="circle-arcturus" cx="1192.94" cy="362.12" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-arcturus">
+        <rect id="label-background-arcturus" x="1200.44" y="352.21" width="40.24" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1202.94 366.04)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Mareth</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="canopus">
+      <circle id="circle-canopus" cx="865.16" cy="682.52" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-canopus">
+        <rect id="label-background-canopus" x="870.16" y="662.44" width="29.13" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(872.66 676.27)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Velis</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="castor">
+      <circle id="circle-castor" cx="582.97" cy="402.02" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-castor">
+        <rect id="label-background-castor" x="540.77" y="377.53" width="46.22" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(544.12 391.36)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Delvar</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="delta-pavonis">
+      <circle id="circle-delta-pavonis" cx="1140.19" cy="492.77" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-delta-pavonis">
+        <rect id="label-background-delta-pavonis" x="1144.69" y="497.78" width="40.84" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1147.19 511.62)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Nareth</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1140.19" y1="495.27" x2="1140.19" y2="490.27" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1140.19" y1="495.27" x2="1140.19" y2="490.27" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1140.19" y1="495.27" x2="1140.19" y2="490.27" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="gliese-581">
+      <circle id="circle-gliese-581" cx="1150.74" cy="426.77" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-gliese-581">
+        <rect id="label-background-gliese-581" x="1111.07" y="429.19" width="39.67" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1114.11 443.02)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Orsian</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="gliese-667c">
+      <circle id="circle-gliese-667c" cx="1192.94" cy="426.77" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-gliese-667c">
+        <rect id="label-background-gliese-667c" x="1200.44" y="426.33" width="38.82" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1202.94 440.16)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Kelyth</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1192.94" y1="426.33" x2="1192.94" y2="421.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1192.94" y1="426.33" x2="1192.94" y2="421.33" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1192.94" y1="426.33" x2="1192.94" y2="421.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="groombridge-34">
+      <circle id="circle-groombridge-34" cx="818.68" cy="311.27" r="5.01" fill="#a49" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-groombridge-34">
+        <rect id="label-background-groombridge-34" x="772.67" y="286.19" width="46.01" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(780.08 300.03)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Tarvos</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="lalande-21185">
+      <circle id="circle-lalande-21185" cx="823.69" cy="402.02" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-lalande-21185">
+        <rect id="label-background-lalande-21185" x="799.75" y="378.19" width="44.5" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(804.49 392.02)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Caelos</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="miaplacidus">
+      <circle id="circle-miaplacidus" cx="1051.39" cy="682.52" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-miaplacidus">
+        <rect id="label-background-miaplacidus" x="1000.62" y="684.94" width="49.27" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1004.06 698.77)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Corvane</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="mirzam">
+      <circle id="circle-mirzam" cx="494.9" cy="682.52" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-mirzam">
+        <rect id="label-background-mirzam" x="439.28" y="672.36" width="50.61" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(441.77 686.19)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Thyssar</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="494.9" y1="684.53" x2="494.9" y2="679.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="494.9" y1="684.53" x2="494.9" y2="679.53" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="494.9" y1="684.53" x2="494.9" y2="679.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="pollux">
+      <circle id="circle-pollux" cx="623.24" cy="402.02" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-pollux">
+        <rect id="label-background-pollux" x="604.82" y="377.53" width="36.19" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(607.32 391.37)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Tirros</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="regulus">
+      <circle id="circle-regulus" cx="668.32" cy="565.15" r="5.01" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-regulus">
+        <rect id="label-background-regulus" x="671.52" y="569.05" width="36.21" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(674.02 582.89)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Daryn</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ross-154">
+      <circle id="circle-ross-154" cx="1087.44" cy="402.02" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-ross-154">
+        <rect id="label-background-ross-154" x="1061.98" y="377.05" width="50.91" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1064 390.88)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Nerath</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ross-248">
+      <circle id="circle-ross-248" cx="886.99" cy="311.27" r="5.01" fill="#a49" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-ross-248">
+        <rect id="label-background-ross-248" x="886.99" y="287.44" width="46.78" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(890.42 301.27)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Eryndor</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="saiph">
+      <circle id="circle-saiph" cx="437.88" cy="624.65" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-saiph">
+        <rect id="label-background-saiph" x="420.27" y="599.67" width="42.87" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(422.76 613.5)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Volmar</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="sirius">
+      <circle id="circle-sirius" cx="827.32" cy="463.45" r="5" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-sirius">
+        <rect id="label-background-sirius" x="776.3" y="443.02" width="51" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(779.43 456.86)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Cendara</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="sol">
+      <g>
+        <line x1="926.39" y1="401.87" x2="930.77" y2="399.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="926.39" y1="401.87" x2="930.77" y2="399.46" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="926.39" y1="401.87" x2="930.77" y2="399.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+      <g id="label-sol">
+        <rect id="label-background-sol" x="913.64" y="408.7" width="27.41" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(914.44 422.54)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Arun</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="tau-bootis">
+      <circle id="circle-tau-bootis" cx="1245.69" cy="393.77" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-tau-bootis">
+        <rect id="label-background-tau-bootis" x="1250.19" y="373.69" width="44.11" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1252.69 387.52)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Lunaris</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="vega">
+      <circle id="circle-vega" cx="1026.65" cy="253.52" r="5.01" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-vega">
+        <rect id="label-background-vega" x="1031.15" y="233.44" width="34.14" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1033.65 247.27)" font-family="ArialMT, Arial" font-size="11" isolation="isolate"><tspan x="0" y="0">Belaris</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="wezen">
+      <circle id="circle-wezen" cx="494.9" cy="748.08" r="5.01" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-wezen">
+        <rect id="label-background-wezen" x="499.4" y="727.99" width="41.43" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(501.89 741.83)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">W</tspan></text>
+          <text transform="translate(512.07 741.83)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">ezen</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="mu-arae">
+      <circle id="circle-mu-arae" cx="1267.69" cy="492.77" r="5.01" fill="#a49" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-mu-arae">
+        <rect id="label-background-mu-arae" x="1244.26" y="466.95" width="47.21" height="20.33" fill="#fff" isolation="isolate"/>
+        <g isolation="isolate">
+          <text transform="translate(1246.76 480.78)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Vaelun</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1118 @@
+{
+  "Aa1": {
+    "channel": "area",
+    "idiom": "geomap",
+    "context": [
+      "You are playing your favorite video game: \u201cTales of the dragons\u201d, following your character\u2019s journey as they uncover new territory.",
+      "On the next screen, you will see a map showing the areas you have already explored early in the adventure. Unmarked, brighter areas remain unexplored."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "The <strong>Silverdale{{p2-teal}}</strong> area",
+          "(in the MANSFIELD region)",
+          "is <strong>larger</strong> than",
+          "the <strong>Woodridge{{p2-blue}}</strong> area",
+          "(in the STORMHAVEN region).",
+          "How much larger?"
+        ],
+        "answer_example": "About <strong>N</strong> times larger",
+        "answer_prefix": "About ",
+        "answer_suffix": " times larger",
+        "true_value": 4.08,
+        "correct_range": [
+          3.5,
+          4.5
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Together, the <strong>SILVERBROOK{{p2-orange}}</strong>",
+          "and the <strong>MANSFIELD{{p2-teal}}</strong> regions",
+          "represent <strong>more than half</strong> the area of the whole map.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / Exactly half",
+        "threshold": {
+          "value": 0.5,
+          "type": "above"
+        },
+        "true_value": 0.575,
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": true
+          },
+          "a2": {
+            "text": "No",
+            "correct": false
+          },
+          "a3": {
+            "text": "They represent exactly half the area of the whole map",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Aa2": {
+    "channel": "area",
+    "idiom": "geomap",
+    "context": [
+      "You are playing your favorite video game: \u201cTales of the dragons\u201d, following your character\u2019s journey as they uncover new territory.",
+      "On the next screen, you will see a map showing the areas you have already explored early in the adventure. Unmarked, brighter areas remain unexplored."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "The subregion named <strong>Northgate{{p1-purple}}</strong>",
+          "(in the SILVERBROOK region)",
+          "is <strong>larger</strong> than",
+          "the subregion named <strong>Pine Valley{{p1-yellow}}</strong>",
+          "(in the CEDARLAND region).",
+          "How much larger?"
+        ],
+        "answer_example": "About <strong>N</strong> times larger",
+        "answer_prefix": "About ",
+        "answer_suffix": " times larger",
+        "true_value": 2.212,
+        "correct_range": [
+          1.5,
+          2.5
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Together, the <strong>CEDARLAND{{p1-yellow}}</strong> full region",
+          "and the <strong>IRONCLIFF{{p1-blue}}</strong> full region",
+          "represent <strong>less than a quarter (1/4)</strong> of the area of the whole map.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / Exactly a quarter",
+        "true_value": 0.345,
+        "threshold": {
+          "value": 0.25,
+          "type": "below"
+        },
+        "options": {
+          "a1": {
+            "text": "No",
+            "correct": true
+          },
+          "a2": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a3": {
+            "text": "They represent exactly a quarter (1/4) the area of the whole map",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Ab1": {
+    "channel": "area",
+    "idiom": "treemap",
+    "context": [
+      "In the strategy video game \u201cShattered Realms\u201d, five armies converge once again for an epic battle.",
+      "Each army is composed of warriors from two regions, and your mission is to assess their troop strength before the battle.",
+      "On the next screen, you will see a chart in which each rectangle represents the number of soldiers from each area."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "The subregion named <strong>Thornfield</strong>",
+          "(from the <span>STONEFELL{{p2-pink}}</span> army)",
+          "sent <strong>more</strong> soldiers",
+          "than the subregion named <strong>Greenridge</strong>",
+          "(from the <span>FROSTVALE{{p2-orange}}</span> army).",
+          "How much more?"
+        ],
+        "answer_example": "About <strong>N</strong> times more",
+        "answer_prefix": "About ",
+        "answer_suffix": " times more",
+        "true_value": 4.333,
+        "correct_range": [
+          4.0,
+          5.0
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "If the <strong>HIGHMOOR{{p2-yellow}}</strong> and the <span>STONEFELL{{p2-pink}}</span> full armies join their forces,",
+          "they will have <strong>more</strong> soldiers than all other three armies combined.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 0.371,
+        "threshold": {
+          "value": 0.5,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "They will have the same number of soldiers as the other three armies combined",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Ab2": {
+    "channel": "area",
+    "idiom": "treemap",
+    "context": [
+      "In the strategy video game \u201cShattered Realms\u201d, five armies converge once again for an epic battle.",
+      "Each army is composed of warriors from many different regions and subregions, and your mission is to assess their troop strength before the battle.",
+      "On the next screen, you will see a chart in which each rectangle shows how many soldiers come from each area."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "The subregion named <strong>Glenwood</strong>",
+          "(from the <span>SUNHAVEN{{p1-yellow}}</span> army)",
+          "sent <strong>more</strong> soldiers than",
+          "the subregion named <strong>Windvale</strong>",
+          "(from the <span>HIGHMOOR{{p1-blue}}</span> army).",
+          "How much more?"
+        ],
+        "answer_example": "About <strong>N</strong> times more",
+        "answer_prefix": "About ",
+        "answer_suffix": " times more",
+        "true_value": 3.1,
+        "correct_range": [
+          2.5,
+          3.5
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "If the <strong>RAVENLAND{{p1-lightblue}}</strong> and the",
+          "<strong>SUNHAVEN{{p1-yellow}}</strong> full armies join their forces,",
+          " they will have <strong>more</strong> soldiers",
+          "than all other three armies combined.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 0.396,
+        "threshold": {
+          "value": 0.5,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "They will have about the same number of soldiers",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Ba1": {
+    "channel": "position",
+    "idiom": "lollipop",
+    "context": [
+      "On the next screen, you will see a graph showing nutritional values from a selection of items on our restaurant\u2019s menu."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "What is the <strong>highest fat</strong> content value (in g / 100 g) among all items?"
+        ],
+        "answer_example": [
+          "Approximately <strong>N</strong>",
+          "(open-ended text field)"
+        ],
+        "answer_prefix": "Approximately ",
+        "answer_suffix": "",
+        "true_value": 10.3,
+        "correct_range": [
+          10.0,
+          11.0
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "On average, our <strong>dishes{{p1-green}}</strong>",
+          "have a <strong>higher protein</strong> content value (in g / 100g)",
+          "than our <strong>sandwiches{{p1-purple}}<strong/>.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 0.734,
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "They have the same average protein content (in g / 100g)",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Ba2": {
+    "channel": "position",
+    "idiom": "lollipop",
+    "context": [
+      "On the next screen, you will see a graph showing nutritional values from a selection of items on our restaurant\u2019s menu."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "What is the <strong>lowest carbohydrate</strong> content value (in g / 100g) among all items?"
+        ],
+        "answer_example": [
+          "Approximately <strong>N</strong>",
+          "(open-ended text field)"
+        ],
+        "answer_prefix": "Approximately ",
+        "answer_suffix": "",
+        "true_value": 8.39,
+        "correct_range": [
+          8.0,
+          8.6
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "On average, our <strong>dishes{{p2-orange}}</strong>",
+          "have a <strong>higher fat</strong> content value (in g / 100g)",
+          " than our <strong>sandwiches{{p2-blue}}</strong>.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 0.75,
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "They have the same average fat content (in g / 100g)",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Bb1": {
+    "channel": "position",
+    "idiom": "scatterplot",
+    "context": [
+      "On the next screen, you will see a graph showing information about students from one class in your hometown high school who graduated in 2022.",
+      "It shows the math scores of students at the beginning and end of highschool, as well as their college enrollment status."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "What was the <strong>highest</strong> math score among all the students of this class",
+          "at the <strong>beginning</strong> of highschool?"
+        ],
+        "answer_example": [
+          "Approximately <strong>N</strong>",
+          "(open-ended text field)"
+        ],
+        "answer_prefix": "Approximately ",
+        "answer_suffix": "",
+        "true_value": 17.6,
+        "correct_range": [
+          17.0,
+          18.0
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "On average, students from this class who <strong>enrolled{{p1-purple}}</strong> in college after graduating",
+          "tended to have <strong>higher math scores at the end</strong> of highschool",
+          "than students who <strong>didn\u2019t enroll{{p1-green}}</strong>.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 0.798,
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "Both groups of students had the same average math score at the end of highschool",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Bb2": {
+    "channel": "position",
+    "idiom": "scatterplot",
+    "context": [
+      "On the next screen, you will see a graph showing information about the students who graduated from your hometown high school in 2022.",
+      "It shows the math scores of students at the beginning and end of highschool, as well as their college enrollment status."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "What was the <strong>lowest</strong> math score among all the students",
+          "at the <strong>end</strong> of highschool?"
+        ],
+        "answer_example": [
+          "Approximately <strong>N</strong>",
+          "(open-ended text field)"
+        ],
+        "answer_prefix": "Approximately ",
+        "answer_suffix": "",
+        "true_value": 1.854,
+        "correct_range": [
+          1.5,
+          2.0
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "On average, students who <strong>enrolled{{p2-orange}}</strong> in college after graduating",
+          "tended to have <strong>higher math scores at the beginning</strong> of highschool",
+          "than students who <strong>didn\u2019t enroll{{p1-blue}}</strong>.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 0.844,
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "Both groups of students had the same average math score at the beginning of highschool",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Ca1": {
+    "channel": "color",
+    "idiom": "densitymap",
+    "context": [
+      "You are running an environmental simulation of a fictional country.",
+      "You want to evaluate environmental risks across its regions.",
+      "On the next screen, you will see a map showing flood-risk indices for different areas."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "What is the lowest flood risk index in the Mumat region?"
+        ],
+        "answer_example": "<strong>N</strong> (number)",
+        "true_value": 3,
+        "correct_range": [
+          3
+        ],
+        "bins_range": [
+          1,
+          7
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Overall, the <strong>Samor</strong> region",
+          "has a <strong>lower</strong> floodrisk index",
+          "than the <strong>Dekam</strong> region.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are exactly the same",
+        "threshold": {
+          "value": 1,
+          "type": "below"
+        },
+        "true_value": 1.15,
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "Overall, both regions have exactly the same flood risk index",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Ca2": {
+    "channel": "color",
+    "idiom": "densitymap",
+    "context": [
+      "You are running an environmental simulation of a fictional country.",
+      "You want to evaluate environmental risks across its regions.",
+      "On the next screen, you will see a map showing air-pollution levels for different areas."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "open",
+        "question": [
+          "What is the <strong>highest</strong> air pollution level",
+          "in the <strong>Genok</strong> region?"
+        ],
+        "answer_example": "<strong>N</strong> (number)",
+        "true_value": 6,
+        "correct_range": [
+          6
+        ],
+        "bins_range": [
+          1,
+          12
+        ]
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Overall, the <strong>Ziko</strong> region",
+          "has <strong>lower</strong> air pollution levels",
+          "than the <strong>Mona</strong> region.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are exactly the same",
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "true_value": 1.11,
+        "data_note": "Ziko average is 9.78, Mona average is 8.81",
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": true
+          },
+          "a2": {
+            "text": "No",
+            "correct": false
+          },
+          "a3": {
+            "text": "Overall, both regions have exactly the same air pollution levels",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Cb1": {
+    "channel": "color",
+    "idiom": "heatmap",
+    "context": [
+      "You are running a weather simulation for a fictional city.",
+      "You want to see how seasonal changes are reflected in your simulation.",
+      "On the next screen, you will see a chart showing humidity levels for each day during June, July, and August."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "mcq",
+        "question": [
+          "What was the humidity observed on Aug 20th?"
+        ],
+        "answer_example": "Somewhere in the range of <strong>X to Y</strong>",
+        "answer_prefix": "Somewhere in the range of ",
+        "answer_suffix": "",
+        "options": {
+          "a1": {
+            "text": "0% to 15 %",
+            "correct": false,
+            "bin_value": 0.075
+          },
+          "a2": {
+            "text": "15% to 30%",
+            "correct": false,
+            "bin_value": 0.225
+          },
+          "a3": {
+            "text": "30% to 45%",
+            "correct": true,
+            "bin_value": 0.375
+          },
+          "a4": {
+            "text": "45% to 60%",
+            "correct": false,
+            "bin_value": 0.525
+          },
+          "a5": {
+            "text": "60% to 75%",
+            "correct": false,
+            "bin_value": 0.675
+          },
+          "a6": {
+            "text": "75% to 90%",
+            "correct": false,
+            "bin_value": 0.825
+          },
+          "a7": {
+            "text": "90% to 100%",
+            "correct": false,
+            "bin_value": 0.975
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Overall, the humidity was <strong>lower</strong> in June than in July.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They were the same",
+        "true_value": 1.17,
+        "data_note": "June mean is 55.33, July mean is 47.34",
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "Overall the humidity was exactly the same in June and July",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Cb2": {
+    "channel": "color",
+    "idiom": "heatmap",
+    "context": [
+      "You are running a weather simulation for a fictional city.",
+      "You want to see how seasonal changes are reflected in your simulation.",
+      "On the next screen, you will see a chart showing how many hours of sun your city received each day of the year."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "mcq",
+        "question": [
+          "What was the sun exposure duration observed on June 3rd?"
+        ],
+        "answer_example": "Somewhere in the range of <strong>X to Y</strong>",
+        "answer_prefix": "Somewhere in the range of ",
+        "answer_suffix": "",
+        "options": {
+          "a1": {
+            "text": "0 to 1 hour",
+            "correct": false,
+            "bin_value": 0.5
+          },
+          "a2": {
+            "text": "1 to 2 hours",
+            "correct": false,
+            "bin_value": 1.5
+          },
+          "a3": {
+            "text": "2 to 3 hours",
+            "correct": false,
+            "bin_value": 2.5
+          },
+          "a4": {
+            "text": "3 to 4 hours",
+            "correct": false,
+            "bin_value": 3.5
+          },
+          "a5": {
+            "text": "4 to 5 hours",
+            "correct": false,
+            "bin_value": 4.5
+          },
+          "a6": {
+            "text": "5 to 6 hours",
+            "correct": false,
+            "bin_value": 5.5
+          },
+          "a7": {
+            "text": "6 to 7 hours",
+            "correct": false,
+            "bin_value": 6.5
+          },
+          "a8": {
+            "text": "7 to 8 hours",
+            "correct": true,
+            "bin_value": 7.5
+          },
+          "a9": {
+            "text": "8 to 9 hours",
+            "correct": false,
+            "bin_value": 8.5
+          },
+          "a10": {
+            "text": "9 to 10 hours",
+            "correct": false,
+            "bin_value": 9.5
+          },
+          "a11": {
+            "text": "10 to 11 hours",
+            "correct": false,
+            "bin_value": 10.5
+          },
+          "a12": {
+            "text": "11 to 12 hours",
+            "correct": false,
+            "bin_value": 11.5
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Overall, the sun exposure was <strong>higher</strong>",
+          "during <strong>spring</strong> (March, April, May)",
+          "than during <strong>autumn</strong> (September, October, November).",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / They are the same",
+        "true_value": 1.29,
+        "data_note": "Spring's mean is 7.05, Autumn's mean is 5.48",
+        "threshold": {
+          "value": 1,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": true
+          },
+          "a2": {
+            "text": "No",
+            "correct": false
+          },
+          "a3": {
+            "text": "Overall the sun exposure was exactly the same in spring and autumn",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Da1": {
+    "channel": "links",
+    "idiom": "metromap",
+    "context": [
+      "You are playing a space-exploration video game.",
+      "Your mission is to transport goods between distant worlds.",
+      "On the next screen, you will see a transportation map showing the star-system routes in this fictional universe."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "mcq",
+        "question": [
+          "<strong>Wezen</strong> and <strong>Kelune</strong> are direct neighbours on a line.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / Not on the map",
+        "true_value": 0,
+        "threshold": {
+          "value": 0.5,
+          "type": "below"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "At least one of these stars is not shown on the map",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Which star is connected to the most lines :",
+          "<strong>Arun</strong> or <strong>Thyssar</strong>?"
+        ],
+        "answer_example": "Arun / Thyssar / They are the same / Not on the map",
+        "true_value": 1,
+        "options": {
+          "a1": {
+            "text": "Arun",
+            "correct": true
+          },
+          "a2": {
+            "text": "Thyssar",
+            "correct": false
+          },
+          "a3": {
+            "text": "They are the same",
+            "correct": false
+          },
+          "a4": {
+            "text": "At least one of these stars is not shown on the map",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Da2": {
+    "channel": "links",
+    "idiom": "metromap",
+    "context": [
+      "You are playing a space-exploration video game.",
+      "Your mission is to transport goods between distant worlds.",
+      "On the next screen, you will see a transportation map showing the star-system routes in this fictional universe."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "mcq",
+        "question": [
+          "<strong>Tarvos</strong> and <strong>Avenor</strong> are direct neighbours on a line.",
+          "Yes or no?"
+        ],
+        "answer_example": "No / Yes / Not on the map",
+        "true_value": 1,
+        "threshold": {
+          "value": 0.5,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": true
+          },
+          "a2": {
+            "text": "No",
+            "correct": false
+          },
+          "a3": {
+            "text": "At least one of these stars is not shown on the map",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Which star is connected to the most lines :",
+          "<strong>Tirix</strong> or <strong>Cendara</strong>?"
+        ],
+        "answer_example": "Tirix / Cendara / They are the same / Not on the map",
+        "true_value": 1,
+        "options": {
+          "a1": {
+            "text": "Tirix",
+            "correct": false
+          },
+          "a2": {
+            "text": "Cendara",
+            "correct": true
+          },
+          "a3": {
+            "text": "They are the same",
+            "correct": false
+          },
+          "a4": {
+            "text": "At least one of these stars is not shown on the map",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Db1": {
+    "channel": "links",
+    "idiom": "knowledgegraph",
+    "context": [
+      "You are exploring an alien ecosystem in a video game.",
+      "Your mission is to catalog the species you encounter.",
+      "On the next screen, you will see a diagram showing the relationships between the creatures and plants you have discovered so far."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "mcq",
+        "question": [
+          "<strong>Gloms</strong> are a type of <strong>plant</strong>.",
+          "Yes or no?"
+        ],
+        "answer_example": "Yes / No / Not on the diagram",
+        "true_value": 1,
+        "threshold": {
+          "value": 0.5,
+          "type": "above"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": true
+          },
+          "a2": {
+            "text": "No",
+            "correct": false
+          },
+          "a3": {
+            "text": "They do not appear on the diagram",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Are there <strong>more plants</strong>",
+          "or <strong>more creatures</strong> on the diagram?"
+        ],
+        "answer_example": "More plants / More creatures / Same number of each / Not on the diagram",
+        "true_value": 0,
+        "options": {
+          "a1": {
+            "text": "More plants",
+            "correct": false
+          },
+          "a2": {
+            "text": "More creatures",
+            "correct": false
+          },
+          "a3": {
+            "text": "There is the same number of each",
+            "correct": true
+          },
+          "a4": {
+            "text": "At least one of these categories is not shown on the diagram",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  },
+  "Db2": {
+    "channel": "links",
+    "idiom": "knowledgegraph",
+    "context": [
+      "You are exploring an alien ecosystem in a video game.",
+      "Your mission is to catalog the species you encounter.",
+      "On the next screen, you will see a diagram showing the relationships between the creatures, plants, and habitats you have discovered so far."
+    ],
+    "tasks": {
+      "t1": {
+        "type": "mcq",
+        "question": [
+          "<strong>Snargs</strong> are a type of <strong>plant</strong>.",
+          "Yes or no?"
+        ],
+        "answer_example": "Yes / No / Not on the diagram",
+        "true_value": 0,
+        "threshold": {
+          "value": 0.5,
+          "type": "below"
+        },
+        "options": {
+          "a1": {
+            "text": "Yes",
+            "correct": false
+          },
+          "a2": {
+            "text": "No",
+            "correct": true
+          },
+          "a3": {
+            "text": "They do not appear on the diagram",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      },
+      "t2": {
+        "type": "mcq",
+        "question": [
+          "Were <strong>more species</strong> (plants and creatures)",
+          "observed in the <strong>Forest</strong> habitat",
+          "or in the <strong>Riverside</strong> habitat?"
+        ],
+        "answer_example": "More in the forest / More in the riverside / Same number of each / Not on the diagram",
+        "true_value": 1,
+        "options": {
+          "a1": {
+            "text": "More in the forest habitat",
+            "correct": true
+          },
+          "a2": {
+            "text": "More in the riverside habitat",
+            "correct": false
+          },
+          "a3": {
+            "text": "There is the same number of each",
+            "correct": false
+          },
+          "a4": {
+            "text": "At least one of these habitats is not shown on the diagram",
+            "correct": false
+          },
+          "na": {
+            "text": "I have no idea (please elaborate):",
+            "correct": false
+          }
+        }
+      }
+    }
+  }
+}

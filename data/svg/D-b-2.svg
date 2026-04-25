@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="data-container">
+    <g id="links">
+      <g id="link_eats_Blorp-Orbi_Fern" data-name="link_eats_Blorp-Orbi Fern">
+        <g>
+          <line x1="579.65" y1="602.91" x2="660.12" y2="450.19" fill="none" stroke="#283" stroke-width="1.23"/>
+          <polygon points="664.17 442.51 662.89 455.66 659.82 450.76 654.04 451 664.17 442.51" fill="#283"/>
+        </g>
+      </g>
+      <g id="link_poisons_Truz-Druma_Pod" data-name="link_poisons_Truz-Druma Pod">
+        <g>
+          <line x1="776.21" y1="221.15" x2="1163.58" y2="660.65" fill="none" stroke="#cb4" stroke-width="1.23"/>
+          <polygon points="770.46 214.64 774.81 227.12 776.64 221.64 782.31 220.51 770.46 214.64" fill="#cb4"/>
+        </g>
+      </g>
+      <g id="link_eats_Elgok-Orbi_Fern" data-name="link_eats_Elgok-Orbi Fern">
+        <g>
+          <line x1="1020.24" y1="795.9" x2="684.06" y2="443.93" fill="none" stroke="#283" stroke-width="1.23"/>
+          <polygon points="678.06 437.65 690.13 443.04 684.51 444.4 682.9 449.95 678.06 437.65" fill="#283"/>
+        </g>
+      </g>
+      <g id="link_is_Blorp-creature" data-name="link is Blorp-creature">
+        <g>
+          <line x1="583.5" y1="606.56" x2="819.91" y2="464.78" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="827.36 460.32 819.44 470.9 819.36 465.12 814.29 462.32 827.36 460.32" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Snarg-creature" data-name="link is Snarg-creature">
+        <g>
+          <line x1="504.71" y1="281.35" x2="819.4" y2="446.64" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="827.09 450.68 813.93 449.42 818.82 446.34 818.58 440.56 827.09 450.68" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Vembi-creature" data-name="link is Vembi-creature">
+        <g>
+          <line x1="1025.05" y1="389.71" x2="853.3" y2="449.19" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="845.1 452.03 855.02 443.3 853.92 448.98 858.3 452.75 845.1 452.03" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Truz-creature" data-name="link is Truz-creature">
+        <g>
+          <line x1="766.7" y1="216.71" x2="830.65" y2="437.46" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="833.06 445.8 824.85 435.44 830.46 436.84 834.46 432.66 833.06 445.8" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Elgok-creature" data-name="link is Elgok-creature">
+        <g>
+          <line x1="1024.32" y1="791.25" x2="844.86" y2="471.41" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="840.61 463.84 850.96 472.06 845.18 471.98 842.24 476.95 840.61 463.84" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Glow_Vines-plant" data-name="link_is_Glow Vines-plant">
+        <g>
+          <line x1="470.45" y1="729.56" x2="768.15" y2="666.11" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="776.64 664.3 765.72 671.74 767.52 666.24 763.63 661.96 776.64 664.3" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Orbi_Fern-plant" data-name="link_is_Orbi Fern-plant">
+        <g>
+          <line x1="673.25" y1="442.55" x2="777.79" y2="645.77" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="781.77 653.49 771.72 644.9 777.5 645.19 780.61 640.33 781.77 653.49" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Slink_Root-plant" data-name="link_is_Slink Root-plant">
+        <g>
+          <line x1="951.8" y1="894.99" x2="797" y2="677.34" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="791.97 670.26 803.14 677.34 797.38 677.87 794.99 683.13 791.97 670.26" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Zint_Leaf-plant" data-name="link_is_Zint Leaf-plant">
+        <g>
+          <line x1="1076.44" y1="496.21" x2="802.35" y2="653.05" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="794.81 657.36 802.95 646.94 802.91 652.72 807.91 655.62 794.81 657.36" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Druma_Pod-plant" data-name="link_is_Druma Pod-plant">
+        <g>
+          <line x1="1160.25" y1="667.89" x2="804.79" y2="662.52" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="796.11 662.39 808.42 657.58 805.44 662.53 808.27 667.58 796.11 662.39" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Forest-habitat" data-name="link is Forest-habitat">
+        <g>
+          <line x1="517.35" y1="503.67" x2="918.27" y2="503.88" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="926.96 503.89 914.71 508.88 917.62 503.88 914.72 498.88 926.96 503.89" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Plain-habitat" data-name="link is Plain-habitat">
+        <g>
+          <line x1="1191.02" y1="311.5" x2="951.57" y2="492.71" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="944.64 497.95 951.38 486.58 952.08 492.32 957.42 494.55 944.64 497.95" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_is_Riverside-habitat" data-name="link is Riverside-habitat">
+        <g>
+          <line x1="1105.62" y1="835.8" x2="945.19" y2="520.4" fill="none" stroke="#6ce" stroke-width="1.23"/>
+          <polygon points="941.26 512.66 951.26 521.3 945.49 520.98 942.35 525.84 941.26 512.66" fill="#6ce"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Blorp-Forest" data-name="link_lives in_Blorp-Forest">
+        <g>
+          <line x1="569.84" y1="603.28" x2="517.34" y2="519.37" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="512.73 512 523.46 519.73 517.68 519.92 514.98 525.03 512.73 512" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Snarg-Forest" data-name="link_lives in_Snarg-Forest">
+        <g>
+          <line x1="496.5" y1="286.6" x2="506.57" y2="485.16" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="507.01 493.83 501.4 481.87 506.54 484.51 511.39 481.36 507.01 493.83" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Vembi-Plain" data-name="link_lives in_Vembi-Plain">
+        <g>
+          <line x1="1043.18" y1="382.14" x2="1182.25" y2="313.73" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1190.04 309.9 1181.27 319.79 1181.67 314.02 1176.85 310.82 1190.04 309.9" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Truz-Plain" data-name="link_lives in_Truz-Plain">
+        <g>
+          <line x1="773.56" y1="209.42" x2="1180.8" y2="301.47" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1189.27 303.39 1176.23 305.57 1180.17 301.33 1178.44 295.81 1189.27 303.39" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Elgok-Riverside" data-name="link_lives in_Elgok-Riverside">
+        <g>
+          <line x1="1037.75" y1="804.59" x2="1093.86" y2="835.61" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1101.47 839.81 1088.34 838.27 1093.3 835.3 1093.17 829.52 1101.47 839.81" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Glow_Vines-Forest" data-name="link_lives in_Glow Vines-Forest">
+        <g>
+          <line x1="462.8" y1="721.97" x2="503.8" y2="521.81" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="505.54 513.3 507.98 526.29 503.67 522.44 498.19 524.29 505.54 513.3" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Orbi_Fern-Forest" data-name="link_lives in_Orbi Fern-Forest">
+        <g>
+          <line x1="659.72" y1="437.71" x2="524.51" y2="496.3" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="516.54 499.75 525.78 490.3 525.11 496.04 529.76 499.47 516.54 499.75" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Orbi_Fern-Plain" data-name="link_lives in_Orbi Fern-Plain">
+        <g>
+          <line x1="678.32" y1="431.49" x2="1180.87" y2="309.91" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1189.31 307.87 1178.59 315.61 1180.24 310.07 1176.24 305.89 1189.31 307.87" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Slink_Root-Riverside" data-name="link_lives in_Slink Root-Riverside">
+        <g>
+          <line x1="966.69" y1="899.49" x2="1092.78" y2="851.2" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1100.89 848.09 1091.25 857.14 1092.17 851.43 1087.67 847.8 1100.89 848.09" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Zint_Leaf-Plain" data-name="link_lives in_Zint Leaf-Plain">
+        <g>
+          <line x1="1090.13" y1="482.93" x2="1189.19" y2="321.35" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1193.73 313.95 1191.59 326.99 1188.85 321.9 1183.07 321.77 1193.73 313.95" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Druma_Pod-Plain" data-name="link_lives in_Druma Pod-Plain">
+        <g>
+          <line x1="1170.87" y1="658.23" x2="1197.41" y2="324.02" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1198.09 315.37 1202.11 327.96 1197.35 324.67 1192.14 327.17 1198.09 315.37" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_lives_in_Druma_Pod-Riverside" data-name="link_lives in_Druma Pod-Riverside">
+        <g>
+          <line x1="1166.92" y1="677.35" x2="1116.04" y2="827.03" fill="none" stroke="#a37" stroke-width="1.23"/>
+          <polygon points="1113.24 835.26 1112.45 822.06 1116.25 826.42 1121.92 825.28 1113.24 835.26" fill="#a37"/>
+        </g>
+      </g>
+      <g id="link_eats_Blorp-Glow_Vines" data-name="link_eats_Blorp-Glow Vines">
+        <g>
+          <line x1="568.27" y1="618.75" x2="473.6" y2="718.19" fill="none" stroke="#283" stroke-width="1.23"/>
+          <polygon points="467.61 724.48 472.42 712.17 474.04 717.72 479.67 719.07 467.61 724.48" fill="#283"/>
+        </g>
+      </g>
+      <g id="link_poisons_Snarg-Orbi_Fern" data-name="link_poisons_Snarg-Orbi Fern">
+        <g>
+          <line x1="509.71" y1="289.24" x2="661.47" y2="427.18" fill="none" stroke="#cb4" stroke-width="1.23"/>
+          <polygon points="503.28 283.4 508.97 295.33 510.19 289.67 515.7 287.93 503.28 283.4" fill="#cb4"/>
+        </g>
+      </g>
+      <g id="link_eats_Vembi-Zint_Leaf" data-name="link_eats_Vembi-Zint Leaf">
+        <g>
+          <line x1="1038.63" y1="395.35" x2="1076.93" y2="474.64" fill="none" stroke="#283" stroke-width="1.23"/>
+          <polygon points="1080.7 482.46 1070.88 473.61 1076.65 474.05 1079.88 469.27 1080.7 482.46" fill="#283"/>
+        </g>
+      </g>
+      <g id="link_eats_Truz-Orbi_Fern" data-name="link_eats_Truz-Orbi Fern">
+        <g>
+          <line x1="760.15" y1="216.33" x2="675.93" y2="416.72" fill="none" stroke="#283" stroke-width="1.23"/>
+          <polygon points="672.57 424.73 672.7 411.51 676.18 416.12 681.92 415.38 672.57 424.73" fill="#283"/>
+        </g>
+      </g>
+      <g id="link_eats_Elgok-Slink_Root" data-name="link_eats_Elgok-Slink Root">
+        <g>
+          <line x1="1023.53" y1="807.91" x2="968.07" y2="887.79" fill="none" stroke="#283" stroke-width="1.23"/>
+          <polygon points="963.12 894.93 965.99 882.02 968.44 887.26 974.2 887.72 963.12 894.93" fill="#283"/>
+        </g>
+      </g>
+      <g id="link_poisons_Elgok-Druma_Pod" data-name="link_poisons_Elgok-Druma Pod">
+        <g>
+          <line x1="1042.67" y1="787.18" x2="1162.9" y2="674.76" fill="none" stroke="#cb4" stroke-width="1.23"/>
+          <polygon points="1036.33 793.11 1048.68 788.4 1043.14 786.73 1041.85 781.1 1036.33 793.11" fill="#cb4"/>
+        </g>
+      </g>
+    </g>
+    <g id="nodes">
+      <circle id="node-Blorp" cx="575.06" cy="611.62" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-creature" cx="835.8" cy="455.25" r="6.15" fill="#fff" stroke="#404040"/>
+      <circle id="node-Snarg" cx="496" cy="276.78" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Vembi" cx="1034.35" cy="386.49" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Truz" cx="763.96" cy="207.26" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Elgok" cx="1029.14" cy="799.83" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Glow_Vines" data-name="node-Glow Vines" cx="460.82" cy="731.61" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-plant" cx="786.27" cy="662.24" r="6.15" fill="#fff" stroke="#404040"/>
+      <circle id="node-Orbi_Fern" data-name="node-Orbi Fern" cx="668.75" cy="433.8" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Slink_Root" data-name="node-Slink Root" cx="957.51" cy="903.01" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Zint_Leaf" data-name="node-Zint Leaf" cx="1084.98" cy="491.32" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Druma_Pod" data-name="node-Druma Pod" cx="1170.09" cy="668.04" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Forest" cx="507.51" cy="503.66" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-habitat" cx="936.8" cy="503.89" r="6.15" fill="#fff" stroke="#404040"/>
+      <circle id="node-Plain" cx="1198.87" cy="305.56" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Riverside" cx="1110.08" cy="844.57" r="6.15" transform="translate(98.59 1805.03) rotate(-80.78)" fill="#404040" stroke="#fff"/>
+    </g>
+    <g id="node-labels">
+      <g id="label-container-Blorp">
+        <rect id="label-background-Blorp" x="571.83" y="617.77" width="41.48" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Blorp">
+          <text transform="translate(578.21 633.14)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Blorp</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-creature">
+        <rect id="label-background-creature" x="849.15" y="453.19" width="67.56" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-creature">
+          <text transform="translate(857.64 468.57)" font-family="Poppins-Bold, Poppins" font-size="11.69" font-weight="700"><tspan x="0" y="0">Creature</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Snarg">
+        <rect id="label-background-Snarg" x="472.78" y="246.64" width="46.44" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Snarg">
+          <text transform="translate(479.59 262.02)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Snarg</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Vembi">
+        <rect id="label-background-Vembi" x="974.82" y="363.12" width="51.68" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Vembi">
+          <text transform="translate(983.57 378.49)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Vembi</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Truz">
+        <rect id="label-background-Truz" x="746.41" y="177.12" width="35.1" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Truz">
+          <text transform="translate(751.89 192.5)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Truz</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Elgok">
+        <rect id="label-background-Elgok" x="973.1" y="793.68" width="42.74" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Elgok">
+          <text transform="translate(979.09 809.05)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Elgok</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Glow_Vines" data-name="label-container-Glow Vines">
+        <rect id="label-background-Glow_Vines" data-name="label-background-Glow Vines" x="422.35" y="737.76" width="45.54" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Glow_Vines" data-name="label-text-Glow Vines">
+          <text transform="translate(429.83 753.13)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Glom</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-plant">
+        <rect id="label-background-plant" x="724.25" y="635.8" width="42.78" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-plant">
+          <text transform="translate(730.61 651.18)" font-family="Poppins-Bold, Poppins" font-size="11.69" font-weight="700"><tspan x="0" y="0">Plant</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Orbi_Fern" data-name="label-container-Orbi Fern">
+        <rect id="label-background-Orbi_Fern" data-name="label-background-Orbi Fern" x="603.8" y="414.28" width="38.74" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Orbi_Fern" data-name="label-text-Orbi Fern">
+          <text transform="translate(610.34 429.65)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Orbi</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Slink_Root" data-name="label-container-Slink Root">
+        <rect id="label-background-Slink_Root" data-name="label-background-Slink Root" x="937.97" y="912.99" width="39.07" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Slink_Root" data-name="label-text-Slink Root">
+          <text transform="translate(944.31 928.37)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Slink</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Zint_Leaf" data-name="label-container-Zint Leaf">
+        <rect id="label-background-Zint_Leaf" data-name="label-background-Zint Leaf" x="1078.83" y="500.99" width="34.3" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Zint_Leaf" data-name="label-text-Zint Leaf">
+          <text transform="translate(1085.57 516.37)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Zint</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Druma_Pod" data-name="label-container-Druma Pod">
+        <rect id="label-background-Druma_Pod" data-name="label-background-Druma Pod" x="1176.05" y="657.08" width="55.75" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Druma_Pod" data-name="label-text-Druma Pod">
+          <text transform="translate(1184.38 672.46)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Druma</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Forest">
+        <rect id="label-background-Forest" x="453.26" y="491.96" width="47.47" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Forest">
+          <text transform="translate(459.56 507.33)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Forest</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-habitat">
+        <rect id="label-background-habitat" x="951.77" y="498.36" width="57.5" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-habitat">
+          <text transform="translate(959.68 513.73)" font-family="Poppins-Bold, Poppins" font-size="11.69" font-weight="700"><tspan x="0" y="0">Habitat</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Plain">
+        <rect id="label-background-Plain" x="1192.72" y="275.42" width="77.5" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Plain">
+          <text transform="translate(1198.65 290.8)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Grasslands</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Riverside">
+        <rect id="label-background-Riverside" x="1121.35" y="836.26" width="65.83" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Riverside">
+          <text transform="translate(1128.63 851.63)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Riverside</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="legend-container">
+    <g id="links-legend-container">
+      <g id="legend-items-container">
+        <g id="legend-item-lives">
+          <circle id="node-Slink_Root-2" data-name="node-Slink Root" cx="1532.91" cy="494.84" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-3" data-name="node-Slink Root" cx="1386.55" cy="494.84" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <g>
+            <line x1="1392.7" y1="494.84" x2="1518.07" y2="494.84" fill="none" stroke="#a37" stroke-width="1.23"/>
+            <polygon points="1526.76 494.84 1514.52 499.84 1517.42 494.84 1514.52 489.84 1526.76 494.84" fill="#a37"/>
+          </g>
+          <text transform="translate(1428.4 481.65)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">lives in</tspan></text>
+          <text transform="translate(1528.38 481.65)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">B</tspan></text>
+          <text transform="translate(1381.57 481.65)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+        </g>
+        <g id="legend-item-eats">
+          <circle id="node-Slink_Root-4" data-name="node-Slink Root" cx="1532.91" cy="416.73" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-5" data-name="node-Slink Root" cx="1386.55" cy="416.73" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <g>
+            <line x1="1392.7" y1="416.73" x2="1518.07" y2="416.73" fill="none" stroke="#283" stroke-width="1.23"/>
+            <polygon points="1526.76 416.73 1514.52 421.73 1517.42 416.73 1514.52 411.73 1526.76 416.73" fill="#283"/>
+          </g>
+          <text transform="translate(1439.31 403.53)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">eats</tspan></text>
+          <text transform="translate(1528.38 403.53)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">B</tspan></text>
+          <text transform="translate(1381.57 403.53)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+        </g>
+        <g id="legend-item-poisons">
+          <text transform="translate(1381.57 323.48)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+          <text transform="translate(1528.38 323.48)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">B</tspan></text>
+          <text transform="translate(1423.36 323.48)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">poisons</tspan></text>
+          <g>
+            <line x1="1392.7" y1="336.68" x2="1518.07" y2="336.68" fill="none" stroke="#cb4" stroke-width="1.23"/>
+            <polygon points="1526.76 336.68 1514.52 341.68 1517.42 336.68 1514.52 331.68 1526.76 336.68" fill="#cb4"/>
+          </g>
+          <circle id="node-Slink_Root-6" data-name="node-Slink Root" cx="1386.55" cy="336.68" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-7" data-name="node-Slink Root" cx="1532.91" cy="336.68" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+        </g>
+        <g id="legend-item-is">
+          <text transform="translate(1408.84 243.7)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">is a type of</tspan></text>
+          <text transform="translate(1528.07 243.7)" font-family="Poppins-Bold, Poppins" font-size="13.53" font-weight="700"><tspan x="0" y="0">X</tspan></text>
+          <text transform="translate(1381.57 243.7)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+          <g>
+            <line x1="1392.71" y1="256.61" x2="1518.07" y2="256.61" fill="none" stroke="#6ce" stroke-width="1.23"/>
+            <polygon points="1526.76 256.61 1514.52 261.61 1517.42 256.61 1514.52 251.61 1526.76 256.61" fill="#6ce"/>
+          </g>
+          <circle id="node-Slink_Root-8" data-name="node-Slink Root" cx="1386.55" cy="256.61" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-9" data-name="node-Slink Root" cx="1532.91" cy="256.61" r="6.15" fill="#fff" stroke="#404040" stroke-width="1.23"/>
+        </g>
+      </g>
+      <g id="legend-title-links">
+        <text transform="translate(1380.4 185.19)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">LINK TYPE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

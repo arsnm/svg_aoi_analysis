@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="legend-container">
+    <g id="colorbins-legend-container">
+      <g id="legend-title-colorbins">
+        <rect x="1438.84" y="219.17" width="145.07" height="53.66" fill="none" isolation="isolate" opacity=".8"/>
+        <g>
+          <text transform="translate(1445.53 240.37)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">RELATIVE</tspan></text>
+          <text transform="translate(1445.53 264.76)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">HUMIDITY (%)</tspan></text>
+        </g>
+      </g>
+      <g id="legend-items-container">
+        <g id="colorbins-container">
+          <rect id="colorbin-6" x="1446.58" y="310.28" width="28.43" height="54.68" fill="#37477b"/>
+          <rect id="colorbin-5" x="1446.58" y="364.96" width="28.43" height="54.68" fill="#306a8e"/>
+          <rect id="colorbin-4" x="1446.58" y="419.63" width="28.43" height="54.68" fill="#1f948c"/>
+          <rect id="colorbin-3" x="1446.58" y="474.31" width="28.43" height="54.68" fill="#32b67a"/>
+          <rect id="colorbin-2" x="1446.58" y="528.99" width="28.43" height="54.68" fill="#70cf57"/>
+          <rect id="colorbin-1" x="1446.58" y="583.66" width="28.43" height="54.68" fill="#bade28"/>
+          <rect id="colorbin-0" x="1446.58" y="638.34" width="28.43" height="54.68" fill="#fde725"/>
+        </g>
+        <g id="labels-container">
+          <g id="label-7">
+            <text transform="translate(1504.06 316.48)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">100%</tspan></text>
+            <line x1="1473.31" y1="310.28" x2="1490.39" y2="310.28" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-6">
+            <text transform="translate(1504.06 371.16)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">90%</tspan></text>
+            <line x1="1473.31" y1="364.96" x2="1490.39" y2="364.96" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-5">
+            <text transform="translate(1504.06 425.84)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">75%</tspan></text>
+            <line x1="1473.31" y1="419.63" x2="1490.39" y2="419.63" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-4">
+            <text transform="translate(1504.06 480.51)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">60%</tspan></text>
+            <line x1="1473.31" y1="474.31" x2="1490.39" y2="474.31" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-3">
+            <text transform="translate(1504.06 535.19)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">45%</tspan></text>
+            <line x1="1473.31" y1="528.99" x2="1490.39" y2="528.99" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-2">
+            <text transform="translate(1504.06 589.86)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">30%</tspan></text>
+            <line x1="1473.31" y1="583.66" x2="1490.39" y2="583.66" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-1">
+            <text transform="translate(1504.06 644.54)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">15%</tspan></text>
+            <line x1="1473.31" y1="638.34" x2="1490.39" y2="638.34" fill="none" stroke="#000"/>
+          </g>
+          <g id="label-0">
+            <text transform="translate(1504.06 699.21)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">0%</tspan></text>
+            <line x1="1473.31" y1="693.01" x2="1490.39" y2="693.01" fill="none" stroke="#000"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="data-container">
+    <g id="xAxis">
+      <text transform="translate(421.64 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
+      <text transform="translate(453.63 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">2</tspan></text>
+      <text transform="translate(485.63 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">3</tspan></text>
+      <text transform="translate(517.62 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">4</tspan></text>
+      <text transform="translate(549.61 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">5</tspan></text>
+      <text transform="translate(581.6 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">6</tspan></text>
+      <text transform="translate(613.59 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">7</tspan></text>
+      <text transform="translate(645.59 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">8</tspan></text>
+      <text transform="translate(677.58 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">9</tspan></text>
+      <text transform="translate(706.12 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+      <text transform="translate(738.11 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">11</tspan></text>
+      <text transform="translate(770.11 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">12</tspan></text>
+      <text transform="translate(802.1 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">13</tspan></text>
+      <text transform="translate(834.09 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">14</tspan></text>
+      <text transform="translate(866.08 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">15</tspan></text>
+      <text transform="translate(898.07 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">16</tspan></text>
+      <text transform="translate(930.07 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">17</tspan></text>
+      <text transform="translate(962.06 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">18</tspan></text>
+      <text transform="translate(994.05 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">19</tspan></text>
+      <text transform="translate(1026.04 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">20</tspan></text>
+      <text transform="translate(1058.03 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">21</tspan></text>
+      <text transform="translate(1090.03 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">22</tspan></text>
+      <text transform="translate(1122.02 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">23</tspan></text>
+      <text transform="translate(1154.01 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">24</tspan></text>
+      <text transform="translate(1186 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">25</tspan></text>
+      <text transform="translate(1217.99 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">26</tspan></text>
+      <text transform="translate(1249.99 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">27</tspan></text>
+      <text transform="translate(1281.98 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">28</tspan></text>
+      <text transform="translate(1313.97 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">29</tspan></text>
+      <text transform="translate(1345.96 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">30</tspan></text>
+      <text transform="translate(1377.95 596.74)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">31</tspan></text>
+      <g id="axis-title-xAxis">
+        <text transform="translate(863.91 626.89)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">DAYS</tspan></text>
+      </g>
+    </g>
+    <g id="yAxis">
+      <text id="tick-yAxis-Jun" transform="translate(376.48 424.55)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">Jun</tspan></text>
+      <text id="tick-yAxis-Jul" transform="translate(380.62 483.93) scale(1.02 1)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.2" isolation="isolate"><tspan x="0" y="0">Jul</tspan></text>
+      <text id="tick-yAxis-Aug" transform="translate(374.65 548.52)" fill="#333" font-family="HelveticaNeueLTStd-Roman, &apos;UBSXZ Z+ Helvetica Neue LT Std&apos;" font-size="12.4" isolation="isolate"><tspan x="0" y="0">Aug</tspan></text>
+      <g id="axis-ticksgroup-season-yAxis-Summer">
+        <path d="M369.24,419.23h-4.03c-2.2,0-4,1.8-4,4v115.97c0,2.2,1.8,4,4,4h4.03" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".46"/>
+        <rect id="season-yAxis-label-rect-Summer" x="348.74" y="438.94" width="20.51" height="83.81" fill="#fff"/>
+        <g>
+          <text transform="translate(365.23 520.79) rotate(-90)" fill="none" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" stroke="#fff" stroke-width="5"><tspan x="0" y="0">SUMMER</tspan></text>
+          <text transform="translate(365.23 520.79) rotate(-90)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700"><tspan x="0" y="0">SUMMER</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="data-points">
+      <rect id="cell-17-6-11_0" data-name="cell-17-6-11 0" x="920.96" y="389.59" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-1-7-17_5" data-name="cell-1-7-17 5" x="409.09" y="451.58" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-13-6-13_9" data-name="cell-13-6-13 9" x="793" y="389.59" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-12-7-12_1" data-name="cell-12-7-12 1" x="761" y="451.58" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-23-6-16_8" data-name="cell-23-6-16 8" x="1112.92" y="389.59" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-10-7-9_3" data-name="cell-10-7-9 3" x="697.02" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-6-6-9_3" data-name="cell-6-6-9 3" x="569.05" y="389.59" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-21-6-14_0" data-name="cell-21-6-14 0" x="1048.93" y="389.59" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-24-7-16_4" data-name="cell-24-7-16 4" x="1144.91" y="451.58" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-7-7-10_9" data-name="cell-7-7-10 9" x="601.04" y="451.58" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-14-6-11_5" data-name="cell-14-6-11 5" x="824.99" y="389.59" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-28-6-9_0" data-name="cell-28-6-9 0" x="1272.88" y="389.59" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-13-7-11_2" data-name="cell-13-7-11 2" x="793" y="451.58" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-1-6-14_8" data-name="cell-1-6-14 8" x="409.09" y="389.59" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-27-6-9_3" data-name="cell-27-6-9 3" x="1240.88" y="389.59" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-4-6-9_3" data-name="cell-4-6-9 3" x="505.07" y="389.59" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-14-7-9_3" data-name="cell-14-7-9 3" x="824.99" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-11-7-9_1" data-name="cell-11-7-9 1" x="729.01" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-9-7-8_8" data-name="cell-9-7-8 8" x="665.03" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-21-7-17_4" data-name="cell-21-7-17 4" x="1048.93" y="451.58" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-9-6-11_0" data-name="cell-9-6-11 0" x="665.03" y="389.59" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-30-6-9_7" data-name="cell-30-6-9 7" x="1336.86" y="389.59" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-5-7-10_6" data-name="cell-5-7-10 6" x="537.06" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-8-6-8_5" data-name="cell-8-6-8 5" x="633.04" y="389.59" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-26-6-9_4" data-name="cell-26-6-9 4" x="1208.89" y="389.59" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-18-6-11_7" data-name="cell-18-6-11 7" x="952.96" y="389.59" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-22-6-14_8" data-name="cell-22-6-14 8" x="1080.92" y="389.59" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-19-7-9_4" data-name="cell-19-7-9 4" x="984.95" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-2-7-17_9" data-name="cell-2-7-17 9" x="441.08" y="451.58" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-29-7-8_5" data-name="cell-29-7-8 5" x="1304.87" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-2-6-12_6" data-name="cell-2-6-12 6" x="441.08" y="389.59" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-27-7-9_8" data-name="cell-27-7-9 8" x="1240.88" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-28-7-9_2" data-name="cell-28-7-9 2" x="1272.88" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-6-7-10_8" data-name="cell-6-7-10 8" x="569.05" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-16-7-11_8" data-name="cell-16-7-11 8" x="888.97" y="451.58" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-19-6-16_6" data-name="cell-19-6-16 6" x="984.95" y="389.59" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-22-7-14_4" data-name="cell-22-7-14 4" x="1080.92" y="451.58" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-4-7-14_3" data-name="cell-4-7-14 3" x="505.07" y="451.58" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-3-6-13_0" data-name="cell-3-6-13 0" x="473.08" y="389.59" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-11-6-15_3" data-name="cell-11-6-15 3" x="729.01" y="389.59" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-10-6-16_1" data-name="cell-10-6-16 1" x="697.02" y="389.59" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-30-7-10_7" data-name="cell-30-7-10 7" x="1336.86" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-5-6-8_6" data-name="cell-5-6-8 6" x="537.06" y="389.59" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-15-7-10_3" data-name="cell-15-7-10 3" x="856.98" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-20-7-10_3" data-name="cell-20-7-10 3" x="1016.94" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-25-7-10_8" data-name="cell-25-7-10 8" x="1176.9" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-16-6-10_9" data-name="cell-16-6-10 9" x="888.97" y="389.59" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-31-7-9_5" data-name="cell-31-7-9 5" x="1368.85" y="451.58" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-15-6-11_4" data-name="cell-15-6-11 4" x="856.98" y="389.59" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-23-7-13_9" data-name="cell-23-7-13 9" x="1112.92" y="451.58" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-26-7-8_5" data-name="cell-26-7-8 5" x="1208.89" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-24-6-9_8" data-name="cell-24-6-9 8" x="1144.91" y="389.59" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-12-6-17_8" data-name="cell-12-6-17 8" x="761" y="389.59" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-8-7-8_9" data-name="cell-8-7-8 9" x="633.04" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-18-7-9_1" data-name="cell-18-7-9 1" x="952.96" y="451.58" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-3-7-18_0" data-name="cell-3-7-18 0" x="473.08" y="451.58" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-29-6-18_3" data-name="cell-29-6-18 3" x="1304.87" y="389.59" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-25-6-8_8" data-name="cell-25-6-8 8" x="1176.9" y="389.59" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-7-6-8_5" data-name="cell-7-6-8 5" x="601.04" y="389.59" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-17-7-11_7" data-name="cell-17-7-11 7" x="920.96" y="451.58" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-20-6-14_0" data-name="cell-20-6-14 0" x="1016.94" y="389.59" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-14-8-11_3" data-name="cell-14-8-11 3" x="824.99" y="513.56" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-25-8-12_4" data-name="cell-25-8-12 4" x="1176.9" y="513.56" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-9-8-11_7" data-name="cell-9-8-11 7" x="665.03" y="513.56" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-31-8-8_2" data-name="cell-31-8-8 2" x="1368.85" y="513.56" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-3-8-15_4" data-name="cell-3-8-15 4" x="473.08" y="513.56" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-18-8-18_1" data-name="cell-18-8-18 1" x="952.96" y="513.56" width="31.99" height="61.98" fill="#37477b" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-27-8-9_1" data-name="cell-27-8-9 1" x="1240.88" y="513.56" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-1-8-9_8" data-name="cell-1-8-9 8" x="409.09" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-17-8-10_4" data-name="cell-17-8-10 4" x="920.96" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-20-8-9_7" data-name="cell-20-8-9 7" x="1016.94" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-2-8-17_2" data-name="cell-2-8-17 2" x="441.08" y="513.56" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-13-8-11_2" data-name="cell-13-8-11 2" x="793" y="513.56" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-16-8-11_4" data-name="cell-16-8-11 4" x="888.97" y="513.56" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-28-8-11_6" data-name="cell-28-8-11 6" x="1272.88" y="513.56" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-29-8-9_2" data-name="cell-29-8-9 2" x="1304.87" y="513.56" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-5-8-10_2" data-name="cell-5-8-10 2" x="537.06" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-7-8-10_7" data-name="cell-7-8-10 7" x="601.04" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-22-8-8_9" data-name="cell-22-8-8 9" x="1080.92" y="513.56" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-12-8-9_6" data-name="cell-12-8-9 6" x="761" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-11-8-10_2" data-name="cell-11-8-10 2" x="729.01" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-21-8-17_0" data-name="cell-21-8-17 0" x="1048.93" y="513.56" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-4-8-12_5" data-name="cell-4-8-12 5" x="505.07" y="513.56" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-30-8-9_3" data-name="cell-30-8-9 3" x="1336.86" y="513.56" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-26-8-13_7" data-name="cell-26-8-13 7" x="1208.89" y="513.56" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-6-8-9_0" data-name="cell-6-8-9 0" x="569.05" y="513.56" width="31.99" height="61.98" fill="#bade28" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-24-8-10_7" data-name="cell-24-8-10 7" x="1144.91" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-10-8-9_5" data-name="cell-10-8-9 5" x="697.02" y="513.56" width="31.99" height="61.98" fill="#70cf57" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-8-8-11_1" data-name="cell-8-8-11 1" x="633.04" y="513.56" width="31.99" height="61.98" fill="#32b67a" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-23-8-7_6" data-name="cell-23-8-7 6" x="1112.92" y="513.56" width="31.99" height="61.98" fill="#fde725" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-19-8-14_9" data-name="cell-19-8-14 9" x="984.95" y="513.56" width="31.99" height="61.98" fill="#306a8e" stroke="#fff" stroke-width="4"/>
+      <rect id="cell-15-8-12_8" data-name="cell-15-8-12 8" x="856.98" y="513.56" width="31.99" height="61.98" fill="#1f948c" stroke="#fff" stroke-width="4"/>
+    </g>
+    <g id="g-noday-31-6">
+      <rect id="cell-noday-31-6" x="1368.85" y="389.59" width="31.99" height="61.98" fill="#f2f2f2"/>
+      <g id="cross">
+        <line x1="1400.84" y1="451.58" x2="1368.85" y2="389.93" fill="none" stroke="#ccc" stroke-width="4"/>
+        <line x1="1400.84" y1="389.59" x2="1368.85" y2="451.58" fill="none" stroke="#ccc" stroke-width="4"/>
+      </g>
+      <rect id="stroke-cell-noday" x="1368.85" y="389.59" width="31.99" height="61.95" fill="none" stroke="#fff" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

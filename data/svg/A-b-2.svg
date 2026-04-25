@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="414" y="80.01" width="547.3" height="171.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="414" y="255.51" width="547.3" height="660.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect x="965.2" y="80.01" width="143" height="669.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect x="1112.1" y="80.01" width="393.9" height="669.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect x="965.2" y="753.41" width="540.8" height="162.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect x="450.4" y="108.61" width="497.9" height="130" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect x="427" y="284.11" width="358.8" height="296.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect x="789.7" y="284.11" width="158.6" height="296.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect x="427" y="584.41" width="276.9" height="318.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect x="707.8" y="584.41" width="240.5" height="318.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect x="978.2" y="108.61" width="117" height="170.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect x="978.2" y="282.81" width="117" height="373.1" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect x="978.2" y="659.81" width="117" height="76.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect x="1125.1" y="108.61" width="367.9" height="319.8" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect x="1125.1" y="432.31" width="367.9" height="304.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect x="978.2" y="782.01" width="286" height="120.9" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect x="1268.1" y="782.01" width="224.9" height="120.9" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect x="463.4" y="133.31" width="104" height="88.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect x="463.4" y="133.31" width="104" height="88.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect x="571.3" y="133.31" width="364" height="88.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect x="571.3" y="133.31" width="364" height="88.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect x="440" y="308.81" width="106.6" height="23.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect x="440" y="308.81" width="106.6" height="23.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect x="440" y="336.11" width="106.6" height="187.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect x="440" y="336.11" width="106.6" height="187.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect x="440" y="527.21" width="106.6" height="36.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect x="440" y="527.21" width="106.6" height="36.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect x="550.5" y="308.81" width="222.3" height="195" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect x="550.5" y="308.81" width="222.3" height="195" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect x="550.5" y="507.71" width="222.3" height="55.9" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect x="550.5" y="507.71" width="222.3" height="55.9" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect x="802.7" y="308.81" width="132.6" height="254.8" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect x="802.7" y="308.81" width="132.6" height="254.8" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect x="519.3" y="609.11" width="171.6" height="166.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect x="519.3" y="609.11" width="171.6" height="166.4" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect x="440" y="779.41" width="130" height="106.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect x="440" y="779.41" width="130" height="106.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect x="573.9" y="779.41" width="117" height="106.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect x="573.9" y="779.41" width="117" height="106.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect x="720.8" y="609.11" width="145.6" height="123.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect x="720.8" y="609.11" width="145.6" height="123.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect x="720.8" y="736.51" width="214.5" height="149.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect x="720.8" y="736.51" width="214.5" height="149.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect x="991.2" y="194.41" width="91" height="37.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect x="991.2" y="194.41" width="91" height="37.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect x="991.2" y="236.01" width="91" height="26" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <rect x="991.2" y="236.01" width="91" height="26" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect x="991.2" y="307.51" width="91" height="92.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <rect x="991.2" y="307.51" width="91" height="92.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect x="991.2" y="403.71" width="91" height="235.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <rect x="991.2" y="403.71" width="91" height="235.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <rect x="1138.1" y="133.31" width="145.6" height="227.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <rect x="1138.1" y="133.31" width="145.6" height="227.5" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect x="1138.1" y="364.71" width="145.6" height="46.8" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <rect x="1138.1" y="364.71" width="145.6" height="46.8" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect x="1287.6" y="133.31" width="192.4" height="156" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <rect x="1287.6" y="133.31" width="192.4" height="156" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <rect x="1287.6" y="293.21" width="106.6" height="63.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <rect x="1287.6" y="293.21" width="106.6" height="63.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <rect x="1287.6" y="360.81" width="106.6" height="50.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <rect x="1287.6" y="360.81" width="106.6" height="50.7" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <rect x="1398.1" y="293.21" width="81.9" height="83.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <rect x="1398.1" y="293.21" width="81.9" height="83.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <rect x="1398.1" y="380.31" width="81.9" height="31.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <rect x="1398.1" y="380.31" width="81.9" height="31.2" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <rect x="1138.1" y="457.01" width="341.9" height="262.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <rect x="1138.1" y="457.01" width="341.9" height="262.6" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <rect x="1013.3" y="806.71" width="193.7" height="79.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <rect x="1013.3" y="806.71" width="193.7" height="79.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <rect x="1281.1" y="806.71" width="135.2" height="79.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <rect x="1281.1" y="806.71" width="135.2" height="79.3" rx="2.6" ry="2.6" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="treemap_root" x="414" y="76.11" width="1092" height="839.8" fill="none"/>
+  <g>
+    <rect id="leaf-0" x="414" y="76.11" width="547.3" height="171.6" rx="2" ry="2" fill="#f0fafd" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath)">
+      <text transform="translate(420.5 95.61)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">RAVENLAND</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-1" x="414" y="251.61" width="547.3" height="660.4" rx="2" ry="2" fill="#eef1f5" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-1)">
+      <text transform="translate(420.5 271.11)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">HIGHMOOR</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-2" x="965.2" y="76.11" width="143" height="669.5" rx="2" ry="2" fill="#f4e6ee" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-2)">
+      <text transform="translate(971.7 95.61)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">FROSTVALE</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-3" x="1112.1" y="76.11" width="393.9" height="669.5" rx="2" ry="2" fill="#f8f7ee" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-3)">
+      <text transform="translate(1118.6 95.61)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">SUNHAVEN</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-4" x="965.2" y="749.51" width="540.8" height="162.5" rx="2" ry="2" fill="#f0fdf2" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-4)">
+      <text transform="translate(971.7 769.01)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">STONEFELL</tspan></text>
+    </g>
+  </g>
+  <rect id="leaf-5" x="427" y="104.71" width="19.5" height="130" rx="2" ry="2" fill="#daf2f9" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-6" x="450.4" y="104.71" width="497.9" height="130" rx="2" ry="2" fill="#daf2f9" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-5)">
+      <text transform="translate(456.9 124.21)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Ravenland Islands</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-7" x="427" y="280.21" width="358.8" height="296.4" rx="2" ry="2" fill="#d4dde6" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-6)">
+      <text transform="translate(433.5 299.71)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Eastern Highmoor</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-8" x="789.7" y="280.21" width="158.6" height="296.4" rx="2" ry="2" fill="#d4dde6" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-7)">
+      <text transform="translate(796.2 299.71)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Southern Highmoor</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-9" x="427" y="580.51" width="276.9" height="318.5" rx="2" ry="2" fill="#d4dde6" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-8)">
+      <text transform="translate(433.5 600.01)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Northern Highmoor</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-10" x="707.8" y="580.51" width="240.5" height="318.5" rx="2" ry="2" fill="#d4dde6" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-9)">
+      <text transform="translate(714.3 600.01)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Western Highmoor</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-11" x="978.2" y="104.71" width="117" height="170.3" rx="2" ry="2" fill="#e8c1d9" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-10)">
+      <text transform="translate(984.7 124.21)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Western Frostvale</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-12" x="978.2" y="278.91" width="117" height="373.1" rx="2" ry="2" fill="#e8c1d9" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-11)">
+      <text transform="translate(984.7 298.42)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Eastern Frostvale</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-13" x="978.2" y="655.91" width="117" height="76.7" rx="2" ry="2" fill="#e8c1d9" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-12)">
+      <text transform="translate(984.7 675.42)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Southern Frostvale</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-14" x="1125.1" y="104.71" width="367.9" height="319.8" rx="2" ry="2" fill="#eeebd4" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-13)">
+      <text transform="translate(1131.6 124.21)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Central and Southern Sunhaven</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-15" x="1125.1" y="428.41" width="367.9" height="304.2" rx="2" ry="2" fill="#eeebd4" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-14)">
+      <text transform="translate(1131.6 447.92)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Northern Sunhaven</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-16" x="978.2" y="778.11" width="286" height="120.9" rx="2" ry="2" fill="#daf9df" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-15)">
+      <text transform="translate(984.7 797.61)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Central and Southern Stonefell</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-17" x="1268.1" y="778.11" width="224.9" height="120.9" rx="2" ry="2" fill="#daf9df" stroke="#fff" stroke-width=".2"/>
+    <g clip-path="url(#clippath-16)">
+      <text transform="translate(1274.6 797.61)" font-family="Poppins-Regular, Poppins" font-size="15.6" isolation="isolate"><tspan x="0" y="0">Northern Stonefell</tspan></text>
+    </g>
+  </g>
+  <path id="leaf-18" d="M436.1,133.31h0v88.4h0v-88.4Z" fill="#6ce" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-19" x="463.4" y="133.31" width="104" height="88.4" rx="2" ry="2" fill="#6ce" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-17)">
+        <rect x="463.4" y="133.31" width="88.19" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-18)">
+        <text transform="translate(469.9 148.92)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Westwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-20" x="571.3" y="133.31" width="364" height="88.4" rx="2" ry="2" fill="#6ce" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-19)">
+        <rect x="571.3" y="133.31" width="95.35" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-20)">
+        <text transform="translate(577.8 148.92)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Stonebrook</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-21" x="440" y="308.81" width="106.6" height="23.4" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-21)">
+        <rect x="440" y="308.81" width="90.35" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-22)">
+        <text transform="translate(446.5 324.42)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Silverwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-22" x="440" y="336.11" width="106.6" height="187.2" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-23)">
+        <rect x="440" y="336.11" width="90.3" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-24)">
+        <text transform="translate(446.5 351.71)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Nightwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-23" x="440" y="527.21" width="106.6" height="36.4" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-25)">
+        <rect x="440" y="527.21" width="77.24" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-26)">
+        <text transform="translate(446.5 542.81)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Highland</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-24" x="550.5" y="308.81" width="222.3" height="195" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-27)">
+        <rect x="550.5" y="308.81" width="80.13" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-28)">
+        <text transform="translate(557 324.42)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Sunstone</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-25" x="550.5" y="507.71" width="222.3" height="55.9" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-29)">
+        <rect x="550.5" y="507.71" width="90.7" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-30)">
+        <text transform="translate(557 523.31)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Freshwater</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-26" x="802.7" y="308.81" width="132.6" height="254.8" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-31)">
+        <rect x="802.7" y="308.81" width="69.92" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-32)">
+        <text transform="translate(809.2 324.42)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Ashvale</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-27" x="440" y="609.11" width="57.2" height="166.4" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+  <rect id="leaf-28" x="501.1" y="609.11" width="14.3" height="166.4" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-29" x="519.3" y="609.11" width="171.6" height="166.4" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-33)">
+        <rect x="519.3" y="609.11" width="79.95" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-34)">
+        <text transform="translate(525.8 624.71)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Windvale</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-30" x="440" y="779.41" width="130" height="106.6" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-35)">
+        <rect x="440" y="779.41" width="72.79" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-36)">
+        <text transform="translate(446.5 795.01)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Cliffdale</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-31" x="573.9" y="779.41" width="117" height="106.6" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-37)">
+        <rect x="573.9" y="779.41" width="59.89" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-38)">
+        <text transform="translate(580.4 795.01)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Ironhill</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-32" x="720.8" y="609.11" width="145.6" height="123.5" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-39)">
+        <rect x="720.8" y="609.11" width="92.8" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-40)">
+        <text transform="translate(727.3 624.71)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Clearwater</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-33" x="870.3" y="609.11" width="65" height="123.5" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-34" x="720.8" y="736.51" width="214.5" height="149.5" rx="2" ry="2" fill="#47a" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-41)">
+        <rect x="720.8" y="736.51" width="84.06" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-42)">
+        <text transform="translate(727.3 752.11)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Stonefield</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-35" x="991.2" y="133.31" width="44.2" height="57.2" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+  <rect id="leaf-36" x="1039.3" y="133.31" width="42.9" height="57.2" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-37" x="991.2" y="194.41" width="91" height="37.7" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-43)">
+        <rect x="991.2" y="194.41" width="80.66" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-44)">
+        <text transform="translate(997.7 210.01)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Silverlake</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-38" x="991.2" y="236.01" width="91" height="26" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-45)">
+        <rect x="991.2" y="236.01" width="91.61" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-46)">
+        <text transform="translate(997.7 251.61)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Northwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-39" x="991.2" y="307.51" width="91" height="92.3" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-47)">
+        <rect x="991.2" y="307.51" width="95.52" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-48)">
+        <text transform="translate(997.7 323.11)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Highwaters</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-40" x="991.2" y="403.71" width="91" height="235.3" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-49)">
+        <rect x="991.2" y="403.71" width="86.88" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-50)">
+        <text transform="translate(997.7 419.31)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Rosewood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-41" x="991.2" y="684.51" width="44.2" height="35.1" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+  <rect id="leaf-42" x="1039.3" y="684.51" width="42.9" height="35.1" rx="2" ry="2" fill="#a37" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-43" x="1138.1" y="133.31" width="145.6" height="227.5" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-51)">
+        <rect x="1138.1" y="133.31" width="78.74" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-52)">
+        <text transform="translate(1144.6 148.92)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Birchfield</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-44" x="1138.1" y="364.71" width="145.6" height="46.8" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-53)">
+        <rect x="1138.1" y="364.71" width="74.31" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-54)">
+        <text transform="translate(1144.6 380.31)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Rainfield</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-45" x="1287.6" y="133.31" width="192.4" height="156" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-55)">
+        <rect x="1287.6" y="133.31" width="82.38" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-56)">
+        <text transform="translate(1294.1 148.92)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Eastwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-46" x="1287.6" y="293.21" width="106.6" height="63.7" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-57)">
+        <rect x="1287.6" y="293.21" width="90.07" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-58)">
+        <text transform="translate(1294.1 308.81)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Westbrook</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-47" x="1287.6" y="360.81" width="106.6" height="50.7" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-59)">
+        <rect x="1287.6" y="360.81" width="99.16" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-60)">
+        <text transform="translate(1294.1 376.42)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Springstone</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-48" x="1398.1" y="293.21" width="81.9" height="83.2" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-61)">
+        <rect x="1398.1" y="293.21" width="84.53" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-62)">
+        <text transform="translate(1404.6 308.81)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Rockridge</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-49" x="1398.1" y="380.31" width="81.9" height="31.2" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-63)">
+        <rect x="1398.1" y="380.31" width="93.95" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-64)">
+        <text transform="translate(1404.6 395.92)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Thornstone</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="leaf-50" x="1138.1" y="457.01" width="341.9" height="262.6" rx="2" ry="2" fill="#cb4" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-65)">
+        <rect x="1138.1" y="457.01" width="85.37" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-66)">
+        <text transform="translate(1144.6 472.61)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Glenwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-51" x="991.2" y="806.71" width="18.2" height="79.3" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-52" x="1013.3" y="806.71" width="193.7" height="79.3" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-67)">
+        <rect x="1013.3" y="806.71" width="86.85" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-68)">
+        <text transform="translate(1019.8 822.31)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Longwood</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-53" x="1210.9" y="806.71" width="40.3" height="37.7" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+  <rect id="leaf-54" x="1210.9" y="848.31" width="40.3" height="37.7" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+  <g>
+    <rect id="leaf-55" x="1281.1" y="806.71" width="135.2" height="79.3" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+    <g>
+      <g clip-path="url(#clippath-69)">
+        <rect x="1281.1" y="806.71" width="83.82" height="22.69" fill="#fff" isolation="isolate" opacity=".7"/>
+      </g>
+      <g clip-path="url(#clippath-70)">
+        <text transform="translate(1287.6 822.31)" font-family="Poppins-Regular, Poppins" font-size="14.3" isolation="isolate"><tspan x="0" y="0">Thornfield</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="leaf-56" x="1420.2" y="806.71" width="27.3" height="79.3" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+  <rect id="leaf-57" x="1451.4" y="806.71" width="28.6" height="79.3" rx="2" ry="2" fill="#283" stroke="#fff" stroke-width=".2"/>
+</svg>

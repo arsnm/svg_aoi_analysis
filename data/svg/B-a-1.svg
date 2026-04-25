@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="data-container">
+    <g id="reference-axis-xAxis">
+      <path id="axisLine-xAxis" d="M385.57,875.13v-7.8h1040v7.8" fill="none" stroke="#333"/>
+      <g id="axisTicks-xAxis">
+        <g id="axis-label-container">
+          <text transform="translate(472.38 899.91) rotate(-45)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">#167</tspan></text>
+        </g>
+        <g id="axis-label-container-2" data-name="axis-label-container">
+          <text transform="translate(680.38 899.91) rotate(-45)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">#190</tspan></text>
+        </g>
+        <g id="axis-label-container-3" data-name="axis-label-container">
+          <text transform="translate(888.38 899.91) rotate(-45)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">#216</tspan></text>
+        </g>
+        <g id="axis-label-container-4" data-name="axis-label-container">
+          <text transform="translate(1096.38 899.91) rotate(-45)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">#300</tspan></text>
+        </g>
+        <g id="axis-label-container-5" data-name="axis-label-container">
+          <text transform="translate(1304.38 899.91) rotate(-45)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">#298</tspan></text>
+        </g>
+      </g>
+      <text transform="translate(1425.56 899.83)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">FOOD ITEM</tspan></text>
+    </g>
+    <g id="reference-axis-yAxis">
+      <path id="axisLine-yAxis" d="M377.77,867.33h7.8V87.33h-7.8" fill="none" stroke="#333"/>
+      <g id="axisTicks-yAxis">
+        <g id="axis-label-container-6" data-name="axis-label-container">
+          <line x1="385.57" y1="867.33" x2="377.77" y2="867.33" fill="none" stroke="#333"/>
+          <text transform="translate(366.63 871.49)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+        </g>
+        <g id="axis-label-container-7" data-name="axis-label-container">
+          <line x1="385.57" y1="755.9" x2="377.77" y2="755.9" fill="none" stroke="#333"/>
+          <text transform="translate(366.63 760.06)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">5</tspan></text>
+        </g>
+        <g id="axis-label-container-8" data-name="axis-label-container">
+          <line x1="385.57" y1="644.47" x2="377.77" y2="644.47" fill="none" stroke="#333"/>
+          <text transform="translate(359.41 648.63)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+        </g>
+        <g id="axis-label-container-9" data-name="axis-label-container">
+          <line x1="385.57" y1="533.04" x2="377.77" y2="533.04" fill="none" stroke="#333"/>
+          <text transform="translate(359.41 537.2)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">15</tspan></text>
+        </g>
+        <g id="axis-label-container-10" data-name="axis-label-container">
+          <line x1="385.57" y1="421.61" x2="377.77" y2="421.61" fill="none" stroke="#333"/>
+          <text transform="translate(359.41 425.77)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">20</tspan></text>
+        </g>
+        <g id="axis-label-container-11" data-name="axis-label-container">
+          <line x1="385.57" y1="310.18" x2="377.77" y2="310.18" fill="none" stroke="#333"/>
+          <text transform="translate(359.41 314.34)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">25</tspan></text>
+        </g>
+        <g id="axis-label-container-12" data-name="axis-label-container">
+          <line x1="385.57" y1="198.76" x2="377.77" y2="198.76" fill="none" stroke="#333"/>
+          <text transform="translate(359.41 202.91)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">30</tspan></text>
+        </g>
+        <g id="axis-label-container-13" data-name="axis-label-container">
+          <line x1="385.57" y1="87.33" x2="377.77" y2="87.33" fill="none" stroke="#333"/>
+          <text transform="translate(359.41 91.49)" fill="#333" font-family="Poppins-Regular, Poppins" font-size="13" isolation="isolate"><tspan x="0" y="0">35</tspan></text>
+        </g>
+      </g>
+      <g id="axis-title-yAxis">
+        <text transform="translate(339.23 612.37) rotate(-90)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">NUTRITIONAL VALUE (g/100g)</tspan></text>
+      </g>
+    </g>
+    <g id="reference-grid-yAxis">
+      <path d="M1425.57,867.33H385.57V87.33h1040" fill="none" stroke="#000"/>
+      <line x1="385.57" y1="867.33" x2="1425.57" y2="867.33" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="755.9" x2="1425.57" y2="755.9" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="644.47" x2="1425.57" y2="644.47" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="533.04" x2="1425.57" y2="533.04" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="421.61" x2="1425.57" y2="421.61" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="310.18" x2="1425.57" y2="310.18" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="198.76" x2="1425.57" y2="198.76" fill="none" stroke="#d9d9d9"/>
+      <line x1="385.57" y1="87.33" x2="1425.57" y2="87.33" fill="none" stroke="#d9d9d9"/>
+    </g>
+    <g id="data-groups">
+      <g id="_167" data-name="167">
+        <polygon points="461.76 713.36 457.99 709.6 454.9 712.69 451.8 709.6 448.04 713.36 451.13 716.46 448.04 719.55 451.8 723.32 454.9 720.22 457.99 723.32 461.76 719.55 458.66 716.46 461.76 713.36" fill="#283" stroke="#fff"/>
+        <line x1="454.9" y1="867.33" x2="454.9" y2="716.46" fill="none" stroke="#283"/>
+        <path d="M489.57,217.07s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z" fill="#283" stroke="#fff"/>
+        <line x1="489.57" y1="867.33" x2="489.57" y2="209.9" fill="none" stroke="#283"/>
+        <circle cx="524.23" cy="757.26" r="5.45" fill="#283" stroke="#fff"/>
+        <line x1="524.23" y1="867.33" x2="524.23" y2="759.46" fill="none" stroke="#283"/>
+      </g>
+      <g id="_190" data-name="190">
+        <polygon points="669.76 672.51 665.99 668.75 662.9 671.84 659.8 668.75 656.04 672.51 659.13 675.61 656.04 678.7 659.8 682.47 662.9 679.37 665.99 682.47 669.76 678.7 666.66 675.61 669.76 672.51" fill="#283" stroke="#fff"/>
+        <line x1="662.9" y1="867.33" x2="662.9" y2="675.61" fill="none" stroke="#283"/>
+        <path d="M697.57,185.87s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z" fill="#283" stroke="#fff"/>
+        <line x1="697.57" y1="867.33" x2="697.57" y2="178.7" fill="none" stroke="#283"/>
+        <circle cx="732.23" cy="750.12" r="5.45" fill="#283" stroke="#fff"/>
+        <line x1="732.23" y1="867.33" x2="732.23" y2="752.33" fill="none" stroke="#283"/>
+      </g>
+      <g id="_216" data-name="216">
+        <polygon points="877.76 698.23 873.99 694.47 870.9 697.56 867.8 694.47 864.04 698.23 867.13 701.33 864.04 704.42 867.8 708.19 870.9 705.09 873.99 708.19 877.76 704.42 874.66 701.33 877.76 698.23" fill="#283" stroke="#fff"/>
+        <line x1="870.9" y1="867.33" x2="870.9" y2="701.33" fill="none" stroke="#283"/>
+        <path d="M905.57,254.95s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z" fill="#283" stroke="#fff"/>
+        <line x1="905.57" y1="867.33" x2="905.57" y2="247.78" fill="none" stroke="#283"/>
+        <circle cx="940.23" cy="635.58" r="5.45" fill="#283" stroke="#fff"/>
+        <line x1="940.23" y1="867.33" x2="940.23" y2="637.78" fill="none" stroke="#283"/>
+      </g>
+      <g id="_300" data-name="300">
+        <polygon points="1085.76 718.48 1081.99 714.72 1078.9 717.81 1075.8 714.72 1072.04 718.48 1075.13 721.58 1072.04 724.67 1075.8 728.44 1078.9 725.34 1081.99 728.44 1085.76 724.67 1082.66 721.58 1085.76 718.48" fill="#a37" stroke="#fff"/>
+        <line x1="1078.9" y1="867.33" x2="1078.9" y2="721.58" fill="none" stroke="#a37"/>
+        <path d="M1113.57,205.92s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z" fill="#a37" stroke="#fff"/>
+        <line x1="1113.57" y1="867.33" x2="1113.57" y2="198.76" fill="none" stroke="#a37"/>
+        <circle cx="1148.23" cy="689.06" r="5.45" fill="#a37" stroke="#fff"/>
+        <line x1="1148.23" y1="867.33" x2="1148.23" y2="691.27" fill="none" stroke="#a37"/>
+      </g>
+      <g id="_298" data-name="298">
+        <polygon points="1293.76 547.78 1289.99 544.01 1286.9 547.1 1283.8 544.01 1280.04 547.78 1283.13 550.87 1280.04 553.96 1283.8 557.73 1286.9 554.64 1289.99 557.73 1293.76 553.96 1290.66 550.87 1293.76 547.78" fill="#a37" stroke="#fff"/>
+        <line x1="1286.9" y1="867.33" x2="1286.9" y2="550.87" fill="none" stroke="#a37"/>
+        <path d="M1321.57,269.23s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z" fill="#a37" stroke="#fff"/>
+        <line x1="1321.57" y1="867.33" x2="1321.57" y2="261.16" fill="none" stroke="#a37"/>
+        <circle cx="1356.23" cy="679.03" r="5.45" fill="#a37" stroke="#fff"/>
+        <line x1="1356.23" y1="867.33" x2="1356.23" y2="681.24" fill="none" stroke="#a37"/>
+      </g>
+    </g>
+  </g>
+  <g id="legend-container">
+    <g id="color-legend-container">
+      <g id="legend-color-title" isolation="isolate">
+        <text transform="translate(1438.41 105.39)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">FOOD ITEM GROUP</tspan></text>
+      </g>
+      <g>
+        <g id="legend-color-item-Dishes">
+          <rect x="1438.41" y="142.81" width="20.8" height="20.8" fill="#283"/>
+          <g isolation="isolate">
+            <text transform="translate(1475.71 159.45)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">dishes</tspan></text>
+          </g>
+        </g>
+        <g id="legend-color-item-Sandwiches">
+          <rect x="1438.41" y="194.01" width="20.8" height="20.8" fill="#a37"/>
+          <g isolation="isolate">
+            <text transform="translate(1475.71 210.65)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">sandwiches</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="shape-legend-container">
+      <g id="legend-shape-title" isolation="isolate">
+        <text transform="translate(1438.41 292.65)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">TYPES OF NUTRIENTS</tspan></text>
+      </g>
+      <g>
+        <g id="legend-shape-item-Protein">
+          <g isolation="isolate">
+            <text transform="translate(1465.71 342.41)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Protein</tspan></text>
+          </g>
+          <polygon points="1451.77 332 1448 328.23 1444.91 331.33 1441.81 328.23 1438.05 332 1441.14 335.09 1438.05 338.19 1441.81 341.95 1444.91 338.86 1448 341.95 1451.77 338.19 1448.67 335.09 1451.77 332"/>
+        </g>
+        <g id="legend-shape-item-Carbohydrate">
+          <g isolation="isolate">
+            <text transform="translate(1465.71 393.43)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Carbohydrate</tspan></text>
+          </g>
+          <path d="M1444.91,394.28s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z"/>
+        </g>
+        <g id="legend-shape-item-Fat">
+          <g isolation="isolate">
+            <text transform="translate(1465.71 444.45)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Fat</tspan></text>
+          </g>
+          <circle cx="1444.91" cy="436.92" r="5.45"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

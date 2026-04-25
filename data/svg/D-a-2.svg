@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="lines-paths">
+    <g id="line-1">
+      <g isolation="isolate" opacity=".9">
+        <path d="M442.88,743.53l53.51,54.31c1.93,1.96,5.76,3.56,8.51,3.56h589.43c2.75,0,6.64-1.54,8.65-3.42l38.56-36.1c2.01-1.88,3.65-5.67,3.65-8.42v-136.82c0-2.75,1.4-6.76,3.12-8.91l46.51-58.19c1.72-2.15,3.12-6.16,3.12-8.91v-168.25" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M442.88,743.53l53.51,54.31c1.93,1.96,5.76,3.56,8.51,3.56h589.43c2.75,0,6.64-1.54,8.65-3.42l38.56-36.1c2.01-1.88,3.65-5.67,3.65-8.42v-136.82c0-2.75,1.4-6.76,3.12-8.91l46.51-58.19c1.72-2.15,3.12-6.16,3.12-8.91v-168.25" fill="none" stroke="#c67" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-2">
+      <g isolation="isolate">
+        <path d="M499.9,866.96v-60.55c0-2.75,1.86-6.26,4.14-7.8l165.7-112.24c2.28-1.54,6-4.07,8.28-5.61l146.53-99.29c2.28-1.54,6.11-3.89,8.53-5.21l96.73-52.95c2.41-1.32,4.39-4.65,4.39-7.4v-75.75c0-2.75,2.25-5,5-5h30.33c2.75,0,5-1.12,5-2.5s1.58-4.1,3.51-6.06l49.8-50.62c1.93-1.96,3.51-5.81,3.51-8.56V124.9" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M499.9,866.96v-60.55c0-2.75,1.86-6.26,4.14-7.8l165.7-112.24c2.28-1.54,6-4.07,8.28-5.61l146.53-99.29c2.28-1.54,6.11-3.89,8.53-5.21l96.73-52.95c2.41-1.32,4.39-4.65,4.39-7.4v-75.75c0-2.75,2.25-5,5-5h30.33c2.75,0,5-1.12,5-2.5s1.58-4.1,3.51-6.06l49.8-50.62c1.93-1.96,3.51-5.81,3.51-8.56V124.9" fill="none" stroke="#993" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-3">
+      <g isolation="isolate">
+        <path d="M407.72,624.21l175.92-100.83c2.39-1.37,6.59-2.49,9.34-2.49h533.01c2.75,0,6.59,1.59,8.54,3.54l17.68,15.57c1.94,1.94,5.79,3.54,8.54,3.54h32.2c2.75,0,6.91-1.19,9.24-2.65l48.51-28.24" fill="none" stroke="#fff" stroke-width="5"/>
+        <path d="M407.72,624.21l175.92-100.83c2.39-1.37,6.59-2.49,9.34-2.49h533.01c2.75,0,6.59,1.59,8.54,3.54l17.68,15.57c1.94,1.94,5.79,3.54,8.54,3.54h32.2c2.75,0,6.91-1.19,9.24-2.65l48.51-28.24" fill="none" stroke="#d86830" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-9">
+      <g isolation="isolate">
+        <path d="M935.75,323.64l-102.06.24c-2.75,0-5,2.26-5,5.01v398.16c0,2.75,1.53,6.65,3.4,8.66l34.33,36.92c1.87,2.01,3.4,5.91,3.4,8.66v40.44c0,2.75,1.53,6.65,3.4,8.66l20.97,22.56,6.81,7.32,26.23,28.21c1.87,2.01,5.65,3.66,8.4,3.66h44.64" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M935.75,323.64l-102.06.24c-2.75,0-5,2.26-5,5.01v398.16c0,2.75,1.53,6.65,3.4,8.66l34.33,36.92c1.87,2.01,3.4,5.91,3.4,8.66v40.44c0,2.75,1.53,6.65,3.4,8.66l20.97,22.56,6.81,7.32,26.23,28.21c1.87,2.01,5.65,3.66,8.4,3.66h44.64" fill="none" stroke="#173" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-5">
+      <g isolation="isolate">
+        <path d="M1197.94,377.4l-51.88-.4c-2.75-.02-6.64,1.5-8.64,3.39l-49.29,46.34c-2,1.88-5.21,5.04-7.12,7.01l-44.95,46.32c-1.92,1.97-5.05,5.2-6.96,7.18l-24.32,25.07c-1.92,1.97-5.73,3.59-8.48,3.59h-57.09c-2.75,0-6.97,1.09-9.39,2.41l-96.73,52.95c-2.41,1.32-6.64,2.4-9.39,2.4h-190.45c-2.75,0-6.95,1.13-9.32,2.51l-228.69,132.73c-2.38,1.38-6.57,2.51-9.32,2.51h-63.61" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M1197.94,377.4l-51.88-.4c-2.75-.02-6.64,1.5-8.64,3.39l-49.29,46.34c-2,1.88-5.21,5.04-7.12,7.01l-44.95,46.32c-1.92,1.97-5.05,5.2-6.96,7.18l-24.32,25.07c-1.92,1.97-5.73,3.59-8.48,3.59h-57.09c-2.75,0-6.97,1.09-9.39,2.41l-96.73,52.95c-2.41,1.32-6.64,2.4-9.39,2.4h-190.45c-2.75,0-6.95,1.13-9.32,2.51l-228.69,132.73c-2.38,1.38-6.57,2.51-9.32,2.51h-63.61" fill="none" stroke="#8ce" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-6">
+      <g isolation="isolate">
+        <path d="M618.93,426.79l53.93.18c2.75,0,6.59,1.61,8.52,3.57l101.37,102.13c1.94,1.95,5.11,5.14,7.06,7.08l35.34,35.36c1.94,1.94,5.08,5.17,6.98,7.16l103.14,108.52c1.89,1.99,4.98,5.27,6.85,7.29l52.97,56.97c1.87,2.01,5.65,3.66,8.4,3.65l136.69-.23c2.75,0,6.83,1.31,9.06,2.91l58.06,41.84" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M618.93,426.79l53.93.18c2.75,0,6.59,1.61,8.52,3.57l101.37,102.13c1.94,1.95,5.11,5.14,7.06,7.08l35.34,35.36c1.94,1.94,5.08,5.17,6.98,7.16l103.14,108.52c1.89,1.99,4.98,5.27,6.85,7.29l52.97,56.97c1.87,2.01,5.65,3.66,8.4,3.65l136.69-.23c2.75,0,6.83,1.31,9.06,2.91l58.06,41.84" fill="none" stroke="#825" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-7">
+      <g isolation="isolate">
+        <path d="M1292.13,783.15l-202.31-146.2c-2.23-1.61-6.3-2.93-9.05-2.93h-138.93c-2.75,0-6.58-1.6-8.5-3.57l-48.39-49.23c-1.93-1.96-5.75-3.57-8.5-3.57h-137.7c-2.75,0-5-1.1-5-2.45s-1.61-4.03-3.57-5.95l-40.58-39.84c-1.96-1.93-5.82-3.5-8.57-3.5h-88.05c-2.75,0-5-1.13-5-2.5s-1.8-3.85-4.01-5.49l-47.28-35.27c-2.2-1.64-6.26-2.99-9.01-2.99h-68.24" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M1292.13,783.15l-202.31-146.2c-2.23-1.61-6.3-2.93-9.05-2.93h-138.93c-2.75,0-6.58-1.6-8.5-3.57l-48.39-49.23c-1.93-1.96-5.75-3.57-8.5-3.57h-137.7c-2.75,0-5-1.1-5-2.45s-1.61-4.03-3.57-5.95l-40.58-39.84c-1.96-1.93-5.82-3.5-8.57-3.5h-88.05c-2.75,0-5-1.13-5-2.5s-1.8-3.85-4.01-5.49l-47.28-35.27c-2.2-1.64-6.26-2.99-9.01-2.99h-68.24" fill="none" isolation="isolate" stroke="#52c1ac" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-8">
+      <g isolation="isolate" opacity=".9">
+        <path d="M499.9,795.4l83.94-56.87c2.28-1.54,4.14-5.05,4.14-7.8v-267.38c0-2.75,1.58-6.61,3.5-8.57l23.95-24.42c1.93-1.96,5.06-5.19,6.97-7.17l96.85-100.7c1.91-1.98,5.72-3.61,8.47-3.61l203.04-.24h10l121.17.23c2.75,0,6.58,1.62,8.5,3.58l40.57,41.37c1.93,1.96,5.75,3.57,8.5,3.57h78.45" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M499.9,795.4l83.94-56.87c2.28-1.54,4.14-5.05,4.14-7.8v-267.38c0-2.75,1.58-6.61,3.5-8.57l23.95-24.42c1.93-1.96,5.06-5.19,6.97-7.17l96.85-100.7c1.91-1.98,5.72-3.61,8.47-3.61l203.04-.24h10l121.17.23c2.75,0,6.58,1.62,8.5,3.58l40.57,41.37c1.93,1.96,5.75,3.57,8.5,3.57h78.45" fill="none" isolation="isolate" opacity=".9" stroke="#31688e" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-4">
+      <g isolation="isolate">
+        <path d="M631.89,245.8l187.74,135.87c2.23,1.61,4.05,5.18,4.05,7.93v35.8c0,2.75,2.25,5,5,5h58.3c2.75,0,5,2.25,5,5v47.68c0,2.75,1.78,6.38,3.95,8.07l34.31,26.68c2.17,1.69,5.68,4.5,7.81,6.25l62.36,51.39c2.12,1.75,6.11,3.18,8.86,3.18h67.62c2.75,0,7,1.04,9.43,2.31l54.43,28.38c2.44,1.27,6.68,2.31,9.43,2.31h117.5" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M631.89,245.8l187.74,135.87c2.23,1.61,4.05,5.18,4.05,7.93v35.8c0,2.75,2.25,5,5,5h58.3c2.75,0,5,2.25,5,5v47.68c0,2.75,1.78,6.38,3.95,8.07l34.31,26.68c2.17,1.69,5.68,4.5,7.81,6.25l62.36,51.39c2.12,1.75,6.11,3.18,8.86,3.18h67.62c2.75,0,7,1.04,9.43,2.31l54.43,28.38c2.44,1.27,6.68,2.31,9.43,2.31h117.5" fill="none" stroke="#a49" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-11">
+      <g isolation="isolate">
+        <path d="M1197.94,481l-39.47,62.46c-1.5,2.3-4.98,4.19-7.73,4.19h-60.6c-2.75,0-6.42,1.75-8.15,3.88l-16.44,18.23c-1.73,2.13-5.4,3.88-8.15,3.88h-223.71c-2.75,0-6.59-1.59-8.53-3.54l-35.13-35.14c-1.94-1.94-3.53-5.79-3.53-8.54v-33.72c0-2.75,1.98-6.08,4.39-7.39l96.72-52.78c2.41-1.32,6.64-2.39,9.39-2.39h182.49c2.75,0,6.89,1.21,9.21,2.7l34.28,21.95,8.42,5.39,28.27,18.11c2.32,1.48,6.46,2.7,9.21,2.7h29.08" fill="none" stroke="#fff" stroke-width="4"/>
+        <path d="M1197.94,481l-39.47,62.46c-1.5,2.3-4.98,4.19-7.73,4.19h-60.6c-2.75,0-6.42,1.75-8.15,3.88l-16.44,18.23c-1.73,2.13-5.4,3.88-8.15,3.88h-223.71c-2.75,0-6.59-1.59-8.53-3.54l-35.13-35.14c-1.94-1.94-3.53-5.79-3.53-8.54v-33.72c0-2.75,1.98-6.08,4.39-7.39l61-33.29,35.72-19.49c2.41-1.32,6.64-2.39,9.39-2.39h182.49c2.75,0,6.89,1.21,9.21,2.7l34.28,21.95,8.42,5.39,28.27,18.11c2.32,1.48,6.46,2.7,9.21,2.7h29.08" fill="none" stroke="#dc7" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="line-10">
+      <g isolation="isolate">
+        <path d="M744.29,892.15l-112.11-87.67c-2.17-1.69-3.94-5.33-3.94-8.08v-270.5c0-2.75,1.61-6.57,3.57-8.5l85.66-83.76c1.97-1.92,5.82-3.5,8.57-3.5h102.64c2.75,0,6.6-1.58,8.56-3.51l51.18-50.48c1.96-1.93,5.81-3.52,8.56-3.52l116.6-.23h184.35" fill="none" stroke="#fff" stroke-width="5"/>
+        <path d="M744.29,892.15l-112.11-87.67c-2.17-1.69-3.94-5.33-3.94-8.08v-270.5c0-2.75,1.61-6.57,3.57-8.5l85.66-83.76c1.97-1.92,5.82-3.5,8.57-3.5h102.64c2.75,0,6.6-1.58,8.56-3.51l51.18-50.48c1.96-1.93,5.81-3.52,8.56-3.52l116.6-.23h184.35" fill="none" stroke="#555" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+  <g id="all-stars">
+    <g id="_51-pegasi" data-name=" 51-pegasi">
+      <circle id="circle-Avaris" cx="935.75" cy="318.64" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-Avaris">
+        <rect id="label-background-Avaris" x="940.25" y="298.56" width="37.18" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(942.75 312.39)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Avaris</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="935.75" y1="323.64" x2="935.75" y2="318.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="935.75" y1="323.64" x2="935.75" y2="318.64" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="935.75" y1="323.64" x2="935.75" y2="318.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="_55-cancri" data-name=" 55-cancri">
+      <circle id="circle-Norelia" cx="628.24" cy="578.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-Norelia">
+        <rect id="label-background-Norelia" x="632.74" y="555.02" width="41.77" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(635.24 568.85)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Norelia</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="628.24" y1="578.15" x2="628.24" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="628.24" y1="578.15" x2="628.24" y2="573.15" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="628.24" y1="578.15" x2="628.24" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="_61-cygni" data-name=" 61-cygni">
+      <circle id="circle-61-cygni" cx="974.52" cy="430.15" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-61-cygni">
+        <rect id="label-background-61-cygni" x="981.02" y="431.07" width="50.31" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(983.52 444.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Thyraen</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="974.52" y1="434.73" x2="974.52" y2="429.73" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="974.52" y1="434.73" x2="974.52" y2="429.73" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="974.52" y1="434.73" x2="974.52" y2="429.73" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="_70-ophiuchi" data-name=" 70-ophiuchi">
+      <circle id="circle-70-ophiuchi" cx="1127.17" cy="457.5" r="5.01" fill="#dc7" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-70-ophiuchi">
+        <rect id="label-background-70-ophiuchi" x="1122.16" y="432.15" width="50.58" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1127.88 445.99)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Vandros</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="achernar">
+      <circle id="circle-achernar" cx="1145.19" cy="758.47" r="5.01" fill="#825" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-achernar">
+        <rect id="label-background-achernar" x="1149.69" y="738.39" width="55.64" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1152.19 752.22)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Ciryne</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1145.19" y1="760.83" x2="1145.19" y2="755.83" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1145.19" y1="760.83" x2="1145.19" y2="755.83" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1145.19" y1="760.83" x2="1145.19" y2="755.83" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="acrux">
+      <circle id="circle-acrux" cx="1207.31" cy="803.23" r="5.01" fill="#825" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-acrux">
+        <rect id="label-background-acrux" x="1163.05" y="806.41" width="43.89" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1165.55 820.24)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Zorath</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="adhara">
+      <circle id="circle-adhara" cx="628.24" cy="801.4" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-adhara">
+        <rect id="label-background-adhara" x="632.74" y="781.32" width="41.77" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(635.24 795.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Kelune</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="628.24" y1="801.39" x2="628.24" y2="796.39" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="628.24" y1="801.39" x2="628.24" y2="796.39" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="628.24" y1="801.54" x2="628.24" y2="796.54" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="aldebaran">
+      <circle id="circle-aldebaran" cx="459.44" cy="479.65" r="5.01" fill="#52c1ac" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-aldebaran">
+        <rect id="label-background-aldebaran" x="463.94" y="459.57" width="41.31" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(466.44 473.4)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Orvion</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="alnilam">
+      <circle id="circle-alnilam" cx="322.29" cy="711.4" r="5.01" fill="#8ce" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-alnilam">
+        <rect id="label-background-alnilam" x="326.79" y="691.32" width="39.41" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(329.29 705.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Sereth</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="alnitak">
+      <circle id="circle-alnitak" cx="390.9" cy="711.4" r="5.01" fill="#8ce" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-alnitak">
+        <rect id="label-background-alnitak" x="371.31" y="715.27" width="39.08" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(373.81 729.1)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Thalor</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="alpha-centauri">
+      <circle id="circle-alpha-centauri" cx="1002.08" cy="578.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-alpha-centauri">
+        <rect id="label-background-alpha-centauri" x="979.77" y="583.21" width="45.61" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(987.19 597.04)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Varion</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1002.08" y1="578.15" x2="1002.08" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1002.08" y1="578.15" x2="1002.08" y2="573.15" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1002.08" y1="578.15" x2="1002.08" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="altair">
+      <circle id="circle-altair" cx="1084.48" cy="430.15" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-altair">
+        <rect id="label-background-altair" x="1049.17" y="406.32" width="33.38" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1053.33 420.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Eldan</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1082.55" y1="432.08" x2="1086.08" y2="428.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1082.55" y1="432.08" x2="1086.08" y2="428.55" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1082.55" y1="432.08" x2="1086.08" y2="428.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="arcturus">
+      <circle id="circle-arcturus" cx="1197.94" cy="481" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-arcturus">
+        <rect id="label-background-arcturus" x="1205.44" y="471.09" width="40.24" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1207.94 484.92)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Mareth</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1197.94" y1="483.75" x2="1197.94" y2="478.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1197.94" y1="483.75" x2="1197.94" y2="478.75" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1197.94" y1="483.75" x2="1197.94" y2="478.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="avior">
+      <circle id="circle-avior" cx="980.28" cy="892.15" r="5.01" fill="#173" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-avior">
+        <rect id="label-background-avior" x="984.78" y="872.07" width="32.44" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(987.28 885.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">A</tspan></text>
+          <text transform="translate(994.42 885.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">vior</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="barnards-star">
+      <circle id="circle-barnards-star" cx="1032.56" cy="483.65" r="5.01" fill="#8ce" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-barnards-star">
+        <rect id="label-background-barnards-star" x="974.51" y="473.48" width="49.01" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(980.96 487.31)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Draven</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="beta-hydri">
+      <circle id="circle-beta-hydri" cx="1085.77" cy="634.02" r="5.01" fill="#52c1ac" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-beta-hydri">
+        <rect id="label-background-beta-hydri" x="1051.4" y="636.03" width="31.37" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1053.9 649.87)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Ydris</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Solven">
+      <circle id="circle-Solven" cx="938.72" cy="694.42" r="5.01" fill="#825" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-Solven">
+        <rect id="label-background-Solven" x="943.22" y="674.34" width="40.62" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(945.72 688.17)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Solven</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="betelgeuse">
+      <circle id="circle-betelgeuse" cx="407.72" cy="624.21" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-betelgeuse">
+        <rect id="label-background-betelgeuse" x="356.75" y="604.13" width="45.54" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(359.25 617.96)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Narluun</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="canopus">
+      <circle id="circle-canopus" cx="870.16" cy="801.4" r="5.01" fill="#173" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-canopus">
+        <rect id="label-background-canopus" x="875.16" y="781.32" width="30.93" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(877.66 795.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Velis</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="870.16" y1="803.9" x2="870.16" y2="798.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="870.16" y1="803.9" x2="870.16" y2="798.9" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="870.16" y1="803.9" x2="870.16" y2="798.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="capella">
+      <circle id="circle-capella" cx="618.93" cy="426.75" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-capella">
+        <rect id="label-background-capella" x="580.18" y="406.66" width="35.41" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(582.68 420.5)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Orryn</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="617.29" y1="428.44" x2="620.82" y2="424.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="617.29" y1="428.44" x2="620.82" y2="424.9" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="617.29" y1="428.44" x2="620.82" y2="424.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="castor">
+      <circle id="circle-castor" cx="587.97" cy="520.9" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-castor">
+        <rect id="label-background-castor" x="535.86" y="510.99" width="41.82" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(538.36 524.82)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Delvar</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="587.97" y1="525.9" x2="587.97" y2="520.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="587.97" y1="525.9" x2="587.97" y2="520.9" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="587.97" y1="525.9" x2="587.97" y2="520.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="delta-pavonis">
+      <circle id="circle-delta-pavonis" cx="1145.19" cy="611.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-delta-pavonis">
+        <rect id="label-background-delta-pavonis" x="1149.69" y="616.66" width="39.61" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1152.19 630.49)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Nareth</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1145.19" y1="614.15" x2="1145.19" y2="609.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1145.19" y1="614.15" x2="1145.19" y2="609.15" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1145.19" y1="614.15" x2="1145.19" y2="609.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="deneb">
+      <circle id="circle-deneb" cx="1031.33" cy="124.9" r="5.01" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-deneb">
+        <rect id="label-background-deneb" x="1035.83" y="104.82" width="40.9" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1038.33 118.65)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Auralis</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="denebola">
+      <circle id="circle-denebola" cx="828.69" cy="702.4" r="5.01" fill="#173" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-denebola">
+        <rect id="label-background-denebola" x="833.19" y="682.32" width="35.08" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(835.69 696.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Veren</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="epsilon-eridani">
+      <g id="label-epsilon-eridani">
+        <rect id="label-background-epsilon-eridani" x="737.05" y="526.52" width="38.71" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(739.55 540.36)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Relian</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="785.88" y1="536.63" x2="789.41" y2="533.09" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="785.88" y1="536.63" x2="789.41" y2="533.09" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="785.88" y1="536.63" x2="789.41" y2="533.09" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="epsilon-indi">
+      <circle id="circle-epsilon-indi" cx="1085.14" cy="547.65" r="5.01" fill="#dc7" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-epsilon-indi">
+        <rect id="label-background-epsilon-indi" x="1034.06" y="537.49" width="41.44" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1038.57 551.32)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Qarun</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Tirix">
+      <circle id="circle-Tirix" cx="1197.94" cy="372.4" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-Tirix">
+        <rect id="label-background-Tirix" x="1202.44" y="352.32" width="28.69" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1204.94 366.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Tirix</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1197.94" y1="377.4" x2="1197.94" y2="367.39" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1197.94" y1="377.4" x2="1197.94" y2="367.39" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1197.94" y1="377.4" x2="1197.94" y2="367.39" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="fomalhaut">
+      <circle id="circle-fomalhaut" cx="1163.86" cy="481" r="5.01" fill="#dc7" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-fomalhaut">
+        <rect id="label-background-fomalhaut" x="1110.61" y="470.11" width="44.58" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1110.92 483.95)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Zyphra</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="gliese-581">
+      <circle id="circle-gliese-581" cx="1155.74" cy="545.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-gliese-581">
+        <rect id="label-background-gliese-581" x="1115.91" y="548.07" width="40.06" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1119.57 561.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Orsian</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1155.74" y1="545.64" x2="1155.74" y2="540.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1155.74" y1="545.64" x2="1155.74" y2="540.64" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1155.74" y1="545.64" x2="1155.74" y2="540.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="gliese-667c">
+      <circle id="circle-gliese-667c" cx="1197.94" cy="545.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-gliese-667c">
+        <rect id="label-background-gliese-667c" x="1205.44" y="535.74" width="38.82" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1207.94 549.57)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Kelyth</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1197.94" y1="545.21" x2="1197.94" y2="540.21" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1197.94" y1="545.21" x2="1197.94" y2="540.21" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1197.94" y1="545.21" x2="1197.94" y2="540.21" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="groombridge-34">
+      <circle id="circle-groombridge-34" cx="828.69" cy="430.15" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-groombridge-34">
+        <rect id="label-background-groombridge-34" x="779.98" y="435.16" width="46.01" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(787.39 449)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Tarvos</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="828.69" y1="433.79" x2="828.69" y2="428.79" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="828.69" y1="433.79" x2="828.69" y2="428.79" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="828.69" y1="433.79" x2="828.69" y2="428.79" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="beta-centauri">
+      <circle id="circle-beta-centauri" cx="1292.13" cy="783.15" r="5.01" fill="#52c1ac" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-beta-centauri">
+        <rect id="label-background-beta-centauri" x="1271.95" y="787.74" width="39.03" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1274.45 801.57)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Kaldis</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="lalande-21185">
+      <circle id="circle-lalande-21185" cx="828.69" cy="520.9" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-lalande-21185">
+        <rect id="label-background-lalande-21185" x="831.75" y="497.07" width="48.64" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(836.49 510.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Caelos</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="828.69" y1="518.08" x2="828.69" y2="523.08" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="828.69" y1="518.08" x2="828.69" y2="523.08" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="828.69" y1="518.08" x2="828.69" y2="523.08" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="lhs-292">
+      <circle id="circle-lhs-292" cx="936.84" cy="634.02" r="5.01" fill="#52c1ac" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-lhs-292">
+        <rect id="label-background-lhs-292" x="941.34" y="613.93" width="41.68" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(943.84 627.77)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Eredon</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="luytens-star">
+      <circle id="circle-luytens-star" cx="733.74" cy="578.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-luytens-star">
+        <rect id="label-background-luytens-star" x="688.71" y="581.07" width="43.28" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(695.63 594.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Mynar</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="733.74" y1="578.15" x2="733.74" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="733.74" y1="578.15" x2="733.74" y2="573.15" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="733.74" y1="578.15" x2="733.74" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="miaplacidus">
+      <circle id="circle-miaplacidus" cx="1056.39" cy="801.4" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-miaplacidus">
+        <rect id="label-background-miaplacidus" x="1001.84" y="803.82" width="53.05" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1006.06 817.65)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Corvane</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="mirzam">
+      <circle id="circle-mirzam" cx="499.9" cy="801.4" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-mirzam">
+        <rect id="label-background-mirzam" x="442.88" y="791.24" width="51.25" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(445.38 805.07)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Thyssar</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="499.9" y1="801.39" x2="499.9" y2="796.39" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="499.9" y1="801.39" x2="499.9" y2="796.39" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="499.9" y1="801.39" x2="499.9" y2="796.39" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="mu-arae">
+      <circle id="circle-mu-arae" cx="1267.69" cy="611.65" r="5.01" fill="#a49" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-mu-arae">
+        <rect id="label-background-mu-arae" x="1244.26" y="585.83" width="47.21" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1246.76 599.66)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Vaelun</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="naos">
+      <circle id="circle-naos" cx="744.29" cy="892.15" r="5.01" fill="#555" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-naos">
+        <rect id="label-background-naos" x="748.79" y="872.07" width="44.95" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(751.29 885.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Rhyden</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="polaris">
+      <ellipse id="circle-polaris" cx="631.89" cy="245.9" rx="5.01" ry="4.92" fill="#a49" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-polaris">
+        <rect id="label-background-polaris" x="636.39" y="226.21" width="47.4" height="19.93" fill="#fff" isolation="isolate" opacity="0"/>
+        <text transform="translate(638.9 239.77)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Avenor</tspan></text>
+      </g>
+    </g>
+    <g id="pollux">
+      <circle id="circle-pollux" cx="628.24" cy="520.9" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-pollux">
+        <rect id="label-background-pollux" x="595.82" y="496.41" width="36.19" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(598.32 510.25)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Tirros</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="628.24" y1="525.9" x2="628.24" y2="520.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="628.24" y1="525.9" x2="628.24" y2="520.9" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="628.24" y1="525.9" x2="628.24" y2="520.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="regulus">
+      <circle id="circle-regulus" cx="673.32" cy="684.03" r="5.01" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-regulus">
+        <rect id="label-background-regulus" x="676.52" y="687.93" width="37.73" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(679.02 701.77)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Daryn</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ross-154">
+      <circle id="circle-ross-154" cx="1092.44" cy="520.9" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-ross-154">
+        <rect id="label-background-ross-154" x="1069.69" y="497.07" width="50.91" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1071.7 510.9)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Nerath</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ross-248">
+      <circle id="circle-ross-248" cx="891.99" cy="430.15" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-ross-248">
+        <rect id="label-background-ross-248" x="896.99" y="406.32" width="46.34" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(900.43 420.15)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Eryndor</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="891.99" y1="433.79" x2="891.99" y2="428.79" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="891.99" y1="433.79" x2="891.99" y2="428.79" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="891.99" y1="433.79" x2="891.99" y2="428.79" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="saiph">
+      <circle id="circle-saiph" cx="442.88" cy="743.53" r="5.01" fill="#c67" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-saiph">
+        <rect id="label-background-saiph" x="425.27" y="718.55" width="41.13" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(427.77 732.38)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Volmar</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="sirius">
+      <g id="label-sirius">
+        <rect id="label-background-sirius" x="753.69" y="555.02" width="48.45" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(756.82 568.85)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Cendara</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="826.19" y1="575.65" x2="831.19" y2="575.65" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="826.19" y1="575.65" x2="831.19" y2="575.65" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="826.19" y1="575.65" x2="831.19" y2="575.65" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="sol">
+      <g id="label-sol">
+        <rect id="label-background-sol" x="916.64" y="526.9" width="27.41" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(919.09 540.74)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Arun</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="929.84" y1="519.81" x2="934.22" y2="517.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="929.84" y1="519.81" x2="934.22" y2="517.4" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="929.84" y1="519.81" x2="934.22" y2="517.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="suhail">
+      <circle id="circle-suhail" cx="897.52" cy="856.46" r="5.01" fill="#173" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-suhail">
+        <rect id="label-background-suhail" x="902.02" y="836.38" width="38.39" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(904.52 850.21)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Zerath</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="tau-bootis">
+      <circle id="circle-tau-bootis" cx="1250.69" cy="512.65" r="5.01" fill="#d86830" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-tau-bootis">
+        <rect id="label-background-tau-bootis" x="1255.19" y="492.57" width="41.94" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <text transform="translate(1257.69 506.4)" font-family="Poppins-Regular, Poppins" font-size="11.7" isolation="isolate"><tspan x="0" y="0">Lunaris</tspan></text>
+      </g>
+    </g>
+    <g id="tau-ceti">
+      <circle id="circle-tau-ceti" cx="786.19" cy="486.97" r="5.01" fill="#dc7" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-tau-ceti">
+        <polygon id="label-background-tau-ceti" points="734.34 466.07 784.74 466.88 784.74 487.22 734.34 486.4 734.34 466.07" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(741.89 480.72)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Kelvaris</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="vega">
+      <circle id="circle-vega" cx="1031.65" cy="372.4" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-vega">
+        <rect id="label-background-vega" x="1036.15" y="352.32" width="34.14" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(1038.65 366.15)" font-family="ArialMT, Arial" font-size="11"><tspan x="0" y="0">Belaris</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="1031.33" y1="371.96" x2="1031.33" y2="366.96" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="1031.33" y1="371.96" x2="1031.33" y2="366.96" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="1031.33" y1="371.96" x2="1031.33" y2="366.96" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+    <g id="wezen">
+      <circle id="circle-wezen" cx="499.9" cy="866.96" r="5.01" fill="#993" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-wezen">
+        <rect id="label-background-wezen" x="504.4" y="846.87" width="41.43" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(506.9 860.71)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">W</tspan></text>
+          <text transform="translate(517.08 860.71)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">ezen</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="wolf-359">
+      <circle id="circle-wolf-359" cx="881.44" cy="578.65" r="5.01" stroke="#fff" stroke-miterlimit="10"/>
+      <g id="label-wolf-359">
+        <rect id="label-background-wolf-359" x="887.3" y="555.82" width="43.36" height="20.33" fill="#fff" isolation="isolate" opacity="0"/>
+        <g isolation="isolate">
+          <text transform="translate(889.8 569.65)" font-family="Poppins-Regular, Poppins" font-size="11.7"><tspan x="0" y="0">Drathis</tspan></text>
+        </g>
+      </g>
+      <g>
+        <line x1="881.44" y1="578.15" x2="881.44" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="14"/>
+        <line x1="881.44" y1="578.15" x2="881.44" y2="573.15" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="11"/>
+        <line x1="881.44" y1="578.15" x2="881.44" y2="573.15" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      </g>
+    </g>
+  </g>
+  <g id="legend">
+    <g id="legend-item-1">
+      <g>
+        <rect x="1474.16" y="122.54" width="63.06" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 142.96)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 1</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="136.93" x2="1451.37" y2="136.93" fill="none" isolation="isolate" opacity=".9" stroke="#c67" stroke-width="2"/>
+      <rect x="1377.96" y="127.39" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-2">
+      <g>
+        <rect x="1474.16" y="171.31" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 191.73)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 2</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="185.7" x2="1451.37" y2="185.7" fill="none" isolation="isolate" opacity=".9" stroke="#993" stroke-width="2"/>
+      <rect x="1377.96" y="176.16" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-3">
+      <g>
+        <rect x="1474.16" y="220.09" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 240.5)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 3</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="234.47" x2="1451.37" y2="234.47" fill="none" isolation="isolate" opacity=".9" stroke="#d86830" stroke-width="2"/>
+      <rect x="1377.96" y="224.94" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-4">
+      <g>
+        <rect x="1474.16" y="268.86" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 289.28)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 4</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="283.24" x2="1451.37" y2="283.24" fill="none" stroke="#a49" stroke-width="2"/>
+      <rect x="1377.96" y="273.71" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-5">
+      <g>
+        <rect x="1474.16" y="317.63" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 338.05)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 5</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="332.01" x2="1451.37" y2="332.01" fill="none" isolation="isolate" opacity=".9" stroke="#8ce" stroke-width="2"/>
+      <rect x="1377.96" y="322.48" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-6">
+      <g>
+        <rect x="1474.16" y="366.4" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 386.82)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 6</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="380.79" x2="1451.37" y2="380.79" fill="none" isolation="isolate" opacity=".9" stroke="#825" stroke-width="2"/>
+      <rect x="1377.96" y="371.25" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-7">
+      <g>
+        <rect x="1474.16" y="415.17" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 435.59)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 7</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="429.56" x2="1451.37" y2="429.56" fill="none" isolation="isolate" opacity=".9" stroke="#4a9" stroke-width="2"/>
+      <rect x="1377.96" y="420.02" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-8">
+      <g>
+        <rect x="1474.16" y="463.94" width="63.06" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 484.36)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 8</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="478.33" x2="1451.37" y2="478.33" fill="none" isolation="isolate" opacity=".9" stroke="#31688e" stroke-width="2"/>
+      <rect x="1377.96" y="468.79" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-9">
+      <g>
+        <rect x="1474.16" y="512.71" width="63.4" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 533.13)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 9</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="527.1" x2="1451.37" y2="527.1" fill="none" isolation="isolate" opacity=".9" stroke="#173" stroke-width="2"/>
+      <rect x="1377.96" y="517.56" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-10">
+      <g>
+        <rect x="1474.16" y="561.49" width="72.36" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 581.9)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line 10</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="575.87" x2="1451.37" y2="575.87" fill="none" isolation="isolate" opacity=".9" stroke="#555" stroke-width="2"/>
+      <rect x="1377.96" y="566.34" width="81.76" height="19.49" fill="none"/>
+    </g>
+    <g id="legend-item-11">
+      <g>
+        <rect x="1474.16" y="610.26" width="68.54" height="28.77" fill="#fff"/>
+        <g isolation="isolate">
+          <text transform="translate(1479.94 630.67)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">Line </tspan></text>
+          <text transform="translate(1520.53 630.67)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
+          <text transform="translate(1529.56 630.67)" font-family="Poppins-Regular, Poppins" font-size="18.72" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+      <line x1="1386.31" y1="624.64" x2="1451.37" y2="624.64" fill="none" isolation="isolate" opacity=".9" stroke="#dc7" stroke-width="2"/>
+      <rect x="1377.96" y="615.11" width="81.76" height="19.49" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="data-container">
+    <g id="links">
+      <g id="link_eats_Blorp-Glow_Vines" data-name="link_eats_Blorp-Glow Vines">
+        <g>
+          <line x1="766.38" y1="694.49" x2="967.23" y2="652" fill="none" stroke="#07b" stroke-width="1.23"/>
+          <polygon points="975.73 650.2 964.79 657.63 966.59 652.13 962.72 647.84 975.73 650.2" fill="#07b"/>
+        </g>
+      </g>
+      <g id="link_eats_Elgok-Slink_Root" data-name="link_eats_Elgok-Slink Root">
+        <g>
+          <line x1="703.23" y1="497.33" x2="814.44" y2="530.52" fill="none" stroke="#07b" stroke-width="1.23"/>
+          <polygon points="822.76 533 809.6 534.29 813.82 530.33 812.46 524.71 822.76 533" fill="#07b"/>
+        </g>
+      </g>
+      <g id="link_is_Blorp-creature" data-name="link is Blorp-creature">
+        <g>
+          <line x1="748.46" y1="691.23" x2="594.89" y2="593.18" fill="none" stroke="#d86830"/>
+          <polygon points="588.94 589.38 599.51 591.31 595.34 593.46 595.14 598.16 588.94 589.38" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_is_Snarg-creature" data-name="link is Snarg-creature">
+        <g>
+          <line x1="474.98" y1="624.58" x2="564.87" y2="590.13" fill="none" stroke="#e73"/>
+          <polygon points="571.46 587.61 563.62 594.96 564.37 590.32 560.71 587.37 571.46 587.61" fill="#e73"/>
+        </g>
+      </g>
+      <g id="link_is_Truz-creature" data-name="link is Truz-creature">
+        <g>
+          <line x1="604.01" y1="418.51" x2="583.01" y2="567.35" fill="none" stroke="#d86830"/>
+          <polygon points="582.02 574.34 579.39 563.92 583.08 566.83 587.44 565.06 582.02 574.34" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_is_Elgok-creature" data-name="link is Elgok-creature">
+        <g>
+          <line x1="686.09" y1="500.62" x2="593.9" y2="573.6" fill="none" stroke="#d86830"/>
+          <polygon points="588.36 577.98 593.64 568.62 594.31 573.27 598.69 574.99 588.36 577.98" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_is_Glow_Vines-plant" data-name="link_is_Glow Vines-plant">
+        <g>
+          <line x1="987.72" y1="638.61" x2="1030.24" y2="467.13" fill="none" stroke="#d86830"/>
+          <polygon points="1031.94 460.27 1033.49 470.91 1030.11 467.64 1025.6 468.95 1031.94 460.27" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_is_Slink_Root-plant" data-name="link_is_Slink Root-plant">
+        <g>
+          <line x1="841.26" y1="532" x2="1018.73" y2="457.28" fill="none" stroke="#d86830"/>
+          <polygon points="1025.23 454.54 1017.64 462.15 1018.24 457.49 1014.49 454.65 1025.23 454.54" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_is_Zint_Leaf-plant" data-name="link_is_Zint Leaf-plant">
+        <g>
+          <line x1="1091.71" y1="561.38" x2="1042.09" y2="465.72" fill="none" stroke="#d86830"/>
+          <polygon points="1038.84 459.46 1047.03 466.42 1042.33 466.19 1039.81 470.16 1038.84 459.46" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_is_Druma_Pod-plant" data-name="link_is_Druma Pod-plant">
+        <g>
+          <line x1="797.46" y1="364.31" x2="1018.43" y2="444.93" fill="none" stroke="#d86830"/>
+          <polygon points="1025.06 447.35 1014.32 447.76 1017.93 444.75 1017.11 440.12 1025.06 447.35" fill="#d86830"/>
+        </g>
+      </g>
+      <g id="link_poisons_Druma_Pod-Truz" data-name="link_poisons_Druma Pod-Truz">
+        <g>
+          <line x1="778.7" y1="363.43" x2="623.31" y2="404.08" fill="none" stroke="#ed3584" stroke-width="1.23"/>
+          <polygon points="614.91 406.28 625.48 398.34 623.94 403.91 628.01 408.02 614.91 406.28" fill="#ed3584"/>
+        </g>
+      </g>
+      <g id="link_poisons_Glow_Vines-Zint_Leaf" data-name="link_poisons_Glow Vines-Zint Leaf">
+        <g>
+          <line x1="993.4" y1="642.5" x2="1081.1" y2="580.77" fill="none" stroke="#ed3584" stroke-width="1.23"/>
+          <polygon points="1088.2 575.78 1081.07 586.91 1080.57 581.15 1075.31 578.73 1088.2 575.78" fill="#ed3584"/>
+        </g>
+      </g>
+      <g id="link_poisons_Druma_Pod-Elgok" data-name="link_poisons_Druma Pod-Elgok">
+        <g>
+          <line x1="782.54" y1="368.97" x2="704.5" y2="479.38" fill="none" stroke="#ed3584" stroke-width="1.23"/>
+          <polygon points="699.48 486.48 702.46 473.6 704.87 478.85 710.63 479.37 699.48 486.48" fill="#ed3584"/>
+        </g>
+      </g>
+    </g>
+    <g id="nodes">
+      <circle id="node-Blorp" cx="756.76" cy="696.53" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Glow_Vines" data-name="node-Glow Vines" cx="985.35" cy="648.16" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Elgok" cx="693.8" cy="494.51" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Slink_Root" data-name="node-Slink Root" cx="832.19" cy="535.82" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-creature" cx="580.65" cy="584.09" r="6.15" fill="#fff" stroke="#404040"/>
+      <circle id="node-Snarg" cx="465.79" cy="628.11" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Truz" cx="605.39" cy="408.77" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-plant" cx="1034.3" cy="450.72" r="6.15" fill="#fff" stroke="#404040"/>
+      <circle id="node-Zint_Leaf" data-name="node-Zint Leaf" cx="1096.25" cy="570.11" r="6.15" fill="#404040" stroke="#fff"/>
+      <circle id="node-Druma_Pod" data-name="node-Druma Pod" cx="788.22" cy="360.94" r="6.15" fill="#404040" stroke="#fff"/>
+    </g>
+    <g id="node-labels">
+      <g id="label-container-Blorp">
+        <rect id="label-background-Blorp" x="736.02" y="704.7" width="41.48" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Blorp">
+          <text transform="translate(742.4 720.08)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Blorp</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Glow_Vines" data-name="label-container-Glow Vines">
+        <rect id="label-background-Glow_Vines" data-name="label-background-Glow Vines" x="991.5" y="648.16" width="47.64" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Glow_Vines" data-name="label-text-Glow Vines">
+          <text transform="translate(998.99 663.54)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Glom</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Elgok">
+        <rect id="label-background-Elgok" x="644.91" y="473.06" width="42.74" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Elgok">
+          <text transform="translate(650.9 488.43)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Elgok</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Slink_Root" data-name="label-container-Slink Root">
+        <rect id="label-background-Slink_Root" data-name="label-background-Slink Root" x="811.93" y="542.27" width="40.52" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Slink_Root" data-name="label-text-Slink Root">
+          <text transform="translate(818.27 557.64)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Slink </tspan></text>
+        </g>
+      </g>
+      <g id="label-container-creature">
+        <rect id="label-background-creature" x="503.93" y="557.64" width="67.56" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-creature">
+          <text transform="translate(512.42 573.02)" font-family="Poppins-Bold, Poppins" font-size="11.69" font-weight="700"><tspan x="0" y="0">Creature</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Snarg">
+        <rect id="label-background-Snarg" x="413.2" y="616.42" width="46.44" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Snarg">
+          <text transform="translate(420.01 631.8)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Snarg</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Truz">
+        <rect id="label-background-Truz" x="579.32" y="378.63" width="35.1" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Truz">
+          <text transform="translate(584.8 394.01)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Truz</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-plant">
+        <rect id="label-background-plant" x="1043.88" y="439.04" width="42.78" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-plant">
+          <text transform="translate(1050.24 454.41)" font-family="Poppins-Bold, Poppins" font-size="11.69" font-weight="700"><tspan x="0" y="0">Plant</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Zint_Leaf" data-name="label-container-Zint Leaf">
+        <rect id="label-background-Zint_Leaf" data-name="label-background-Zint Leaf" x="1105.66" y="558.43" width="34.62" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Zint_Leaf" data-name="label-text-Zint Leaf">
+          <text transform="translate(1112.39 573.8)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Zint</tspan></text>
+        </g>
+      </g>
+      <g id="label-container-Druma_Pod" data-name="label-container-Druma Pod">
+        <rect id="label-background-Druma_Pod" data-name="label-background-Druma Pod" x="759.46" y="330.8" width="57.52" height="23.37" fill="#fff" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+        <g id="label-text-Druma_Pod" data-name="label-text-Druma Pod">
+          <text transform="translate(767.79 346.18)" font-family="Poppins-Regular, Poppins" font-size="11.69"><tspan x="0" y="0">Druma</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="legend-container">
+    <g id="links-legend-container">
+      <g id="legend-items-container">
+        <g id="legend-item-eats">
+          <circle id="node-Slink_Root-2" data-name="node-Slink Root" cx="1532.91" cy="416.73" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-3" data-name="node-Slink Root" cx="1386.55" cy="416.73" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <g>
+            <line x1="1392.7" y1="416.73" x2="1518.07" y2="416.73" fill="none" stroke="#07b" stroke-width="1.23"/>
+            <polygon points="1526.76 416.73 1514.52 421.73 1517.42 416.73 1514.52 411.73 1526.76 416.73" fill="#07b"/>
+          </g>
+          <text transform="translate(1439.31 403.53)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">eats</tspan></text>
+          <text transform="translate(1528.38 403.53)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">B</tspan></text>
+          <text transform="translate(1381.57 403.53)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+        </g>
+        <g id="legend-item-poisons">
+          <text transform="translate(1381.57 323.48)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+          <text transform="translate(1528.38 323.48)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">B</tspan></text>
+          <text transform="translate(1423.36 323.48)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">poisons</tspan></text>
+          <g>
+            <line x1="1392.7" y1="336.68" x2="1518.07" y2="336.68" fill="none" stroke="#ed3584" stroke-width="1.23"/>
+            <polygon points="1526.76 336.68 1514.52 341.68 1517.42 336.68 1514.52 331.68 1526.76 336.68" fill="#ed3584"/>
+          </g>
+          <circle id="node-Slink_Root-4" data-name="node-Slink Root" cx="1386.55" cy="336.68" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-5" data-name="node-Slink Root" cx="1532.91" cy="336.68" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+        </g>
+        <g id="legend-item-is">
+          <text transform="translate(1408.84 243.7)" font-family="Poppins-Regular, Poppins" font-size="18.72"><tspan x="0" y="0">is a type of</tspan></text>
+          <text transform="translate(1528.07 243.7)" font-family="Poppins-Bold, Poppins" font-size="13.53" font-weight="700"><tspan x="0" y="0">X</tspan></text>
+          <text transform="translate(1381.57 243.7)" font-family="Poppins-Regular, Poppins" font-size="14.76"><tspan x="0" y="0">A</tspan></text>
+          <g>
+            <line x1="1392.71" y1="256.61" x2="1519.69" y2="256.61" fill="none" stroke="#d86830"/>
+            <polygon points="1526.76 256.61 1516.81 260.68 1519.17 256.61 1516.81 252.55 1526.76 256.61" fill="#d86830"/>
+          </g>
+          <circle id="node-Slink_Root-6" data-name="node-Slink Root" cx="1386.55" cy="256.61" r="6.15" fill="#404040" stroke="#fff" stroke-width="1.23"/>
+          <circle id="node-Slink_Root-7" data-name="node-Slink Root" cx="1532.91" cy="256.61" r="6.15" fill="#fff" stroke="#404040" stroke-width="1.23"/>
+        </g>
+      </g>
+      <g id="legend-title-links">
+        <text transform="translate(1380.4 185.19)" font-family="Poppins-Bold, Poppins" font-size="18.2" font-weight="700" isolation="isolate"><tspan x="0" y="0">LINK TYPE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
