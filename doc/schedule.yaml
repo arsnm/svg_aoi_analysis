@@ -1,0 +1,68 @@
+show-today: true
+
+headers:
+  - month
+  - week
+
+start: 2026-04-17
+end: 2026-06-26
+
+tasks:
+  - name: "Setup"
+    subtasks:
+    - name: "Understanding our task(s)"
+      start: 2026-04-24
+      end: 2026-04-27
+    - name: "Scheduling the project"
+      start: 2026-04-27
+      end: 2026-04-30
+    - name: "Establishing the Project Plan"
+      start: 2026-04-27
+      end: 2026-04-30
+
+  - name: "AOI extraction"
+    subtasks:
+      - name: "Defining the AOI tree structure"
+        start: 2026-04-30
+        end: 2026-05-04
+      - name: "Implementing AOI extraction"
+        start: 2026-05-04
+        end: 2026-05-23
+      - name: "Validating the process"
+        start: 2026-05-23
+        end: 2026-05-25
+
+  - name: "Extraction Pipeline"
+    subtasks:
+      - name: "Defining needs of the pipeline"
+        start: 2026-05-15
+        end: 2026-05-17
+      - name: "Implementing missing steps"
+        start: 2026-05-17
+        end: 2026-05-23
+      - name: "Putting together the pipeline"
+        start: 2026-05-23
+        end: 2026-05-27
+      - name: "Tests, validation"
+        start: 2026-05-27
+        end: 2026-05-29
+  - name: "Visualizing AOI tree"
+    start: 2026-05-30
+    end: 2026-06-26
+
+milestones:
+  - name: "Project Assigment"
+    date: 2026-04-17
+    show-date: true
+  - name: "Kickoff"
+    date: 2026-04-24
+    show-date: true
+  - name: "Send Project Plan"
+    date: 2026-04-30
+    show-date: true
+  - name: "Midterm Evaluation"
+    date: 2026-05-29
+    show-date: true
+  - name: "Final Deadline"
+    date: 2026-06-26
+    show-date: true
