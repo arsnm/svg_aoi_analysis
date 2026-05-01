@@ -1,22 +1,10 @@
+#import "./global.typ": *
 #import "@preview/gantty:0.5.1" as gantty
-#import "./schedule.typ": schedule
+#import "./schedule.typ"
 
-// some data
-#let title = "Automatic extraction of semantic AOIs from heterogeneous SVG visualizations"
-
-#let authors = (
-  (name: "Charbel ABOU KHEIR", email: "charbel.aboukheir@telecom-paris.fr"),
-  (name: "Jean Paul AL AM", email: "jean.alam@telecom-paris.fr"),
-  (name: "Arsène MALLET", email: "arsene.mallet@telecom-paris.fr"),
-  (name: "Marie-José TANNOURY", email: "marie-jose.tannoury@telecom-paris.fr"),
-  (name: "Alain TRAD", email: "alain.trad@telecom-paris.fr"),
-)
-#let superviser = (name: "Anne-Flore Cabouat", email:
-"anne-flore.cabouat@inria.fr")
+#let doc_title = "Project Plan"
 
 // configuration and customizations
-#let etc = smallcaps[etc.]
-
 #set text(
   lang: "en",
 )
@@ -36,7 +24,7 @@
   header: [
     _DSAI Project_
     #h(1fr)
-    _Telecom Paris_
+    _#(school)_
   ],
   footer: [
     _#(datetime.today().display())_
@@ -56,7 +44,7 @@
     spacing: 1em,
     block(width: 75%)[#text(1.5em, weight: "bold", hyphenate: false)[#title]],
     text(1.2em, style: "italic", weight: 550)[
-      Project Plan
+      #(doc_title)
     ],
   )
   #v(0.5em)
@@ -64,8 +52,8 @@
     link("mailto:" + a.email, box(a.name))
   }).join(", ")).
 
-  _Under the supervision of #(link("mailto:" + superviser.email,
-  superviser.name))._
+  _Under the supervision of #(link("mailto:" + supervisor.email,
+  supervisor.name))._
 ]
 #line(length: 100%, stroke: 0.5pt)
 #v(1em)
@@ -150,7 +138,7 @@ for the project. The goal of this allocation is to ensure clear ownership and
 accountability for every aspect of the project. However, these roles remain
 flexible and may be adjusted as the project evolves.
 
-== Shared Responsabilities
+== Shared Responsibilities
 - Development of the AOI extraction pipeline
 - Weekly integration and testing
 - Validation and refinement of extraction rules
@@ -162,12 +150,12 @@ flexible and may be adjusted as the project evolves.
   - Explore edge cases and less structured visualizations.
   - Identify potential challenges for normalization.
 - *J. P. AL AM: _Cross-Visualization and Integration Lead_*
-  - Compare structural patterns accross all visualizations types.
+  - Compare structural patterns across all visualizations types.
   - Support development of common parsing and normalization rules.
   - Coordinate integration of findings from all members.
 - *A. MALLET: _Scatterplot Lead_*
   - Analyze point marks, axes, labels and legend structures.
-  - Document reccuring semantic patterns.
+  - Document recurring semantic patterns.
 - *M-J. TANNOURY: _Maps Lead_*
   - Analyze SVG structure and semantic patterns specific to maps.
   - Identify challenges related to geographic marks and labels.
@@ -192,18 +180,18 @@ flexible and may be adjusted as the project evolves.
     align(center)[*Risks*], align(center)[*Mitigation Plans*],
   ),
 
-  [SVG structures vary significantly accross visualizations, which makes it
+  [SVG structures vary significantly across visualizations, which makes it
   difficult to apply a single extraction approach.], [Begin with a common AOI
   schema and ajust parsing rules iteratively.],
   [Important semantic information may be missing or inconsistently labeled in
   some SVG files.], [Use the position of the elements and their grouping in the
   SVG to better identify AOIs whose labels are missing or unclear.],
-  [Bounding boxes or AOIs may be innacurate for complex visual elements.],
+  [Bounding boxes or AOIs may be inaccurate for complex visual elements.],
   [Perform manual validation and consistency checks on sample visualizations.],
   [Integration challenges and issues may occur when combining parsing, geometry
   and normalization.], [Use shared code repository and perform weekly
   integration.],
   [Project timeline may be underestimated due to unforeseen complexity.],
   [Prioritize completing a core AOI extraction pipeline first, leaving optional
-  ajustements for later.],
+  adjustments for later.],
 )
