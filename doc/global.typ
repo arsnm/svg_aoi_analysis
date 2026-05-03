@@ -15,4 +15,3 @@
 
 #let school = "Télécom Paris"
 
-#let etc = smallcaps[etc.]
