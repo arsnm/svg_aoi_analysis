@@ -21,29 +21,33 @@ class SVGTreeNodeRaw:
         of the SVG elements.
     """
 
-    def __init__(
-        self,
+    def __init__(self,
         tag: str,
         parent: SVGTreeNodeRaw | None = None,
         attributes: dict | None = None,
         children: list[SVGTreeNodeRaw] | None = None,
-    ):
+        text: str | None = None,):
+        """Initializes raw SVG tree nodes preserving unmapped native elements gracefully."""
         self.id = id(self)
         self.tag = tag
         self.parent = parent  # allow for faster backtracking when needed
         # (is None for the root node).
         self.attributes = attributes if attributes is not None else {}
         self.children = children if children is not None else []
+        self.text = text
 
     def __repr__(self):
+        """Generates a base string representation displaying tree cascade visually."""
         return self._build_str()
 
     def __eq__(self, other):
+        """Evaluates pure identity equality asserting precisely memory instance comparisons intuitively."""
         if not isinstance(other, SVGTreeNodeRaw):
             return NotImplemented
         return self.id == other.id
 
     def _build_str(self, level=0, verbose=False) -> str:
+        """Constructs recursive indent-level layout strings sequentially outputting the layout block context logic."""
         indent = "  " * level
         if verbose:
             res = f"{indent}NODE({self.tag}, attrs={self.attributes})"
@@ -99,6 +103,7 @@ class SVGTreeRaw:
             )
 
     def __repr__(self):
+        """Yields visual encapsulation wrapper directly identifying its core origin."""
         return f"SVGTree({self.root})"
 
     @staticmethod
@@ -106,14 +111,16 @@ class SVGTreeRaw:
         element: ET.Element, parent: SVGTreeNodeRaw | None = None
     ) -> SVGTreeNodeRaw:
         """
-        Recursively builds a tree structure from the given SVG element.
+        Static method that recursively builds a tree structure from the given
+        SVG element.
         Args:
             element (xml.etree.ElementTree.Element): The SVG element to be parsed.
         Returns:
             A tree structure representing the SVG elements and their relationships.
         """
         tag = element.tag.split("}")[-1]  # Remove namespace if present
-        node = SVGTreeNodeRaw(tag=tag, parent=parent, attributes=element.attrib)
+        text_content = "".join(element.itertext()).strip() if tag == "text" else element.text
+        node = SVGTreeNodeRaw(tag=tag, parent=parent, attributes=element.attrib, text=text_content)
 
         for child in element:
             node.children.append(SVGTreeRaw._build_svg_tree_rec(child, parent=node))
