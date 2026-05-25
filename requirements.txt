@@ -1,2 +1,3 @@
 shapely
 svg.path
+ipykernel
