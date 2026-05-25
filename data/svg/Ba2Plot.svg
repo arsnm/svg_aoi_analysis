@@ -1,0 +1,427 @@
+<svg class="plot-d6a7b5" fill="currentColor" font-family="system-ui, sans-serif" font-size="10"
+  text-anchor="middle" width="700" height="500" viewBox="0 0 800 500"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>:where(.plot-d6a7b5) {
+  --plot-background: white;
+  display: block;
+  height: auto;
+  height: intrinsic;
+  max-width: 100%;
+}
+:where(.plot-d6a7b5 text),
+:where(.plot-d6a7b5 tspan) {
+  white-space: pre;
+}</style>
+  <g aria-label="y-axis tick" aria-hidden="true" fill="none" stroke="currentColor">
+    <path transform="translate(40,470)" d="M0,0L-6,0" />
+    <path transform="translate(40,440)" d="M0,0L-6,0" />
+    <path transform="translate(40,410.00000000000006)" d="M0,0L-6,0" />
+    <path transform="translate(40,380)" d="M0,0L-6,0" />
+    <path transform="translate(40,350)" d="M0,0L-6,0" />
+    <path transform="translate(40,320.00000000000006)" d="M0,0L-6,0" />
+    <path transform="translate(40,290)" d="M0,0L-6,0" />
+    <path transform="translate(40,260)" d="M0,0L-6,0" />
+    <path transform="translate(40,230)" d="M0,0L-6,0" />
+    <path transform="translate(40,200)" d="M0,0L-6,0" />
+    <path transform="translate(40,170.00000000000003)" d="M0,0L-6,0" />
+    <path transform="translate(40,140.00000000000003)" d="M0,0L-6,0" />
+    <path transform="translate(40,109.99999999999999)" d="M0,0L-6,0" />
+    <path transform="translate(40,79.99999999999999)" d="M0,0L-6,0" />
+    <path transform="translate(40,49.99999999999999)" d="M0,0L-6,0" />
+    <path transform="translate(40,20)" d="M0,0L-6,0" />
+  </g>
+  <g aria-label="y-axis tick label" text-anchor="end" font-variant="tabular-nums"
+    transform="translate(-9,0)">
+    <text y="0.32em" transform="translate(40,470)">0</text>
+    <text y="0.32em" transform="translate(40,440)">2</text>
+    <text y="0.32em" transform="translate(40,410.00000000000006)">4</text>
+    <text y="0.32em" transform="translate(40,380)">6</text>
+    <text y="0.32em" transform="translate(40,350)">8</text>
+    <text y="0.32em" transform="translate(40,320.00000000000006)">10</text>
+    <text y="0.32em" transform="translate(40,290)">12</text>
+    <text y="0.32em" transform="translate(40,260)">14</text>
+    <text y="0.32em" transform="translate(40,230)">16</text>
+    <text y="0.32em" transform="translate(40,200)">18</text>
+    <text y="0.32em" transform="translate(40,170.00000000000003)">20</text>
+    <text y="0.32em" transform="translate(40,140.00000000000003)">22</text>
+    <text y="0.32em" transform="translate(40,109.99999999999999)">24</text>
+    <text y="0.32em" transform="translate(40,79.99999999999999)">26</text>
+    <text y="0.32em" transform="translate(40,49.99999999999999)">28</text>
+    <text y="0.32em" transform="translate(40,20)">30</text>
+  </g>
+  <g aria-label="y-axis label" transform="translate(-37,0)">
+    <text y="0.71em" transform="translate(40,245) rotate(-90)">NUTRITIONAL VALUE (g/100g)</text>
+  </g>
+  <g aria-label="x-axis tick" aria-hidden="true" fill="none" stroke="currentColor">
+    <path transform="translate(56,470)" d="M0,0L0,6" />
+    <path transform="translate(88,470)" d="M0,0L0,6" />
+    <path transform="translate(120,470)" d="M0,0L0,6" />
+    <path transform="translate(152,470)" d="M0,0L0,6" />
+    <path transform="translate(184,470)" d="M0,0L0,6" />
+    <path transform="translate(216,470)" d="M0,0L0,6" />
+    <path transform="translate(248,470)" d="M0,0L0,6" />
+    <path transform="translate(280,470)" d="M0,0L0,6" />
+    <path transform="translate(312,470)" d="M0,0L0,6" />
+    <path transform="translate(344,470)" d="M0,0L0,6" />
+    <path transform="translate(376,470)" d="M0,0L0,6" />
+    <path transform="translate(408,470)" d="M0,0L0,6" />
+    <path transform="translate(440,470)" d="M0,0L0,6" />
+    <path transform="translate(472,470)" d="M0,0L0,6" />
+    <path transform="translate(504,470)" d="M0,0L0,6" />
+    <path transform="translate(536,470)" d="M0,0L0,6" />
+    <path transform="translate(568,470)" d="M0,0L0,6" />
+    <path transform="translate(600,470)" d="M0,0L0,6" />
+    <path transform="translate(632,470)" d="M0,0L0,6" />
+    <path transform="translate(664,470)" d="M0,0L0,6" />
+  </g>
+  <g aria-label="x-axis tick label" transform="translate(0,9)">
+    <text y="0.71em" transform="translate(56,470)">100</text>
+    <text y="0.71em" transform="translate(88,470)">102</text>
+    <text y="0.71em" transform="translate(120,470)">106</text>
+    <text y="0.71em" transform="translate(152,470)">110</text>
+    <text y="0.71em" transform="translate(184,470)">121</text>
+    <text y="0.71em" transform="translate(216,470)">139</text>
+    <text y="0.71em" transform="translate(248,470)">142</text>
+    <text y="0.71em" transform="translate(280,470)">166</text>
+    <text y="0.71em" transform="translate(312,470)">170</text>
+    <text y="0.71em" transform="translate(344,470)">171</text>
+    <text y="0.71em" transform="translate(376,470)">172</text>
+    <text y="0.71em" transform="translate(408,470)">178</text>
+    <text y="0.71em" transform="translate(440,470)">182</text>
+    <text y="0.71em" transform="translate(472,470)">290</text>
+    <text y="0.71em" transform="translate(504,470)">311</text>
+    <text y="0.71em" transform="translate(536,470)">313</text>
+    <text y="0.71em" transform="translate(568,470)">92</text>
+    <text y="0.71em" transform="translate(600,470)">95</text>
+    <text y="0.71em" transform="translate(632,470)">97</text>
+    <text y="0.71em" transform="translate(664,470)">98</text>
+  </g>
+  <g aria-label="x-axis label" text-anchor="end" transform="translate(17,27)">
+    <text transform="translate(680,470)">FOOD ITEM</text>
+  </g>
+  <g aria-label="rule" transform="translate(-5,0)">
+    <line x1="120" x2="120" y1="470" y2="345.50000000000006" stroke="orange" />
+    <line x1="568" x2="568" y1="470" y2="345.35" stroke="orange" />
+    <line x1="600" x2="600" y1="470" y2="354.65000000000003" stroke="orange" />
+    <line x1="280" x2="280" y1="470" y2="359.3" stroke="orange" />
+    <line x1="632" x2="632" y1="470" y2="356.15" stroke="orange" />
+    <line x1="440" x2="440" y1="470" y2="365.9" stroke="orange" />
+    <line x1="472" x2="472" y1="470" y2="336.95000000000005" stroke="blue" />
+    <line x1="152" x2="152" y1="470" y2="363.05" stroke="orange" />
+    <line x1="248" x2="248" y1="470" y2="369.65" stroke="orange" />
+    <line x1="504" x2="504" y1="470" y2="322.7" stroke="blue" />
+    <line x1="664" x2="664" y1="470" y2="367.7" stroke="orange" />
+    <line x1="312" x2="312" y1="470" y2="375.65" stroke="orange" />
+    <line x1="88" x2="88" y1="470" y2="346.40000000000003" stroke="orange" />
+    <line x1="376" x2="376" y1="470" y2="388.1" stroke="orange" />
+    <line x1="536" x2="536" y1="470" y2="332.29999999999995" stroke="blue" />
+    <line x1="408" x2="408" y1="470" y2="320.00000000000006" stroke="orange" />
+    <line x1="344" x2="344" y1="470" y2="390.2" stroke="orange" />
+    <line x1="56" x2="56" y1="470" y2="349.1" stroke="orange" />
+    <line x1="184" x2="184" y1="470" y2="378.04999999999995" stroke="orange" />
+    <line x1="216" x2="216" y1="470" y2="352.1" stroke="orange" />
+  </g>
+  <g aria-label="dot" transform="translate(-5,0)">
+    <path transform="translate(120,345.50000000000006)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="orange" />
+    <path transform="translate(568,345.35)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(600,354.65000000000003)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="orange" />
+    <path transform="translate(280,359.3)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(632,356.15)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(440,365.9)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(472,336.95000000000005)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="blue" />
+    <path transform="translate(152,363.05)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(248,369.65)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(504,322.7)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="blue" />
+    <path transform="translate(664,367.7)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(312,375.65)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(88,346.40000000000003)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="orange" />
+    <path transform="translate(376,388.1)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(536,332.29999999999995)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="blue" />
+    <path transform="translate(408,320.00000000000006)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="orange" />
+    <path transform="translate(344,390.2)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(56,349.1)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+    <path transform="translate(184,378.04999999999995)" d="M-2.659,-2.659h5.317v5.317h-5.317Z"
+      fill="orange" />
+    <path transform="translate(216,352.1)" d="M-2.659,-2.659h5.317v5.317h-5.317Z" fill="orange" />
+  </g>
+  <g aria-label="rule">
+    <line x1="120" x2="120" y1="470" y2="352.40000000000003" stroke="orange" />
+    <line x1="568" x2="568" y1="470" y2="287" stroke="orange" />
+    <line x1="600" x2="600" y1="470" y2="260" stroke="orange" />
+    <line x1="280" x2="280" y1="470" y2="204.50000000000003" stroke="orange" />
+    <line x1="632" x2="632" y1="470" y2="282.49999999999994" stroke="orange" />
+    <line x1="440" x2="440" y1="470" y2="93.5" stroke="orange" />
+    <line x1="472" x2="472" y1="470" y2="94.99999999999999" stroke="blue" />
+    <line x1="152" x2="152" y1="470" y2="275" stroke="orange" />
+    <line x1="248" x2="248" y1="470" y2="66.50000000000003" stroke="orange" />
+    <line x1="504" x2="504" y1="470" y2="123.5" stroke="blue" />
+    <line x1="664" x2="664" y1="470" y2="345.04999999999995" stroke="orange" />
+    <line x1="312" x2="312" y1="470" y2="267.5" stroke="orange" />
+    <line x1="88" x2="88" y1="470" y2="336.65000000000003" stroke="orange" />
+    <line x1="376" x2="376" y1="470" y2="115.99999999999997" stroke="orange" />
+    <line x1="536" x2="536" y1="470" y2="114.50000000000003" stroke="blue" />
+    <line x1="408" x2="408" y1="470" y2="68" stroke="orange" />
+    <line x1="344" x2="344" y1="470" y2="266" stroke="orange" />
+    <line x1="56" x2="56" y1="470" y2="328.84999999999997" stroke="orange" />
+    <line x1="184" x2="184" y1="470" y2="337.7" stroke="orange" />
+    <line x1="216" x2="216" y1="470" y2="213.49999999999997" stroke="orange" />
+  </g>
+  <g aria-label="dot">
+    <path transform="translate(120,352.40000000000003)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(568,287)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(600,260)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(280,204.50000000000003)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(632,282.49999999999994)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(440,93.5)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(472,94.99999999999999)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="blue" />
+    <path transform="translate(152,275)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(248,66.50000000000003)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(504,123.5)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="blue" />
+    <path transform="translate(664,345.04999999999995)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(312,267.5)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(88,336.65000000000003)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(376,115.99999999999997)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(536,114.50000000000003)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="blue" />
+    <path transform="translate(408,68)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(344,266)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(56,328.84999999999997)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(184,337.7)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+    <path transform="translate(216,213.49999999999997)"
+      d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"
+      fill="orange" />
+  </g>
+  <g aria-label="rule" transform="translate(5,0)">
+    <line x1="120" x2="120" y1="470" y2="391.09999999999997" stroke="orange" />
+    <line x1="568" x2="568" y1="470" y2="421.25" stroke="orange" />
+    <line x1="600" x2="600" y1="470" y2="402.04999999999995" stroke="orange" />
+    <line x1="280" x2="280" y1="470" y2="307.99999999999994" stroke="orange" />
+    <line x1="632" x2="632" y1="470" y2="374.75" stroke="orange" />
+    <line x1="440" x2="440" y1="470" y2="364.7" stroke="orange" />
+    <line x1="472" x2="472" y1="470" y2="379.54999999999995" stroke="blue" />
+    <line x1="152" x2="152" y1="470" y2="361.09999999999997" stroke="orange" />
+    <line x1="248" x2="248" y1="470" y2="414.5" stroke="orange" />
+    <line x1="504" x2="504" y1="470" y2="319.85" stroke="blue" />
+    <line x1="664" x2="664" y1="470" y2="334.1" stroke="orange" />
+    <line x1="312" x2="312" y1="470" y2="384.2" stroke="orange" />
+    <line x1="88" x2="88" y1="470" y2="396.95" stroke="orange" />
+    <line x1="376" x2="376" y1="470" y2="395.9" stroke="orange" />
+    <line x1="536" x2="536" y1="470" y2="346.25" stroke="blue" />
+    <line x1="408" x2="408" y1="470" y2="345.50000000000006" stroke="orange" />
+    <line x1="344" x2="344" y1="470" y2="373.99999999999994" stroke="orange" />
+    <line x1="56" x2="56" y1="470" y2="383.45" stroke="orange" />
+    <line x1="184" x2="184" y1="470" y2="393.5" stroke="orange" />
+    <line x1="216" x2="216" y1="470" y2="396.5" stroke="orange" />
+  </g>
+  <g aria-label="dot" transform="translate(5,0)">
+    <path transform="translate(120,391.09999999999997)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="orange" />
+    <path transform="translate(568,421.25)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(600,402.04999999999995)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="orange" />
+    <path transform="translate(280,307.99999999999994)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="orange" />
+    <path transform="translate(632,374.75)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(440,364.7)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(472,379.54999999999995)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="blue" />
+    <path transform="translate(152,361.09999999999997)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="orange" />
+    <path transform="translate(248,414.5)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(504,319.85)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="blue" />
+    <path transform="translate(664,334.1)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(312,384.2)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(88,396.95)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(376,395.9)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(536,346.25)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="blue" />
+    <path transform="translate(408,345.50000000000006)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="orange" />
+    <path transform="translate(344,373.99999999999994)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z"
+      fill="orange" />
+    <path transform="translate(56,383.45)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(184,393.5)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+    <path transform="translate(216,396.5)" d="M0,-4.665L4.04,2.333L-4.04,2.333Z" fill="orange" />
+  </g>
+  <g aria-label="y-grid" aria-hidden="true" stroke="gray" stroke-opacity="0.5">
+    <line x1="40" x2="680" y1="470" y2="470" />
+    <line x1="40" x2="680" y1="462.49999999999994" y2="462.49999999999994" />
+    <line x1="40" x2="680" y1="455" y2="455" />
+    <line x1="40" x2="680" y1="447.5" y2="447.5" />
+    <line x1="40" x2="680" y1="440" y2="440" />
+    <line x1="40" x2="680" y1="432.5" y2="432.5" />
+    <line x1="40" x2="680" y1="425" y2="425" />
+    <line x1="40" x2="680" y1="417.49999999999994" y2="417.49999999999994" />
+    <line x1="40" x2="680" y1="410.00000000000006" y2="410.00000000000006" />
+    <line x1="40" x2="680" y1="402.5" y2="402.5" />
+    <line x1="40" x2="680" y1="395" y2="395" />
+    <line x1="40" x2="680" y1="387.5" y2="387.5" />
+    <line x1="40" x2="680" y1="380" y2="380" />
+    <line x1="40" x2="680" y1="372.5" y2="372.5" />
+    <line x1="40" x2="680" y1="365" y2="365" />
+    <line x1="40" x2="680" y1="357.5" y2="357.5" />
+    <line x1="40" x2="680" y1="350" y2="350" />
+    <line x1="40" x2="680" y1="342.5" y2="342.5" />
+    <line x1="40" x2="680" y1="335" y2="335" />
+    <line x1="40" x2="680" y1="327.5" y2="327.5" />
+    <line x1="40" x2="680" y1="320.00000000000006" y2="320.00000000000006" />
+    <line x1="40" x2="680" y1="312.5" y2="312.5" />
+    <line x1="40" x2="680" y1="304.99999999999994" y2="304.99999999999994" />
+    <line x1="40" x2="680" y1="297.50000000000006" y2="297.50000000000006" />
+    <line x1="40" x2="680" y1="290" y2="290" />
+    <line x1="40" x2="680" y1="282.49999999999994" y2="282.49999999999994" />
+    <line x1="40" x2="680" y1="275" y2="275" />
+    <line x1="40" x2="680" y1="267.5" y2="267.5" />
+    <line x1="40" x2="680" y1="260" y2="260" />
+    <line x1="40" x2="680" y1="252.49999999999997" y2="252.49999999999997" />
+    <line x1="40" x2="680" y1="245" y2="245" />
+    <line x1="40" x2="680" y1="237.49999999999997" y2="237.49999999999997" />
+    <line x1="40" x2="680" y1="230" y2="230" />
+    <line x1="40" x2="680" y1="222.49999999999997" y2="222.49999999999997" />
+    <line x1="40" x2="680" y1="215.00000000000003" y2="215.00000000000003" />
+    <line x1="40" x2="680" y1="207.49999999999997" y2="207.49999999999997" />
+    <line x1="40" x2="680" y1="200" y2="200" />
+    <line x1="40" x2="680" y1="192.5" y2="192.5" />
+    <line x1="40" x2="680" y1="185" y2="185" />
+    <line x1="40" x2="680" y1="177.5" y2="177.5" />
+    <line x1="40" x2="680" y1="170.00000000000003" y2="170.00000000000003" />
+    <line x1="40" x2="680" y1="162.49999999999997" y2="162.49999999999997" />
+    <line x1="40" x2="680" y1="155.00000000000003" y2="155.00000000000003" />
+    <line x1="40" x2="680" y1="147.5" y2="147.5" />
+    <line x1="40" x2="680" y1="140.00000000000003" y2="140.00000000000003" />
+    <line x1="40" x2="680" y1="132.5" y2="132.5" />
+    <line x1="40" x2="680" y1="124.99999999999997" y2="124.99999999999997" />
+    <line x1="40" x2="680" y1="117.50000000000001" y2="117.50000000000001" />
+    <line x1="40" x2="680" y1="109.99999999999999" y2="109.99999999999999" />
+    <line x1="40" x2="680" y1="102.5" y2="102.5" />
+    <line x1="40" x2="680" y1="94.99999999999999" y2="94.99999999999999" />
+    <line x1="40" x2="680" y1="87.50000000000001" y2="87.50000000000001" />
+    <line x1="40" x2="680" y1="79.99999999999999" y2="79.99999999999999" />
+    <line x1="40" x2="680" y1="72.50000000000001" y2="72.50000000000001" />
+    <line x1="40" x2="680" y1="65" y2="65" />
+    <line x1="40" x2="680" y1="57.500000000000014" y2="57.500000000000014" />
+    <line x1="40" x2="680" y1="49.99999999999999" y2="49.99999999999999" />
+    <line x1="40" x2="680" y1="42.50000000000002" y2="42.50000000000002" />
+    <line x1="40" x2="680" y1="34.99999999999999" y2="34.99999999999999" />
+    <line x1="40" x2="680" y1="27.50000000000002" y2="27.50000000000002" />
+    <line x1="40" x2="680" y1="20" y2="20" />
+  </g>
+  <g aria-label="y-grid" aria-hidden="true" stroke="black" stroke-opacity="0.5">
+    <line x1="40" x2="680" y1="470" y2="470" />
+    <line x1="40" x2="680" y1="440" y2="440" />
+    <line x1="40" x2="680" y1="410.00000000000006" y2="410.00000000000006" />
+    <line x1="40" x2="680" y1="380" y2="380" />
+    <line x1="40" x2="680" y1="350" y2="350" />
+    <line x1="40" x2="680" y1="320.00000000000006" y2="320.00000000000006" />
+    <line x1="40" x2="680" y1="290" y2="290" />
+    <line x1="40" x2="680" y1="260" y2="260" />
+    <line x1="40" x2="680" y1="230" y2="230" />
+    <line x1="40" x2="680" y1="200" y2="200" />
+    <line x1="40" x2="680" y1="170.00000000000003" y2="170.00000000000003" />
+    <line x1="40" x2="680" y1="140.00000000000003" y2="140.00000000000003" />
+    <line x1="40" x2="680" y1="109.99999999999999" y2="109.99999999999999" />
+    <line x1="40" x2="680" y1="79.99999999999999" y2="79.99999999999999" />
+    <line x1="40" x2="680" y1="49.99999999999999" y2="49.99999999999999" />
+    <line x1="40" x2="680" y1="20" y2="20" />
+  </g>
+  <foreignObject width="100" height="500" x="700" y="20">
+    <div xmlns="http://www.w3.org/1999/xhtml">FOOD ITEM GROUP</div>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="plot-d6a7b5-swatches plot-d6a7b5-swatches-wrap">
+      <style>:where(.plot-d6a7b5-swatches) {
+  font-family: system-ui, sans-serif;
+  font-size: 10px;
+  margin-bottom: 0.5em;
+}
+:where(.plot-d6a7b5-swatch &gt; svg) {
+  margin-right: 0.5em;
+  overflow: visible;
+}
+:where(.plot-d6a7b5-swatches-wrap) {
+  display: flex;
+  align-items: center;
+  min-height: 33px;
+  flex-wrap: wrap;
+}
+:where(.plot-d6a7b5-swatches-wrap .plot-d6a7b5-swatch) {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 1em;
+}</style>
+      <span class="plot-d6a7b5-swatch"><svg xmlns="http://www.w3.org/2000/svg" width="15"
+          height="15" fill="orange">
+          <rect width="100%" height="100%" />
+        </svg>dishes</span>
+      <span class="plot-d6a7b5-swatch"><svg xmlns="http://www.w3.org/2000/svg" width="15"
+          height="15" fill="blue">
+          <rect width="100%" height="100%" />
+        </svg>sandwiches</span>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">TYPES OF NUTRIENTS</div>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="plot-d6a7b5-swatches plot-d6a7b5-swatches-wrap">
+
+      <span class="plot-d6a7b5-swatch">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 16 16" width="15" height="15"
+          fill-opacity="1" stroke-opacity="1"
+          stroke-width="1.5">
+          <path d="M-2.659,-2.659h5.317v5.317h-5.317Z"></path>
+        </svg> Protein </span>
+      <span class="plot-d6a7b5-swatch">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 16 16" width="15" height="15"
+          fill-opacity="1" stroke-opacity="1"
+          stroke-width="1.5">
+          <path
+            d="M0,-5.019L1.127,-1.551L4.773,-1.551L1.823,0.592L2.95,4.06L0,1.917L-2.95,4.06L-1.823,0.592L-4.773,-1.551L-1.127,-1.551Z"></path>
+        </svg>
+        Carbohydrate </span>
+      <span class="plot-d6a7b5-swatch">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 16 16" width="15" height="15"
+          fill-opacity="1" stroke-opacity="1"
+          stroke-width="1.5">
+          <path d="M0,-4.665L4.04,2.333L-4.04,2.333Z"></path>
+        </svg> Fat </span>
+    </div>
+  </foreignObject>
+</svg>
