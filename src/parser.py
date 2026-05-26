@@ -4,6 +4,7 @@
 # analysis. This module provides functions for reading SVG files, extracting the
 # relevant elements and preparing the data for further processing.
 
+from __future__ import annotations  # for forward references in type hints
 from xml.etree import ElementTree as ET
 from pathlib import Path
 
