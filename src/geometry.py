@@ -42,9 +42,7 @@ def _parse_points(points: str | None) -> list[tuple[float, float]]:
     return list(zip(coords[0::2], coords[1::2]))
 
 
-def _bbox_polygon(
-    min_x: float, min_y: float, max_x: float, max_y: float
-) -> Polygon:
+def _bbox_polygon(min_x: float, min_y: float, max_x: float, max_y: float) -> Polygon:
     """
     Generates a rectangular Shapely Polygon safely from bounding box minimal and
     maximal coordinates.
@@ -89,9 +87,7 @@ def _polygon_from_polyline(
         if line_epsilon <= 0.0:
             line_epsilon = 1e-6
         buffered = line.buffer(line_epsilon, cap_style=2, join_style=2)
-        return (
-            buffered if isinstance(buffered, Polygon) else buffered.convex_hull
-        )
+        return buffered if isinstance(buffered, Polygon) else buffered.convex_hull
     return None
 
 
@@ -117,14 +113,10 @@ def _ellipse_polygon(
     base polygon constraint.
     """
     base = _curve_polygon(center_x, center_y, 1.0, resolution)
-    return scale(
-        base, xfact=radius_x, yfact=radius_y, origin=(center_x, center_y)
-    )
+    return scale(base, xfact=radius_x, yfact=radius_y, origin=(center_x, center_y))
 
 
-def _path_to_polygon(
-    d: str, resolution: int, line_epsilon: float
-) -> Polygon | None:
+def _path_to_polygon(d: str, resolution: int, line_epsilon: float) -> Polygon | None:
     """
     Parses an SVG path 'd' string structural mapping into a standard Polygon.
     NOTE: Systematically flattens complex segments (like bezier curves) into
@@ -285,9 +277,7 @@ def _raw_bounding_from_attributes(
             parts = [p for p in view_box.replace(",", " ").split() if p]
             if len(parts) == 4:
                 min_x, min_y, width, height = (float(p) for p in parts)
-                return _bbox_polygon(
-                    min_x, min_y, min_x + width, min_y + height
-                )
+                return _bbox_polygon(min_x, min_y, min_x + width, min_y + height)
         width = _parse_float(attrs.get("width"))
         height = _parse_float(attrs.get("height"))
         if width is None or height is None:
@@ -372,7 +362,11 @@ def assign_bounding_to_node(
             child_polygons.append(child_bounded.bounding)
 
     if child_polygons:
-        merged = unary_union(child_polygons)
+        # Fix invalid geometries to prevent TopologyException on union
+        from shapely.validation import make_valid
+        valid_polygons = [make_valid(p) if not p.is_valid else p for p in child_polygons]
+        
+        merged = unary_union(valid_polygons)
         if isinstance(merged, Polygon):
             bounded_node.bounding = merged
         elif isinstance(merged, MultiPolygon):
