@@ -78,10 +78,12 @@ def assign_semantic_to_node(
     label = "unknown"
     node_id = node.attributes.get("id", "")
     data_name = node.attributes.get("data-name", "")
+    aria_label = node.attributes.get("aria-label", "")
+    css_class = node.attributes.get("class", "")
     tag = node.tag
 
-    # Base identifier combinations
-    identifier = node_id.lower() + " " + data_name.lower()
+    # Base identifier combinations (extended to include aria labels and classes for broader compatibility)
+    identifier = f"{node_id} {data_name} {aria_label} {css_class}".lower()
 
     current_context = parent_semantic_context
 
@@ -99,11 +101,11 @@ def assign_semantic_to_node(
             label = "axis"
             current_context = "axis"
 
-    elif "legend" in identifier:
+    elif "legend" in identifier or "swatch" in identifier:
         if "title" in identifier:
             label = "legend-title"
             current_context = "legend-title"
-        elif "item" in identifier:
+        elif "item" in identifier or "swatch" in identifier:
             label = "legend-item"
             current_context = "legend-item"
         else:
@@ -114,7 +116,7 @@ def assign_semantic_to_node(
         label = "grid"
         current_context = "grid"
 
-    elif "data" in identifier or current_context == "data-groups":
+    elif "data" in identifier or "dot" in identifier or "rule" in identifier or "mark" in identifier or current_context == "data-groups":
         if "container" in identifier or "group" in identifier:
             label = "data-groups"
             current_context = "data-groups"
