@@ -1,194 +1,482 @@
 # semantic.py
 #
-# Module for assigning semantic meaning to SVG structural elements.  Works as
-# the third stage in the pipeline (after parsing and bounding).  Interprets node
-# ids, attributes, and relationships to assign roles like 'axis', 'legend',
-# 'data', 'grid', etc.
+# Module for assigning semantic labels to nodes in the bounded SVG tree.
+# Uses multi-signal detection: six independent signals each produce a
+# confidence score, scores are summed, and the highest label wins.
 
-from .parser import SVGTreeRaw, SVGTreeNodeRaw
-from .geometry import SVGTreeBounded, SVGTreeNodeBounded
-from shapely.geometry import Polygon
+import colorsys
+from typing import Dict, List, Optional
 
 
-class SVGTreeNodeSemantic(SVGTreeNodeBounded):
-    """
-    A node extending bounded elements wrapping analytical role labels defining
-    chart-space meaning.
-    """
+LABELS = [
+    "data-mark",
+    "data-node",
+    "data-link",
+    "data-label",
+    "data-group",
+    "data-container",
+    "axis",
+    "axis-tick",
+    "axis-label",
+    "axis-title",
+    "grid",
+    "legend",
+    "legend-title",
+    "legend-item",
+    "legend-item-symbol",
+    "legend-item-label",
+    "unknown"
+]
 
-    def __init__(
-        self,
-        node: SVGTreeNodeRaw,
-        bounding: Polygon | None = None,
-        semantic_label: str = "unknown",
-        parent: "SVGTreeNodeSemantic | None" = None,
-        children: list["SVGTreeNodeSemantic"] | None = None,
-    ):
-        """
-        Initializes the semantic node persisting bounded geometry while
-        explicitly injecting recognized classifications.
-        """
-        super().__init__(
-            node=node,
-            bounding=bounding,
-            parent=parent,
-            children=children if children is not None else [],
-        )
-        self.semantic_label = semantic_label
 
-    def _build_str(self, level=0, verbose=False) -> str:
-        """
-        Synthesizes a visual representation highlighting purely the logical
-        layout tree containing tagged semantics iteratively.
-        """
-        indent = "  " * level
-        if verbose:
-            res = f"{indent}NODE({self.tag}, semantic={self.semantic_label}, attrs={self.attributes})"
+# Signal 1: aria-label
+# Observable Plot SVGs annotate every mark group with an aria-label attribute.
+# This is the primary signal for Observable Plot SVGs.
+# Confidence: 0.95 exact, 0.70 partial.
+
+ARIA_LABEL_MAP = {
+    "dot":               "data-mark",
+    "rule":              "data-mark",
+    "line":              "data-mark",
+    "bar":               "data-mark",
+    "cell":              "data-mark",
+    "area":              "data-mark",
+    "tick":              "data-mark",
+    "x-axis":            "axis",
+    "y-axis":            "axis",
+    "x-axis tick":       "axis-tick",
+    "y-axis tick":       "axis-tick",
+    "x-axis tick label": "axis-label",
+    "y-axis tick label": "axis-label",
+    "x-axis label":      "axis-title",
+    "y-axis label":      "axis-title",
+    "x-grid":            "grid",
+    "y-grid":            "grid",
+    "legend":            "legend",
+    "color legend":      "legend",
+}
+
+def signal_aria_label(node) -> Dict[str, float]:
+    """Returns confidence scores based on the node's aria-label attribute."""
+    aria = node.attributes.get("aria-label", "").strip().lower()
+    if not aria:
+        return {}
+
+    scores = {}
+    if aria in ARIA_LABEL_MAP:
+        scores[ARIA_LABEL_MAP[aria]] = 0.95
+        return scores
+
+    for key, label in ARIA_LABEL_MAP.items():
+        if key in aria or aria in key:
+            scores[label] = max(scores.get(label, 0), 0.7)
+
+    return scores
+
+
+# Signal 2: ID / class / data-name keywords
+# Hand-crafted SVGs use meaningful element ids and classes.
+# This is the primary signal for hand-crafted SVGs.
+# Confidence: 0.90 for any keyword match.
+
+ID_KEYWORD_MAP = {
+    "reference-axis":    "axis",
+    "axisline":          "axis",
+    "axisticks":         "axis-tick",
+    "axis-tick":         "axis-tick",
+    "axis-label":        "axis-label",
+    "axis-title":        "axis-title",
+    "tick-":             "axis-tick",
+    "reference-grid":    "grid",
+    "main-grid":         "grid",
+    "grid":              "grid",
+    "data-groups":       "data-container",
+    "data-group":        "data-group",
+    "data-points":       "data-group",
+    "data-element":      "data-mark",
+    "data-area":         "data-mark",
+    "sub-regions":       "data-mark",
+    "region-":           "data-mark",
+    "area-":             "data-mark",
+    "cell-":             "data-mark",
+    "dot":               "data-mark",
+    "rule":              "data-mark",
+    "line-":             "data-link",
+    "link-":             "data-link",
+    "links":             "data-link",
+    "node-":             "data-node",
+    "nodes":             "data-node",
+    "circle-":           "data-node",
+    "all-stars":         "data-node",
+    "label-text":        "data-label",
+    "label-container":   "data-label",
+    "area-label":        "data-label",
+    "node-label":        "data-label",
+    "legend-container":  "legend",
+    "legend-color":      "legend",
+    "legend-shape":      "legend",
+    "legend-title":      "legend-title",
+    "legend-item":       "legend-item",
+    "legend-color-item": "legend-item",
+    "legend-shape-item": "legend-item",
+    "swatch":            "legend-item",
+    "colorbins":         "legend",
+}
+
+def signal_id_keyword(node) -> Dict[str, float]:
+    """Returns confidence scores based on id, class, and data-name keywords."""
+    node_id   = node.attributes.get("id", "").lower()
+    css_class = node.attributes.get("class", "").lower()
+    data_name = node.attributes.get("data-name", "").lower()
+    identifier = f"{node_id} {css_class} {data_name}".strip()
+
+    if not identifier:
+        return {}
+
+    scores = {}
+    for keyword, label in ID_KEYWORD_MAP.items():
+        if keyword in identifier:
+            scores[label] = max(scores.get(label, 0), 0.9)
+
+    return scores
+
+
+# Signal 3: structural position
+# Elements near the left/bottom edge are likely axes. Near the right edge,
+# likely legend. In the center, likely data.
+# Confidence: 0.40 axis, 0.30 legend, 0.30 data-mark.
+
+def signal_position(node, svg_bbox) -> Dict[str, float]:
+    """Returns confidence scores based on the node's position on the canvas."""
+    bbox = _get_bbox(node)
+    if not bbox or not svg_bbox:
+        return {}
+
+    x1, y1, x2, y2 = bbox
+    sx1, sy1, sx2, sy2 = svg_bbox
+    svg_w = sx2 - sx1
+    svg_h = sy2 - sy1
+
+    if svg_w == 0 or svg_h == 0:
+        return {}
+
+    cx = ((x1 + x2) / 2 - sx1) / svg_w
+    cy = ((y1 + y2) / 2 - sy1) / svg_h
+
+    scores = {}
+    near_left   = cx < 0.15
+    near_right  = cx > 0.85
+    near_bottom = cy > 0.85
+
+    if near_left or near_bottom:
+        scores["axis"] = 0.4
+    if near_right:
+        scores["legend"] = 0.3
+    if not (near_left or near_right or near_bottom):
+        scores["data-mark"] = 0.3
+
+    return scores
+
+
+# Signal 4: tag + repetition
+# Data marks almost always repeat — many siblings of the same tag and
+# similar size strongly suggests a data mark.
+# Confidence: 0.60 when 3+ same-size siblings are found.
+
+def signal_repetition(node, siblings: List) -> Dict[str, float]:
+    """Returns confidence scores based on repeated siblings of same tag and size."""
+    if not siblings or len(siblings) < 3:
+        return {}
+
+    same_tag = [s for s in siblings if s.tag == node.tag]
+    if len(same_tag) < 3:
+        return {}
+
+    bbox = _get_bbox(node)
+    if not bbox:
+        return {}
+
+    w = bbox[2] - bbox[0]
+    h = bbox[3] - bbox[1]
+
+    similar_size = [
+        s for s in same_tag
+        if _get_bbox(s) and
+        abs((_get_bbox(s)[2] - _get_bbox(s)[0]) - w) < 5 and
+        abs((_get_bbox(s)[3] - _get_bbox(s)[1]) - h) < 5
+    ]
+
+    scores = {}
+    if len(similar_size) >= 3 and node.tag in ("circle", "rect", "path", "line"):
+        scores["data-mark"] = 0.6
+
+    return scores
+
+
+# Signal 5: context inheritance
+# A node's parent label provides useful context when its own attributes
+# are not informative enough.
+# Confidence: 0.50 - 0.70 depending on the parent-child combination.
+
+def signal_context(node, parent_label: Optional[str]) -> Dict[str, float]:
+    """Returns confidence scores based on the parent node's semantic label."""
+    if not parent_label or parent_label == "unknown":
+        return {}
+
+    tag = node.tag
+    scores = {}
+
+    if parent_label == "legend":
+        if tag == "text":
+            scores["legend-title"] = 0.5
+        elif tag == "g":
+            scores["legend-item"] = 0.5
         else:
-            res = f"{indent}NODE({self.tag}, semantic={self.semantic_label})"
+            scores["legend-item-symbol"] = 0.4
 
-        for child in self.children:
-            res += f"\n{child._build_str(level + 1, verbose)}"
-        return res
+    elif parent_label == "legend-item":
+        if tag == "text":
+            scores["legend-item-label"] = 0.7
+        elif tag in ("rect", "circle", "path", "line"):
+            scores["legend-item-symbol"] = 0.7
+        else:
+            scores["legend-item"] = 0.4
+
+    elif parent_label in ("axis", "axis-tick"):
+        if tag == "text":
+            scores["axis-label"] = 0.6
+        elif tag in ("line", "path"):
+            scores["axis-tick"] = 0.6
+
+    elif parent_label == "data-group":
+        if tag == "text":
+            scores["data-label"] = 0.6
+        elif tag == "circle":
+            scores["data-node"] = 0.5
+        elif tag in ("line", "path"):
+            scores["data-link"] = 0.5
+        else:
+            scores["data-mark"] = 0.5
+
+    elif parent_label == "data-container":
+        scores["data-group"] = 0.5
+
+    return scores
 
 
-class SVGTreeSemantic(SVGTreeRaw):
+# Signal 6: fill / stroke color
+# Neutral greys (low HSL saturation) suggest structural elements.
+# Saturated colors suggest data marks, unless inside a legend context
+# where they suggest legend-item-symbol instead.
+# Confidence: 0.50 saturated fill, 0.40 saturated stroke,
+#             0.35 neutral stroke, 0.30 neutral fill.
+
+def _is_neutral_color(color: str) -> bool:
     """
-    Structural encapsulation holding contextual evaluated nodes naturally
-    mapping semantic spaces.
+    Returns True if the color is neutral/structural.
+    Uses HSL saturation for hex colors (below 15% = grey).
+    Named keywords and grey words are always neutral.
     """
+    if not color:
+        return False
+    color = color.strip().lower()
 
-    def __init__(self, root: SVGTreeNodeSemantic):
-        """Bootstraps the hierarchical semantic container pointing initially
-        towards the primary assigned logical origin."""
-        super().__init__(None, root)
+    if color in ("none", "currentcolor", "inherit", "transparent"):
+        return True
+
+    if color in ("black", "white", "gray", "grey", "silver",
+                 "darkgray", "darkgrey", "lightgray", "lightgrey"):
+        return True
+
+    if len(color) == 4 and color.startswith("#"):
+        color = "#" + color[1]*2 + color[2]*2 + color[3]*2
+
+    if len(color) == 7 and color.startswith("#"):
+        try:
+            r = int(color[1:3], 16) / 255
+            g = int(color[3:5], 16) / 255
+            b = int(color[5:7], 16) / 255
+            h, l, s = colorsys.rgb_to_hls(r, g, b)
+            return s < 0.15
+        except ValueError:
+            return False
+
+    return False
+
+def _is_saturated_color(color: str) -> bool:
+    """Returns True if the color is saturated (not neutral, not empty)."""
+    if not color:
+        return False
+    color = color.strip().lower()
+    if color in ("", "none", "inherit", "transparent", "currentcolor"):
+        return False
+    return not _is_neutral_color(color)
+
+def signal_color(node, parent_label: Optional[str] = None) -> Dict[str, float]:
+    """
+    Returns confidence scores based on fill and stroke color.
+    Saturated colors inside a legend context score for legend-item-symbol
+    instead of data-mark to avoid misclassifying swatches.
+    """
+    fill   = node.attributes.get("fill",   "").strip().lower()
+    stroke = node.attributes.get("stroke", "").strip().lower()
+
+    node_id   = node.attributes.get("id",    "").lower()
+    css_class = node.attributes.get("class", "").lower()
+    in_legend = (
+        (parent_label and "legend" in parent_label) or
+        any(kw in f"{node_id} {css_class}" for kw in ("swatch", "legend"))
+    )
+
+    scores = {}
+
+    if _is_neutral_color(fill):
+        scores["axis"] = max(scores.get("axis", 0), 0.3)
+        scores["grid"] = max(scores.get("grid", 0), 0.3)
+    elif _is_saturated_color(fill):
+        if in_legend:
+            scores["legend-item-symbol"] = max(scores.get("legend-item-symbol", 0), 0.5)
+        else:
+            scores["data-mark"] = max(scores.get("data-mark", 0), 0.5)
+
+    if _is_neutral_color(stroke):
+        scores["axis"] = max(scores.get("axis", 0), 0.35)
+        scores["grid"] = max(scores.get("grid", 0), 0.35)
+    elif _is_saturated_color(stroke):
+        if in_legend:
+            scores["legend-item-symbol"] = max(scores.get("legend-item-symbol", 0), 0.4)
+        else:
+            scores["data-mark"] = max(scores.get("data-mark", 0), 0.4)
+
+    return scores
+
+
+def combine_signals(*signal_dicts) -> Dict[str, float]:
+    """Merges confidence score dicts from all signals by summing their values."""
+    combined = {}
+    for d in signal_dicts:
+        for label, score in d.items():
+            combined[label] = combined.get(label, 0) + score
+    return combined
+
+
+def pick_label(scores: Dict[str, float], threshold: float = 0.3) -> str:
+    """Returns the label with the highest score, or 'unknown' if below threshold."""
+    if not scores:
+        return "unknown"
+    best = max(scores, key=scores.get)
+    return best if scores[best] >= threshold else "unknown"
 
 
 def assign_semantic_to_node(
-    node: SVGTreeNodeBounded,
-    parent_semantic_context: str = "unknown",
-) -> SVGTreeNodeSemantic:
+    node,
+    parent_label: Optional[str] = None,
+    siblings: Optional[List] = None,
+    svg_bbox: Optional[List[float]] = None
+) -> str:
     """
-    Crawls attribute footprints parsing semantic properties mapping labels
-    sequentially down.
-    NOTE: Relies massively on cascades! If `<text>` lacks identifiers,
-    traversing inwards structurally from an 'axis' inherently guarantees tagging
-    precisely as an 'axis-text'.
+    Assigns a semantic label to a single SVG tree node by running all six
+    signals, combining their scores, and returning the highest label.
     """
-    label = "unknown"
-    node_id = node.attributes.get("id", "")
-    data_name = node.attributes.get("data-name", "")
-    aria_label = node.attributes.get("aria-label", "")
-    css_class = node.attributes.get("class", "")
-    tag = node.tag
+    if node.tag == "foreignObject":
+        return "legend"
 
-    # Base identifier combinations (extended to include aria labels and classes for broader compatibility)
-    identifier = f"{node_id} {data_name} {aria_label} {css_class}".lower()
+    s1 = signal_aria_label(node)
+    s2 = signal_id_keyword(node)
+    s3 = signal_position(node, svg_bbox)
+    s4 = signal_repetition(node, siblings or [])
+    s5 = signal_context(node, parent_label)
+    s6 = signal_color(node, parent_label=parent_label)
 
-    current_context = parent_semantic_context
+    combined = combine_signals(s1, s2, s3, s4, s5, s6)
+    return pick_label(combined)
 
-    if "axis" in identifier:
-        if "label" in identifier:
-            label = "axis-label"
-            current_context = "axis-label"
-        elif "title" in identifier:
-            label = "axis-title"
-            current_context = "axis-title"
-        elif "tick" in identifier:
-            label = "axis-tick"
-            current_context = "axis-tick"
-        else:
-            label = "axis"
-            current_context = "axis"
 
-    elif "legend" in identifier or "swatch" in identifier:
-        if "title" in identifier:
-            label = "legend-title"
-            current_context = "legend-title"
-        elif "item" in identifier or "swatch" in identifier:
-            label = "legend-item"
-            current_context = "legend-item"
-        else:
-            label = "legend"
-            current_context = "legend"
+def _get_bbox(node):
+    """
+    Extracts a [x1, y1, x2, y2] list from a node.
+    Handles both SVGTreeNodeBounded (.bounding) and SVGTreeNodeSemantic (.bbox).
+    """
+    bbox = getattr(node, "bbox", None)
+    if isinstance(bbox, (list, tuple)) and len(bbox) == 4:
+        return list(bbox)
+    bounding = getattr(node, "bounding", None)
+    if bounding is not None:
+        try:
+            bounds = list(bounding.bounds)
+            if len(bounds) == 4:
+                return bounds
+        except (AttributeError, TypeError):
+            pass
+    return None
 
-    elif "grid" in identifier:
-        label = "grid"
-        current_context = "grid"
 
-    elif "data" in identifier or "dot" in identifier or "rule" in identifier or "mark" in identifier or current_context == "data-groups":
-        if "container" in identifier or "group" in identifier:
-            label = "data-groups"
-            current_context = "data-groups"
-        elif current_context == "data-groups" and tag == "g":
-            # Individual data group
-            label = "data-group"
-            current_context = "data-group"
-        else:
-            label = "data-element"
-            current_context = "data-group"
+class SVGTreeNodeSemantic:
+    """
+    Wraps a SVGTreeNodeBounded node and adds a semantic_label field.
+    Exposes the same interface expected by pipeline._extract_data.
+    """
 
-    else:
-        # Contextual inheritance
-        if parent_semantic_context != "unknown":
-            if tag == "text":
-                label = f"{parent_semantic_context}-text"
-            elif tag in [
-                "rect",
-                "circle",
-                "ellipse",
-                "polygon",
-                "polyline",
-                "path",
-                "line",
-            ]:
-                label = f"{parent_semantic_context}-shape"
-            else:
-                label = f"{parent_semantic_context}-group"
-                current_context = label
-        else:
-            if tag == "text":
-                label = "text"
-            elif tag in [
-                "rect",
-                "circle",
-                "ellipse",
-                "polygon",
-                "polyline",
-                "path",
-                "line",
-            ]:
-                label = "shape"
-            elif tag == "g":
-                label = "group"
-            elif tag == "svg":
-                label = "svg-root"
-                current_context = "svg-root"
+    def __init__(self, bounded_node):
+        self._node          = bounded_node
+        self.semantic_label = "unknown"
+        self.children       = []
 
-    # Important: Recreate the node with the original raw properties and the
-    # newly computed bounding box
-    semantic_node = SVGTreeNodeSemantic(
-        node=node,
-        bounding=node.bounding,
-        semantic_label=label,
-    )
+    @property
+    def tag(self):
+        return self._node.tag
 
-    # Process children recursively
-    for child in node.children:
-        child_semantic = assign_semantic_to_node(
-            child,  # Need to make sure it's SVGTreeNodeBounded
-            parent_semantic_context=current_context,
+    @property
+    def attributes(self):
+        return self._node.attributes
+
+    @property
+    def text(self):
+        return self._node.text
+
+    @property
+    def bounding(self):
+        return self._node.bounding
+
+    @property
+    def bbox(self):
+        if self._node.bounding is None:
+            return None
+        return list(self._node.bounding.bounds)
+
+
+class SVGTreeSemantic:
+    """Container holding the root of the semantically labelled SVG tree."""
+
+    def __init__(self, root: SVGTreeNodeSemantic):
+        self.root = root
+
+
+def assign_semantic_to_tree(bounded_tree) -> SVGTreeSemantic:
+    """
+    Traverses the bounded tree top-down and assigns a semantic label to
+    every node, passing parent label, siblings, and svg bbox as context.
+    """
+    svg_bbox = _get_bbox(bounded_tree.root)
+
+    def wrap_node(bounded_node, parent_label=None):
+        semantic_node = SVGTreeNodeSemantic(bounded_node)
+
+        parent   = getattr(bounded_node, "parent", None)
+        siblings = parent.children if parent else []
+
+        semantic_node.semantic_label = assign_semantic_to_node(
+            bounded_node,
+            parent_label=parent_label,
+            siblings=siblings,
+            svg_bbox=svg_bbox
         )
-        child_semantic.parent = semantic_node
-        semantic_node.children.append(child_semantic)
 
-    return semantic_node
+        for child in bounded_node.children:
+            semantic_node.children.append(
+                wrap_node(child, parent_label=semantic_node.semantic_label)
+            )
 
+        return semantic_node
 
-def assign_semantic_to_tree(svg_tree: SVGTreeBounded) -> SVGTreeSemantic:
-    """
-    Automates generating logical evaluation converting structural Bounded
-    hierarchies smoothly interpreting chart structures completely.
-    """
-    semantic_root = assign_semantic_to_node(svg_tree.root)
-    return SVGTreeSemantic(semantic_root)
+    return SVGTreeSemantic(wrap_node(bounded_tree.root))
