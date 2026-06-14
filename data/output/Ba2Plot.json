@@ -1,0 +1,4546 @@
+[
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_3",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            469.999999,
+            40.0,
+            470.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_4",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            439.999999,
+            40.0,
+            440.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_5",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            409.99999900000006,
+            40.0,
+            410.00000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_6",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            379.999999,
+            40.0,
+            380.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_7",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            349.999999,
+            40.0,
+            350.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_8",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            319.99999900000006,
+            40.0,
+            320.00000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_9",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            289.999999,
+            40.0,
+            290.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_10",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            259.999999,
+            40.0,
+            260.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_11",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            229.999999,
+            40.0,
+            230.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_12",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            199.999999,
+            40.0,
+            200.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_13",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            169.99999900000003,
+            40.0,
+            170.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_14",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            139.99999900000003,
+            40.0,
+            140.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_15",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            109.99999899999999,
+            40.0,
+            110.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_16",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            79.99999899999999,
+            40.0,
+            80.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_17",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            49.999998999999995,
+            40.0,
+            50.00000099999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_18",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_2",
+        "bbox": [
+            34.0,
+            19.999999,
+            40.0,
+            20.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_20",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            460.72,
+            47.2,
+            472.72
+        ],
+        "text": "0"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_21",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            430.72,
+            47.2,
+            442.72
+        ],
+        "text": "2"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_22",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            400.72,
+            47.2,
+            412.7200000000001
+        ],
+        "text": "4"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_23",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            370.72,
+            47.2,
+            382.72
+        ],
+        "text": "6"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_24",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            340.72,
+            47.2,
+            352.72
+        ],
+        "text": "8"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_25",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            310.72,
+            54.4,
+            322.7200000000001
+        ],
+        "text": "10"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_26",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            280.72,
+            54.4,
+            292.72
+        ],
+        "text": "12"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_27",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            250.72,
+            54.4,
+            262.72
+        ],
+        "text": "14"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_28",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            220.72,
+            54.4,
+            232.72
+        ],
+        "text": "16"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_29",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            190.72,
+            54.4,
+            202.72
+        ],
+        "text": "18"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_30",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            160.72000000000003,
+            54.4,
+            172.72000000000003
+        ],
+        "text": "20"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_31",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            130.72000000000003,
+            54.4,
+            142.72000000000003
+        ],
+        "text": "22"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_32",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            100.71999999999998,
+            54.4,
+            112.71999999999998
+        ],
+        "text": "24"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_33",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            70.71999999999998,
+            54.4,
+            82.71999999999998
+        ],
+        "text": "26"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_34",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            40.71999999999999,
+            54.4,
+            52.71999999999999
+        ],
+        "text": "28"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_35",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            40.0,
+            10.719999999999999,
+            54.4,
+            22.72
+        ],
+        "text": "30"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_37",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_36",
+        "bbox": [
+            36.89,
+            245.0,
+            48.89,
+            432.2
+        ],
+        "text": "NUTRITIONAL VALUE (g/100g)"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_39",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            55.999999,
+            470.0,
+            56.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_40",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            87.999999,
+            470.0,
+            88.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_41",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            119.999999,
+            470.0,
+            120.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_42",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            151.999999,
+            470.0,
+            152.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_43",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            183.999999,
+            470.0,
+            184.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_44",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            215.999999,
+            470.0,
+            216.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_45",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            247.999999,
+            470.0,
+            248.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_46",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            279.999999,
+            470.0,
+            280.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_47",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            311.999999,
+            470.0,
+            312.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_48",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            343.999999,
+            470.0,
+            344.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_49",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            375.999999,
+            470.0,
+            376.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_50",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            407.999999,
+            470.0,
+            408.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_51",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            439.999999,
+            470.0,
+            440.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_52",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            471.999999,
+            470.0,
+            472.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_53",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            503.999999,
+            470.0,
+            504.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_54",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            535.999999,
+            470.0,
+            536.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_55",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            567.999999,
+            470.0,
+            568.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_56",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            599.999999,
+            470.0,
+            600.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_57",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            631.999999,
+            470.0,
+            632.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_58",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            663.999999,
+            470.0,
+            664.000001,
+            476.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_60",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            56.0,
+            461.11,
+            77.6,
+            473.11
+        ],
+        "text": "100"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_61",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            88.0,
+            461.11,
+            109.6,
+            473.11
+        ],
+        "text": "102"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_62",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            120.0,
+            461.11,
+            141.6,
+            473.11
+        ],
+        "text": "106"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_63",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            152.0,
+            461.11,
+            173.6,
+            473.11
+        ],
+        "text": "110"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_64",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            184.0,
+            461.11,
+            205.6,
+            473.11
+        ],
+        "text": "121"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_65",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            216.0,
+            461.11,
+            237.6,
+            473.11
+        ],
+        "text": "139"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_66",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            248.0,
+            461.11,
+            269.6,
+            473.11
+        ],
+        "text": "142"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_67",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            280.0,
+            461.11,
+            301.6,
+            473.11
+        ],
+        "text": "166"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_68",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            312.0,
+            461.11,
+            333.6,
+            473.11
+        ],
+        "text": "170"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_69",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            344.0,
+            461.11,
+            365.6,
+            473.11
+        ],
+        "text": "171"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_70",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            376.0,
+            461.11,
+            397.6,
+            473.11
+        ],
+        "text": "172"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_71",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            408.0,
+            461.11,
+            429.6,
+            473.11
+        ],
+        "text": "178"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_72",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            440.0,
+            461.11,
+            461.6,
+            473.11
+        ],
+        "text": "182"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_73",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            472.0,
+            461.11,
+            493.6,
+            473.11
+        ],
+        "text": "290"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_74",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            504.0,
+            461.11,
+            525.6,
+            473.11
+        ],
+        "text": "311"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_75",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            536.0,
+            461.11,
+            557.6,
+            473.11
+        ],
+        "text": "313"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_76",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            568.0,
+            461.11,
+            582.4,
+            473.11
+        ],
+        "text": "92"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_77",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            600.0,
+            461.11,
+            614.4,
+            473.11
+        ],
+        "text": "95"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_78",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            632.0,
+            461.11,
+            646.4,
+            473.11
+        ],
+        "text": "97"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_79",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_59",
+        "bbox": [
+            664.0,
+            461.11,
+            678.4,
+            473.11
+        ],
+        "text": "98"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_81",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_80",
+        "bbox": [
+            680.0,
+            460.4,
+            744.8,
+            472.4
+        ],
+        "text": "FOOD ITEM"
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_83",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            119.999999,
+            345.50000000000006,
+            120.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_84",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            567.999999,
+            345.35,
+            568.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_85",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            599.999999,
+            354.65000000000003,
+            600.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_86",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            279.999999,
+            359.3,
+            280.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_87",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            631.999999,
+            356.15,
+            632.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_88",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            439.999999,
+            365.9,
+            440.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_89",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            471.999999,
+            336.95000000000005,
+            472.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_90",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            151.999999,
+            363.05,
+            152.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_91",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            247.999999,
+            369.65,
+            248.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_92",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            503.999999,
+            322.7,
+            504.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_93",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            663.999999,
+            367.7,
+            664.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_94",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            311.999999,
+            375.65,
+            312.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_95",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            87.999999,
+            346.40000000000003,
+            88.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_96",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            375.999999,
+            388.1,
+            376.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_97",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            535.999999,
+            332.29999999999995,
+            536.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_98",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            407.999999,
+            320.00000000000006,
+            408.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_99",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            343.999999,
+            390.2,
+            344.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_100",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            55.999999,
+            349.1,
+            56.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_101",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            183.999999,
+            378.04999999999995,
+            184.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_102",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_82",
+        "bbox": [
+            215.999999,
+            352.1,
+            216.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_104",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            117.341,
+            342.84100000000007,
+            122.658,
+            348.1580000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_105",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            565.341,
+            342.69100000000003,
+            570.658,
+            348.00800000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_106",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            597.341,
+            351.99100000000004,
+            602.658,
+            357.30800000000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_107",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            277.341,
+            356.641,
+            282.658,
+            361.958
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_108",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            629.341,
+            353.491,
+            634.658,
+            358.808
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_109",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            437.341,
+            363.241,
+            442.658,
+            368.558
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_110",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            469.341,
+            334.29100000000005,
+            474.658,
+            339.60800000000006
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_111",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            149.341,
+            360.391,
+            154.658,
+            365.708
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_112",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            245.341,
+            366.991,
+            250.658,
+            372.308
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_113",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            501.341,
+            320.041,
+            506.658,
+            325.358
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_114",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            661.341,
+            365.041,
+            666.658,
+            370.358
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_115",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            309.341,
+            372.991,
+            314.658,
+            378.308
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_116",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            85.341,
+            343.74100000000004,
+            90.658,
+            349.05800000000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_117",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            373.341,
+            385.44100000000003,
+            378.658,
+            390.75800000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_118",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            533.341,
+            329.64099999999996,
+            538.658,
+            334.95799999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_119",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            405.341,
+            317.34100000000007,
+            410.658,
+            322.6580000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_120",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            341.341,
+            387.541,
+            346.658,
+            392.858
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_121",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            53.341,
+            346.44100000000003,
+            58.658,
+            351.75800000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_122",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            181.341,
+            375.39099999999996,
+            186.658,
+            380.70799999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_123",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_103",
+        "bbox": [
+            213.341,
+            349.44100000000003,
+            218.658,
+            354.75800000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_125",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            119.999999,
+            352.40000000000003,
+            120.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_126",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            567.999999,
+            287.0,
+            568.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_127",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            599.999999,
+            260.0,
+            600.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_128",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            279.999999,
+            204.50000000000003,
+            280.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_129",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            631.999999,
+            282.49999999999994,
+            632.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_130",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            439.999999,
+            93.5,
+            440.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_131",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            471.999999,
+            94.99999999999999,
+            472.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_132",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            151.999999,
+            275.0,
+            152.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_133",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            247.999999,
+            66.50000000000003,
+            248.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_134",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            503.999999,
+            123.5,
+            504.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_135",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            663.999999,
+            345.04999999999995,
+            664.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_136",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            311.999999,
+            267.5,
+            312.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_137",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            87.999999,
+            336.65000000000003,
+            88.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_138",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            375.999999,
+            115.99999999999997,
+            376.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_139",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            535.999999,
+            114.50000000000003,
+            536.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_140",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            407.999999,
+            68.0,
+            408.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_141",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            343.999999,
+            266.0,
+            344.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_142",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            55.999999,
+            328.84999999999997,
+            56.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_143",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            183.999999,
+            337.7,
+            184.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_144",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_124",
+        "bbox": [
+            215.999999,
+            213.49999999999997,
+            216.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_146",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            115.227,
+            347.38100000000003,
+            124.773,
+            356.46000000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_147",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            563.227,
+            281.981,
+            572.773,
+            291.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_148",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            595.227,
+            254.981,
+            604.773,
+            264.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_149",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            275.227,
+            199.48100000000002,
+            284.773,
+            208.56000000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_150",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            627.227,
+            277.48099999999994,
+            636.773,
+            286.55999999999995
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_151",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            435.227,
+            88.481,
+            444.773,
+            97.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_152",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            467.227,
+            89.98099999999998,
+            476.773,
+            99.05999999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_153",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            147.227,
+            269.981,
+            156.773,
+            279.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_154",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            243.227,
+            61.48100000000003,
+            252.773,
+            70.56000000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_155",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            499.227,
+            118.481,
+            508.773,
+            127.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_156",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            659.227,
+            340.03099999999995,
+            668.773,
+            349.10999999999996
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_157",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            307.227,
+            262.481,
+            316.773,
+            271.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_158",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            83.227,
+            331.63100000000003,
+            92.773,
+            340.71000000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_159",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            371.227,
+            110.98099999999997,
+            380.773,
+            120.05999999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_160",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            531.227,
+            109.48100000000002,
+            540.773,
+            118.56000000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_161",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            403.227,
+            62.981,
+            412.773,
+            72.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_162",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            339.227,
+            260.981,
+            348.773,
+            270.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_163",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            51.227000000000004,
+            323.83099999999996,
+            60.772999999999996,
+            332.90999999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_164",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            179.227,
+            332.681,
+            188.773,
+            341.76
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_165",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_145",
+        "bbox": [
+            211.227,
+            208.48099999999997,
+            220.773,
+            217.55999999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_167",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            119.999999,
+            391.09999999999997,
+            120.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_168",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            567.999999,
+            421.25,
+            568.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_169",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            599.999999,
+            402.04999999999995,
+            600.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_170",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            279.999999,
+            307.99999999999994,
+            280.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_171",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            631.999999,
+            374.75,
+            632.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_172",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            439.999999,
+            364.7,
+            440.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_173",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            471.999999,
+            379.54999999999995,
+            472.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_174",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            151.999999,
+            361.09999999999997,
+            152.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_175",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            247.999999,
+            414.5,
+            248.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_176",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            503.999999,
+            319.85,
+            504.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_177",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            663.999999,
+            334.1,
+            664.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_178",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            311.999999,
+            384.2,
+            312.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_179",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            87.999999,
+            396.95,
+            88.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_180",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            375.999999,
+            395.9,
+            376.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_181",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            535.999999,
+            346.25,
+            536.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_182",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            407.999999,
+            345.50000000000006,
+            408.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_183",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            343.999999,
+            373.99999999999994,
+            344.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_184",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            55.999999,
+            383.45,
+            56.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_185",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            183.999999,
+            393.5,
+            184.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_186",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_166",
+        "bbox": [
+            215.999999,
+            396.5,
+            216.000001,
+            470.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_188",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            115.96,
+            386.43499999999995,
+            124.04,
+            393.433
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_189",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            563.96,
+            416.585,
+            572.04,
+            423.583
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_190",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            595.96,
+            397.38499999999993,
+            604.04,
+            404.383
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_191",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            275.96,
+            303.3349999999999,
+            284.04,
+            310.33299999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_192",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            627.96,
+            370.085,
+            636.04,
+            377.083
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_193",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            435.96,
+            360.03499999999997,
+            444.04,
+            367.033
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_194",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            467.96,
+            374.88499999999993,
+            476.04,
+            381.883
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_195",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            147.96,
+            356.43499999999995,
+            156.04,
+            363.433
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_196",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            243.96,
+            409.835,
+            252.04,
+            416.833
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_197",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            499.96,
+            315.185,
+            508.04,
+            322.18300000000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_198",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            659.96,
+            329.435,
+            668.04,
+            336.43300000000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_199",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            307.96,
+            379.53499999999997,
+            316.04,
+            386.533
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_200",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            83.96,
+            392.28499999999997,
+            92.04,
+            399.283
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_201",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            371.96,
+            391.23499999999996,
+            380.04,
+            398.233
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_202",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            531.96,
+            341.585,
+            540.04,
+            348.583
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_203",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            403.96,
+            340.83500000000004,
+            412.04,
+            347.8330000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_204",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            339.96,
+            369.3349999999999,
+            348.04,
+            376.33299999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_205",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            51.96,
+            378.78499999999997,
+            60.04,
+            385.783
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_206",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            179.96,
+            388.835,
+            188.04,
+            395.833
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_207",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_187",
+        "bbox": [
+            211.96,
+            391.835,
+            220.04,
+            398.833
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_209",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            469.999999,
+            680.0,
+            470.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_210",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            462.49999899999995,
+            680.0,
+            462.50000099999994
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_211",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            454.999999,
+            680.0,
+            455.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_212",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            447.499999,
+            680.0,
+            447.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_213",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            439.999999,
+            680.0,
+            440.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_214",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            432.499999,
+            680.0,
+            432.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_215",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            424.999999,
+            680.0,
+            425.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_216",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            417.49999899999995,
+            680.0,
+            417.50000099999994
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_217",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            409.99999900000006,
+            680.0,
+            410.00000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_218",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            402.499999,
+            680.0,
+            402.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_219",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            394.999999,
+            680.0,
+            395.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_220",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            387.499999,
+            680.0,
+            387.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_221",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            379.999999,
+            680.0,
+            380.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_222",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            372.499999,
+            680.0,
+            372.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_223",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            364.999999,
+            680.0,
+            365.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_224",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            357.499999,
+            680.0,
+            357.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_225",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            349.999999,
+            680.0,
+            350.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_226",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            342.499999,
+            680.0,
+            342.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_227",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            334.999999,
+            680.0,
+            335.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_228",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            327.499999,
+            680.0,
+            327.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_229",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            319.99999900000006,
+            680.0,
+            320.00000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_230",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            312.499999,
+            680.0,
+            312.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_231",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            304.99999899999995,
+            680.0,
+            305.00000099999994
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_232",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            297.49999900000006,
+            680.0,
+            297.50000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_233",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            289.999999,
+            680.0,
+            290.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_234",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            282.49999899999995,
+            680.0,
+            282.50000099999994
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_235",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            274.999999,
+            680.0,
+            275.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_236",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            267.499999,
+            680.0,
+            267.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_237",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            259.999999,
+            680.0,
+            260.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_238",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            252.49999899999997,
+            680.0,
+            252.50000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_239",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            244.999999,
+            680.0,
+            245.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_240",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            237.49999899999997,
+            680.0,
+            237.50000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_241",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            229.999999,
+            680.0,
+            230.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_242",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            222.49999899999997,
+            680.0,
+            222.50000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_243",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            214.99999900000003,
+            680.0,
+            215.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_244",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            207.49999899999997,
+            680.0,
+            207.50000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_245",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            199.999999,
+            680.0,
+            200.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_246",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            192.499999,
+            680.0,
+            192.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_247",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            184.999999,
+            680.0,
+            185.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_248",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            177.499999,
+            680.0,
+            177.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_249",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            169.99999900000003,
+            680.0,
+            170.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_250",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            162.49999899999997,
+            680.0,
+            162.50000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_251",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            154.99999900000003,
+            680.0,
+            155.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_252",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            147.499999,
+            680.0,
+            147.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_253",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            139.99999900000003,
+            680.0,
+            140.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_254",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            132.499999,
+            680.0,
+            132.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_255",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            124.99999899999997,
+            680.0,
+            125.00000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_256",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            117.49999900000002,
+            680.0,
+            117.50000100000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_257",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            109.99999899999999,
+            680.0,
+            110.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_258",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            102.499999,
+            680.0,
+            102.500001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_259",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            94.99999899999999,
+            680.0,
+            95.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_260",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            87.49999900000002,
+            680.0,
+            87.50000100000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_261",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            79.99999899999999,
+            680.0,
+            80.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_262",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            72.49999900000002,
+            680.0,
+            72.50000100000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_263",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            64.999999,
+            680.0,
+            65.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_264",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            57.49999900000002,
+            680.0,
+            57.50000100000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_265",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            49.999998999999995,
+            680.0,
+            50.00000099999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_266",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            42.499999000000024,
+            680.0,
+            42.50000100000002
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_267",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            34.999998999999995,
+            680.0,
+            35.00000099999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_268",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            27.49999900000002,
+            680.0,
+            27.500001000000022
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_269",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_208",
+        "bbox": [
+            40.0,
+            19.999999,
+            680.0,
+            20.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_271",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            469.999999,
+            680.0,
+            470.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_272",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            439.999999,
+            680.0,
+            440.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_273",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            409.99999900000006,
+            680.0,
+            410.00000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_274",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            379.999999,
+            680.0,
+            380.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_275",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            349.999999,
+            680.0,
+            350.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_276",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            319.99999900000006,
+            680.0,
+            320.00000100000005
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_277",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            289.999999,
+            680.0,
+            290.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_278",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            259.999999,
+            680.0,
+            260.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_279",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            229.999999,
+            680.0,
+            230.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_280",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            199.999999,
+            680.0,
+            200.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_281",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            169.99999900000003,
+            680.0,
+            170.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_282",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            139.99999900000003,
+            680.0,
+            140.00000100000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_283",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            109.99999899999999,
+            680.0,
+            110.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_284",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            79.99999899999999,
+            680.0,
+            80.00000099999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_285",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            49.999998999999995,
+            680.0,
+            50.00000099999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_286",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "line",
+        "parent_id": "aoi_270",
+        "bbox": [
+            40.0,
+            19.999999,
+            680.0,
+            20.000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_287",
+        "aoi_label": "legend",
+        "aoi_type": "legend",
+        "family": "legend",
+        "tag": "foreignObject",
+        "parent_id": "aoi_1",
+        "bbox": [
+            -4.773,
+            -5.019,
+            100.0,
+            100.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_289",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "div",
+        "parent_id": "aoi_287",
+        "bbox": [
+            0.0,
+            0.0,
+            100.0,
+            100.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_290",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "span",
+        "parent_id": "aoi_289",
+        "bbox": [
+            0.0,
+            0.0,
+            100.0,
+            100.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_292",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_291",
+        "bbox": [
+            0.0,
+            0.0,
+            100.0,
+            100.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_293",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "span",
+        "parent_id": "aoi_289",
+        "bbox": [
+            0.0,
+            0.0,
+            100.0,
+            100.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_295",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_294",
+        "bbox": [
+            0.0,
+            0.0,
+            100.0,
+            100.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_297",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "div",
+        "parent_id": "aoi_287",
+        "bbox": [
+            -4.773,
+            -5.019,
+            4.773,
+            4.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_298",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "span",
+        "parent_id": "aoi_297",
+        "bbox": [
+            -2.659,
+            -2.659,
+            2.6580000000000004,
+            2.6580000000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_300",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_299",
+        "bbox": [
+            -2.659,
+            -2.659,
+            2.6580000000000004,
+            2.6580000000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_301",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "span",
+        "parent_id": "aoi_297",
+        "bbox": [
+            -4.773,
+            -5.019,
+            4.773,
+            4.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_303",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_302",
+        "bbox": [
+            -4.773,
+            -5.019,
+            4.773,
+            4.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_304",
+        "aoi_label": "legend-item",
+        "aoi_type": "item",
+        "family": "legend",
+        "tag": "span",
+        "parent_id": "aoi_297",
+        "bbox": [
+            -4.04,
+            -4.665,
+            4.04,
+            2.333
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "Ba2Plot",
+        "aoi_id": "aoi_306",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_305",
+        "bbox": [
+            -4.04,
+            -4.665,
+            4.04,
+            2.333
+        ],
+        "text": ""
+    }
+]

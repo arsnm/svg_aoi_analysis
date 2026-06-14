@@ -1,372 +1,397 @@
 # semantic.py
 #
-# Module for assigning semantic labels to nodes in the bounded SVG tree.
-# Uses multi-signal detection: six independent signals each produce a
-# confidence score, scores are summed, and the highest label wins.
+# Semantic labeling for SVG AOI extraction.
+#
+# Strategy (priority order, first match wins):
+#   1. Tag special cases  (svg, foreignObject always have known labels)
+#   2. Attribute scan     (check ALL attributes for semantic values)
+#   3. Parent inheritance (child takes parent label with specific rules)
+#   4. Sibling context    (many same-tag same-size siblings = data-mark)
+#   5. Conservative tag   (last resort: tag + position, very restricted)
+#
+# No confidence scores, no threshold tuning, no signal combining.
+# Each step only runs if the previous step produced nothing.
 
 import colorsys
-from typing import Dict, List, Optional
+from typing import Optional, List, Dict
 
 
 LABELS = [
-    "data-mark",
-    "data-node",
-    "data-link",
-    "data-label",
-    "data-group",
-    "data-container",
-    "axis",
-    "axis-tick",
-    "axis-label",
-    "axis-title",
+    "data-mark", "data-node", "data-link", "data-label",
+    "data-group", "data-container",
+    "axis", "axis-tick", "axis-label", "axis-title",
     "grid",
-    "legend",
-    "legend-title",
-    "legend-item",
-    "legend-item-symbol",
-    "legend-item-label",
+    "legend", "legend-title", "legend-item",
+    "legend-item-symbol", "legend-item-label",
     "unknown"
 ]
 
+# Keyword map
+# Maps any substring found in any attribute value to a label.
+# Keys are lowercase substrings. Longer/more specific keys take priority.
+# This map is checked against the VALUE of every non-geometric attribute,
+# regardless of what the attribute is called.
 
-# Signal 1: aria-label
-# Observable Plot SVGs annotate every mark group with an aria-label attribute.
-# This is the primary signal for Observable Plot SVGs.
-# Confidence: 0.95 exact, 0.70 partial.
-
-ARIA_LABEL_MAP = {
-    "dot":               "data-mark",
-    "rule":              "data-mark",
-    "line":              "data-mark",
-    "bar":               "data-mark",
-    "cell":              "data-mark",
-    "area":              "data-mark",
-    "tick":              "data-mark",
-    "x-axis":            "axis",
-    "y-axis":            "axis",
-    "x-axis tick":       "axis-tick",
-    "y-axis tick":       "axis-tick",
+KEYWORD_MAP = {
+    # Axis
     "x-axis tick label": "axis-label",
     "y-axis tick label": "axis-label",
+    "x-axis tick":       "axis-tick",
+    "y-axis tick":       "axis-tick",
     "x-axis label":      "axis-title",
     "y-axis label":      "axis-title",
+    "axis-title":        "axis-title",
+    "axis-label":        "axis-label",
+    "axis-tick":         "axis-tick",
+    "axistick":          "axis-tick",
+    "axisline":          "axis",
+    "x-axis":            "axis",
+    "y-axis":            "axis",
+    "reference-axis":    "axis",
+    "axis":              "axis",
+    "data-container":    "data-container",
+    "colorbins-container": "legend",
+    "xaxis":             "axis",
+    "yaxis":             "axis",
+
+    # Grid
     "x-grid":            "grid",
     "y-grid":            "grid",
-    "legend":            "legend",
-    "color legend":      "legend",
-}
-
-def signal_aria_label(node) -> Dict[str, float]:
-    """Returns confidence scores based on the node's aria-label attribute."""
-    aria = node.attributes.get("aria-label", "").strip().lower()
-    if not aria:
-        return {}
-
-    scores = {}
-    if aria in ARIA_LABEL_MAP:
-        scores[ARIA_LABEL_MAP[aria]] = 0.95
-        return scores
-
-    for key, label in ARIA_LABEL_MAP.items():
-        if key in aria or aria in key:
-            scores[label] = max(scores.get(label, 0), 0.7)
-
-    return scores
-
-
-# Signal 2: ID / class / data-name keywords
-# Hand-crafted SVGs use meaningful element ids and classes.
-# This is the primary signal for hand-crafted SVGs.
-# Confidence: 0.90 for any keyword match.
-
-ID_KEYWORD_MAP = {
-    "reference-axis":    "axis",
-    "axisline":          "axis",
-    "axisticks":         "axis-tick",
-    "axis-tick":         "axis-tick",
-    "axis-label":        "axis-label",
-    "axis-title":        "axis-title",
-    "tick-":             "axis-tick",
     "reference-grid":    "grid",
     "main-grid":         "grid",
     "grid":              "grid",
-    "data-groups":       "data-container",
-    "data-group":        "data-group",
-    "data-points":       "data-group",
-    "data-element":      "data-mark",
-    "data-area":         "data-mark",
-    "sub-regions":       "data-mark",
-    "region-":           "data-mark",
-    "area-":             "data-mark",
-    "cell-":             "data-mark",
-    "dot":               "data-mark",
-    "rule":              "data-mark",
-    "line-":             "data-link",
-    "link-":             "data-link",
-    "links":             "data-link",
-    "node-":             "data-node",
-    "nodes":             "data-node",
-    "circle-":           "data-node",
-    "all-stars":         "data-node",
-    "label-text":        "data-label",
-    "label-container":   "data-label",
-    "area-label":        "data-label",
-    "node-label":        "data-label",
-    "legend-container":  "legend",
-    "legend-color":      "legend",
-    "legend-shape":      "legend",
-    "legend-title":      "legend-title",
-    "legend-item":       "legend-item",
-    "legend-color-item": "legend-item",
-    "legend-shape-item": "legend-item",
-    "swatch":            "legend-item",
-    "colorbins":         "legend",
+
+    # Legend
+    "color legend":           "legend",
+    "legend-container":       "legend",
+    "legend-color":           "legend",
+    "legend-shape":           "legend",
+    "colorbins-legend":       "legend",
+    "color-legend-container": "legend",
+    "legend-title":           "legend-title",
+    "legend-color-item":      "legend-item",
+    "legend-shape-item":      "legend-item",
+    "legend-item":            "legend-item",
+    "swatch":                 "legend-item",
+    "colorbin":               "legend-item-symbol",
+    "legend":                 "legend",
+
+    # Data marks
+    "data-area-container":  "data-mark",
+    "sub-regions":          "data-mark",
+    "all-stars":            "data-node",
+    "data-element":         "data-mark",
+    "data-points":          "data-group",
+    "data-groups":          "data-container",
+    "data-group":           "data-group",
+    "data-area":            "data-mark",
+    "region-":              "data-mark",
+    "area-":                "data-mark",
+    "cell-":                "data-mark",
+    "dot":                  "data-mark",
+    "rule":                 "data-mark",
+    "bar":                  "data-mark",
+    "cell":                 "data-mark",
+    "tick":                 "data-mark",
+
+    # Links / nodes
+    "line-":                "data-link",
+    "link-":                "data-link",
+    "links":                "data-link",
+    "node-":                "data-node",
+    "nodes":                "data-node",
+    "circle-":              "data-node",
+
+    # Labels
+    "label-background":     "data-label",
+    "label-container":      "data-label",
+    "label-text":           "data-label",
+    "label-bg":             "data-label",
+    "star-label":           "data-label",
+    "area-label":           "data-label",
+    "node-label":           "data-label",
+    "node-labels":          "data-label",
 }
 
-def signal_id_keyword(node) -> Dict[str, float]:
-    """Returns confidence scores based on id, class, and data-name keywords."""
-    node_id   = node.attributes.get("id", "").lower()
-    css_class = node.attributes.get("class", "").lower()
-    data_name = node.attributes.get("data-name", "").lower()
-    identifier = f"{node_id} {css_class} {data_name}".strip()
-
-    if not identifier:
-        return {}
-
-    scores = {}
-    for keyword, label in ID_KEYWORD_MAP.items():
-        if keyword in identifier:
-            scores[label] = max(scores.get(label, 0), 0.9)
-
-    return scores
+# Geometric / style attributes we never check for semantic meaning
+_SKIP_ATTRS = {
+    'x', 'y', 'x1', 'y1', 'x2', 'y2', 'cx', 'cy', 'r', 'rx', 'ry',
+    'width', 'height', 'd', 'transform', 'points', 'viewBox', 'viewbox',
+    'fill', 'stroke', 'stroke-width', 'stroke-dasharray', 'stroke-linecap',
+    'stroke-linejoin', 'stroke-opacity', 'fill-opacity', 'opacity',
+    'font-size', 'font-family', 'font-weight', 'font-variant', 'font-style',
+    'text-anchor', 'dominant-baseline', 'alignment-baseline',
+    'clip-path', 'clip-rule', 'mask', 'filter', 'style',
+    'xmlns', 'xmlns:xlink', 'xlink:href', 'href', 'preserveAspectRatio',
+    'isolation', 'tabindex', 'focusable', 'aria-hidden',
+}
 
 
-# Signal 3: structural position
-# Elements near the left/bottom edge are likely axes. Near the right edge,
-# likely legend. In the center, likely data.
-# Confidence: 0.40 axis, 0.30 legend, 0.30 data-mark.
+def _match_keyword(value: str) -> Optional[str]:
+    """
+    Check a single string against KEYWORD_MAP.
+    Tries exact match first, then substring match (longer keys first).
+    Returns a label or None.
+    """
+    v = value.strip().lower()
+    if not v or len(v) > 120:
+        return None
 
-def signal_position(node, svg_bbox) -> Dict[str, float]:
-    """Returns confidence scores based on the node's position on the canvas."""
-    bbox = _get_bbox(node)
-    if not bbox or not svg_bbox:
-        return {}
+    # Exact match
+    if v in KEYWORD_MAP:
+        return KEYWORD_MAP[v]
 
-    x1, y1, x2, y2 = bbox
-    sx1, sy1, sx2, sy2 = svg_bbox
-    svg_w = sx2 - sx1
-    svg_h = sy2 - sy1
+    # Substring match: longer keys checked first (more specific wins)
+    for key in sorted(KEYWORD_MAP, key=len, reverse=True):
+        if key in v:
+            return KEYWORD_MAP[key]
 
-    if svg_w == 0 or svg_h == 0:
-        return {}
-
-    cx = ((x1 + x2) / 2 - sx1) / svg_w
-    cy = ((y1 + y2) / 2 - sy1) / svg_h
-
-    scores = {}
-    near_left   = cx < 0.15
-    near_right  = cx > 0.85
-    near_bottom = cy > 0.85
-
-    if near_left or near_bottom:
-        scores["axis"] = 0.4
-    if near_right:
-        scores["legend"] = 0.3
-    if not (near_left or near_right or near_bottom):
-        scores["data-mark"] = 0.3
-
-    return scores
+    return None
 
 
-# Signal 4: tag + repetition
-# Data marks almost always repeat — many siblings of the same tag and
-# similar size strongly suggests a data mark.
-# Confidence: 0.60 when 3+ same-size siblings are found.
+def step1_tag_special(node) -> Optional[str]:
+    """
+    Step 1: Certain tags always have a known label regardless of attributes.
+    """
+    tag = node.tag
+    if tag == 'svg':
+        return 'data-container'
+    if tag == 'foreignObject':
+        return 'legend'
+    return None
 
-def signal_repetition(node, siblings: List) -> Dict[str, float]:
-    """Returns confidence scores based on repeated siblings of same tag and size."""
-    if not siblings or len(siblings) < 3:
-        return {}
+
+def step2_attribute_scan(node) -> Optional[str]:
+    """
+    Step 2: Scan ALL attributes for semantic values.
+    Checks the value of every non-geometric attribute against KEYWORD_MAP.
+    Attribute name does not matter only the value.
+    Priority: aria-label > id > data-name > class > everything else.
+    """
+    attrs = node.attributes
+
+    # Check high-priority attributes first
+    priority_attrs = ['aria-label', 'id', 'data-name', 'class',
+                      'data-type', 'data-role', 'role', 'title',
+                      'data-category', 'data-mark', 'data-chart-element']
+
+    for attr in priority_attrs:
+        val = attrs.get(attr, '')
+        if val:
+            label = _match_keyword(val)
+            if label:
+                return label
+
+    # Then scan all remaining attributes
+    for attr, val in attrs.items():
+        if attr in priority_attrs:
+            continue
+        if attr in _SKIP_ATTRS:
+            continue
+        if not val or not isinstance(val, str):
+            continue
+        label = _match_keyword(val)
+        if label:
+            return label
+
+    return None
+
+
+def step3_parent_inheritance(node, parent_label: Optional[str]) -> Optional[str]:
+    """
+    Step 3: Inherit label from parent using specific rules.
+    Only fires when parent label is known and specific child patterns apply.
+    """
+    if parent_label is None:
+        return None
+
+    tag = node.tag
+
+    # Axis family: differentiate by child tag
+    if parent_label == 'axis-title':
+        if tag == 'text':
+            return 'axis-title'
+        return None
+    if parent_label in ('axis', 'axis-tick', 'axis-label', 'axis-title'):
+        if tag == 'text':
+            return 'axis-label'
+        if tag in ('line', 'path'):
+            return 'axis-tick'
+        if tag == 'g':
+            return 'axis'
+        return None 
+
+    # Grid family
+    if parent_label == 'grid':
+        if tag in ('line', 'path', 'rect'):
+            return 'grid'
+        return None
+
+    # Legend family
+    if parent_label == 'legend':
+        if tag == 'text':
+            return 'legend-title'
+        if tag in ('g', 'rect', 'circle', 'path', 'line'):
+            return 'legend-item'
+        return None
+
+    if parent_label == 'legend-title':
+        if tag == 'text':
+            return 'legend-title'
+        return None
+
+    if parent_label == 'legend-item':
+        if tag in ('rect', 'circle', 'path', 'line', 'polygon', 'svg'):
+            return 'legend-item-symbol'
+        if tag == 'text':
+            return 'legend-item-label'
+        if tag == 'g':
+            return 'legend-item'
+        return None
+
+    if parent_label == 'legend-item-label':
+        if tag == 'text':
+            return 'legend-item-label'
+        return None
+
+    if parent_label == 'legend-item-symbol':
+        if tag in ('rect', 'circle', 'path', 'polygon'):
+            return 'legend-item-symbol'
+        return None
+
+    # Data label family
+    if parent_label == 'data-label':
+        if tag == 'text':
+            return 'data-label'
+        if tag == 'rect':
+            return 'data-label'  # background rect of a label
+        return None
+
+    # Data container / group : children are marks
+    if parent_label in ('data-container', 'data-group'):
+        if tag in ('path', 'circle', 'rect', 'line', 'polygon',
+                   'polyline', 'ellipse'):
+            return 'data-mark'
+        return None
+
+    # Data mark group : children are also marks
+    if parent_label == 'data-mark':
+        if tag in ('path', 'circle', 'rect', 'line', 'polygon',
+                   'polyline', 'ellipse'):
+            return 'data-mark'
+        return None
+
+    # Data node : children stay as nodes
+    if parent_label == 'data-node':
+        if tag in ('circle', 'rect', 'path', 'ellipse'):
+            return 'data-node'
+        return None
+
+    # Data link : children stay as links
+    if parent_label == 'data-link':
+        if tag in ('line', 'path', 'polyline'):
+            return 'data-link'
+        return None
+
+    return None
+
+
+def step4_sibling_context(node, siblings: List) -> Optional[str]:
+    """
+    Step 4: Many siblings of same tag and similar size = data-mark.
+    Only fires for shape tags, not text or g.
+    Requires 4+ similar siblings to reduce false positives.
+    """
+    if not siblings or len(siblings) < 4:
+        return None
+
+    if node.tag not in ('circle', 'rect', 'path', 'line',
+                        'polygon', 'polyline', 'ellipse'):
+        return None
 
     same_tag = [s for s in siblings if s.tag == node.tag]
-    if len(same_tag) < 3:
-        return {}
+    if len(same_tag) < 4:
+        return None
 
     bbox = _get_bbox(node)
     if not bbox:
-        return {}
+        return None
 
     w = bbox[2] - bbox[0]
     h = bbox[3] - bbox[1]
+    if w < 2 or h < 2:
+        return None
 
-    similar_size = [
+    similar = [
         s for s in same_tag
         if _get_bbox(s) and
-        abs((_get_bbox(s)[2] - _get_bbox(s)[0]) - w) < 5 and
-        abs((_get_bbox(s)[3] - _get_bbox(s)[1]) - h) < 5
+        abs((_get_bbox(s)[2] - _get_bbox(s)[0]) - w) < 10 and
+        abs((_get_bbox(s)[3] - _get_bbox(s)[1]) - h) < 10
     ]
 
-    scores = {}
-    if len(similar_size) >= 3 and node.tag in ("circle", "rect", "path", "line"):
-        scores["data-mark"] = 0.6
+    if len(similar) >= 4:
+        return 'data-mark'
 
-    return scores
+    return None
 
 
-# Signal 5: context inheritance
-# A node's parent label provides useful context when its own attributes
-# are not informative enough.
-# Confidence: 0.50 - 0.70 depending on the parent-child combination.
-
-def signal_context(node, parent_label: Optional[str]) -> Dict[str, float]:
-    """Returns confidence scores based on the parent node's semantic label."""
-    if not parent_label or parent_label == "unknown":
-        return {}
-
+def step5_conservative_tag(node, svg_bbox) -> Optional[str]:
+    """
+    Step 5: Last resort. Very conservative rules based on tag only.
+    Only returns a label when we are very confident.
+    """
     tag = node.tag
-    scores = {}
 
-    if parent_label == "legend":
-        if tag == "text":
-            scores["legend-title"] = 0.5
-        elif tag == "g":
-            scores["legend-item"] = 0.5
-        else:
-            scores["legend-item-symbol"] = 0.4
+    # Text elements are always some kind of label
+    if tag == 'text':
+        return 'data-label'
 
-    elif parent_label == "legend-item":
-        if tag == "text":
-            scores["legend-item-label"] = 0.7
-        elif tag in ("rect", "circle", "path", "line"):
-            scores["legend-item-symbol"] = 0.7
-        else:
-            scores["legend-item"] = 0.4
+    # Check if element has a saturated fill :strong signal for data mark
+    fill = node.attributes.get('fill', '').strip().lower()
+    if fill and fill not in ('none', 'currentcolor', 'inherit', 'transparent', 'white', '#fff', '#ffffff'):
+        if _is_saturated(fill):
+            return 'data-mark'
 
-    elif parent_label in ("axis", "axis-tick"):
-        if tag == "text":
-            scores["axis-label"] = 0.6
-        elif tag in ("line", "path"):
-            scores["axis-tick"] = 0.6
+    # Check canvas coverage for containers
+    bbox = _get_bbox(node)
+    if bbox and svg_bbox:
+        sw = svg_bbox[2] - svg_bbox[0]
+        sh = svg_bbox[3] - svg_bbox[1]
+        if sw > 0 and sh > 0:
+            nw = bbox[2] - bbox[0]
+            nh = bbox[3] - bbox[1]
+            coverage = (nw * nh) / (sw * sh)
+            if coverage > 0.70:
+                return 'data-container'
 
-    elif parent_label == "data-group":
-        if tag == "text":
-            scores["data-label"] = 0.6
-        elif tag == "circle":
-            scores["data-node"] = 0.5
-        elif tag in ("line", "path"):
-            scores["data-link"] = 0.5
-        else:
-            scores["data-mark"] = 0.5
-
-    elif parent_label == "data-container":
-        scores["data-group"] = 0.5
-
-    return scores
+    return None
 
 
-# Signal 6: fill / stroke color
-# Neutral greys (low HSL saturation) suggest structural elements.
-# Saturated colors suggest data marks, unless inside a legend context
-# where they suggest legend-item-symbol instead.
-# Confidence: 0.50 saturated fill, 0.40 saturated stroke,
-#             0.35 neutral stroke, 0.30 neutral fill.
+# Color helper 
 
-def _is_neutral_color(color: str) -> bool:
-    """
-    Returns True if the color is neutral/structural.
-    Uses HSL saturation for hex colors (below 15% = grey).
-    Named keywords and grey words are always neutral.
-    """
-    if not color:
-        return False
+def _is_saturated(color: str) -> bool:
+    """Returns True if color has meaningful saturation (not grey/white/black)."""
     color = color.strip().lower()
-
-    if color in ("none", "currentcolor", "inherit", "transparent"):
-        return True
-
-    if color in ("black", "white", "gray", "grey", "silver",
-                 "darkgray", "darkgrey", "lightgray", "lightgrey"):
-        return True
-
-    if len(color) == 4 and color.startswith("#"):
-        color = "#" + color[1]*2 + color[2]*2 + color[3]*2
-
-    if len(color) == 7 and color.startswith("#"):
+    if color in ('none', 'currentcolor', 'inherit', 'transparent',
+                 'black', 'white', 'gray', 'grey', 'silver',
+                 '#000', '#000000', '#fff', '#ffffff'):
+        return False
+    if len(color) == 4 and color.startswith('#'):
+        color = '#' + color[1]*2 + color[2]*2 + color[3]*2
+    if len(color) == 7 and color.startswith('#'):
         try:
             r = int(color[1:3], 16) / 255
             g = int(color[3:5], 16) / 255
             b = int(color[5:7], 16) / 255
-            h, l, s = colorsys.rgb_to_hls(r, g, b)
-            return s < 0.15
+            _, _, s = colorsys.rgb_to_hls(r, g, b)
+            return s > 0.15
         except ValueError:
-            return False
-
-    return False
-
-def _is_saturated_color(color: str) -> bool:
-    """Returns True if the color is saturated (not neutral, not empty)."""
-    if not color:
-        return False
-    color = color.strip().lower()
-    if color in ("", "none", "inherit", "transparent", "currentcolor"):
-        return False
-    return not _is_neutral_color(color)
-
-def signal_color(node, parent_label: Optional[str] = None) -> Dict[str, float]:
-    """
-    Returns confidence scores based on fill and stroke color.
-    Saturated colors inside a legend context score for legend-item-symbol
-    instead of data-mark to avoid misclassifying swatches.
-    """
-    fill   = node.attributes.get("fill",   "").strip().lower()
-    stroke = node.attributes.get("stroke", "").strip().lower()
-
-    node_id   = node.attributes.get("id",    "").lower()
-    css_class = node.attributes.get("class", "").lower()
-    in_legend = (
-        (parent_label and "legend" in parent_label) or
-        any(kw in f"{node_id} {css_class}" for kw in ("swatch", "legend"))
-    )
-
-    scores = {}
-
-    if _is_neutral_color(fill):
-        scores["axis"] = max(scores.get("axis", 0), 0.3)
-        scores["grid"] = max(scores.get("grid", 0), 0.3)
-    elif _is_saturated_color(fill):
-        if in_legend:
-            scores["legend-item-symbol"] = max(scores.get("legend-item-symbol", 0), 0.5)
-        else:
-            scores["data-mark"] = max(scores.get("data-mark", 0), 0.5)
-
-    if _is_neutral_color(stroke):
-        scores["axis"] = max(scores.get("axis", 0), 0.35)
-        scores["grid"] = max(scores.get("grid", 0), 0.35)
-    elif _is_saturated_color(stroke):
-        if in_legend:
-            scores["legend-item-symbol"] = max(scores.get("legend-item-symbol", 0), 0.4)
-        else:
-            scores["data-mark"] = max(scores.get("data-mark", 0), 0.4)
-
-    return scores
+            pass
+    # Named colors that are not grey are saturated
+    return True
 
 
-def combine_signals(*signal_dicts) -> Dict[str, float]:
-    """Merges confidence score dicts from all signals by summing their values."""
-    combined = {}
-    for d in signal_dicts:
-        for label, score in d.items():
-            combined[label] = combined.get(label, 0) + score
-    return combined
-
-
-def pick_label(scores: Dict[str, float], threshold: float = 0.3) -> str:
-    """Returns the label with the highest score, or 'unknown' if below threshold."""
-    if not scores:
-        return "unknown"
-    best = max(scores, key=scores.get)
-    return best if scores[best] >= threshold else "unknown"
-
+# Main assignment 
 
 def assign_semantic_to_node(
     node,
@@ -375,32 +400,44 @@ def assign_semantic_to_node(
     svg_bbox: Optional[List[float]] = None
 ) -> str:
     """
-    Assigns a semantic label to a single SVG tree node by running all six
-    signals, combining their scores, and returning the highest label.
+    Assigns a semantic label to a single SVG node.
+    Runs five steps in priority order, returns on first match.
     """
-    if node.tag == "foreignObject":
-        return "legend"
+    # Step 1: tag special cases
+    label = step1_tag_special(node)
+    if label:
+        return label
 
-    s1 = signal_aria_label(node)
-    s2 = signal_id_keyword(node)
-    s3 = signal_position(node, svg_bbox)
-    s4 = signal_repetition(node, siblings or [])
-    s5 = signal_context(node, parent_label)
-    s6 = signal_color(node, parent_label=parent_label)
+    # Step 2: scan all attributes for semantic values
+    label = step2_attribute_scan(node)
+    if label:
+        return label
 
-    combined = combine_signals(s1, s2, s3, s4, s5, s6)
-    return pick_label(combined)
+    # Step 3: inherit from parent
+    label = step3_parent_inheritance(node, parent_label)
+    if label:
+        return label
 
+    # Step 4: sibling repetition
+    label = step4_sibling_context(node, siblings or [])
+    if label:
+        return label
+
+    # Step 5: conservative tag-based fallback
+    label = step5_conservative_tag(node, svg_bbox)
+    if label:
+        return label
+
+    return 'unknown'
+
+
+# Tree traversal 
 
 def _get_bbox(node):
-    """
-    Extracts a [x1, y1, x2, y2] list from a node.
-    Handles both SVGTreeNodeBounded (.bounding) and SVGTreeNodeSemantic (.bbox).
-    """
-    bbox = getattr(node, "bbox", None)
+    bbox = getattr(node, 'bbox', None)
     if isinstance(bbox, (list, tuple)) and len(bbox) == 4:
         return list(bbox)
-    bounding = getattr(node, "bounding", None)
+    bounding = getattr(node, 'bounding', None)
     if bounding is not None:
         try:
             bounds = list(bounding.bounds)
@@ -412,32 +449,19 @@ def _get_bbox(node):
 
 
 class SVGTreeNodeSemantic:
-    """
-    Wraps a SVGTreeNodeBounded node and adds a semantic_label field.
-    Exposes the same interface expected by pipeline._extract_data.
-    """
-
     def __init__(self, bounded_node):
-        self._node          = bounded_node
-        self.semantic_label = "unknown"
-        self.children       = []
+        self._node = bounded_node
+        self.semantic_label = 'unknown'
+        self.children = []
 
     @property
-    def tag(self):
-        return self._node.tag
-
+    def tag(self): return self._node.tag
     @property
-    def attributes(self):
-        return self._node.attributes
-
+    def attributes(self): return self._node.attributes
     @property
-    def text(self):
-        return self._node.text
-
+    def text(self): return self._node.text
     @property
-    def bounding(self):
-        return self._node.bounding
-
+    def bounding(self): return self._node.bounding
     @property
     def bbox(self):
         if self._node.bounding is None:
@@ -446,23 +470,16 @@ class SVGTreeNodeSemantic:
 
 
 class SVGTreeSemantic:
-    """Container holding the root of the semantically labelled SVG tree."""
-
     def __init__(self, root: SVGTreeNodeSemantic):
         self.root = root
 
 
 def assign_semantic_to_tree(bounded_tree) -> SVGTreeSemantic:
-    """
-    Traverses the bounded tree top-down and assigns a semantic label to
-    every node, passing parent label, siblings, and svg bbox as context.
-    """
     svg_bbox = _get_bbox(bounded_tree.root)
 
     def wrap_node(bounded_node, parent_label=None):
         semantic_node = SVGTreeNodeSemantic(bounded_node)
-
-        parent   = getattr(bounded_node, "parent", None)
+        parent = getattr(bounded_node, 'parent', None)
         siblings = parent.children if parent else []
 
         semantic_node.semantic_label = assign_semantic_to_node(

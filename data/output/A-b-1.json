@@ -1,0 +1,498 @@
+[
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_2",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_1",
+        "bbox": [
+            414.0,
+            76.11,
+            1506.0,
+            915.91
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_4",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_3",
+        "bbox": [
+            414.0,
+            76.11,
+            1052.3,
+            605.21
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_6",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_5",
+        "bbox": [
+            420.5,
+            83.13,
+            495.38,
+            98.73
+        ],
+        "text": "SUNHAVEN"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_8",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_7",
+        "bbox": [
+            414.0,
+            609.11,
+            1052.3,
+            912.01
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_10",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_9",
+        "bbox": [
+            420.5,
+            616.13,
+            504.74,
+            631.73
+        ],
+        "text": "STONEFELL"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_12",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_11",
+        "bbox": [
+            1056.2,
+            76.11,
+            1288.9,
+            737.8100000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_14",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_13",
+        "bbox": [
+            1062.7,
+            83.13,
+            1146.94,
+            98.73
+        ],
+        "text": "RAVENLAND"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_16",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_15",
+        "bbox": [
+            1292.8,
+            76.11,
+            1506.0,
+            737.8100000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_18",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_17",
+        "bbox": [
+            1299.3,
+            83.13,
+            1374.1799999999998,
+            98.73
+        ],
+        "text": "HIGHMOOR"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_20",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_19",
+        "bbox": [
+            1056.2,
+            741.71,
+            1506.0,
+            912.01
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_22",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_21",
+        "bbox": [
+            1062.7,
+            748.73,
+            1146.94,
+            764.33
+        ],
+        "text": "FROSTVALE"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_24",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_23",
+        "bbox": [
+            427.0,
+            104.71,
+            921.0,
+            592.21
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_29",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_28",
+        "bbox": [
+            433.5,
+            108.87,
+            502.14,
+            123.17
+        ],
+        "text": "Eastwood"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_31",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_30",
+        "bbox": [
+            924.9,
+            104.71,
+            1039.3,
+            592.21
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_36",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_35",
+        "bbox": [
+            931.4,
+            108.87,
+            1008.62,
+            123.17
+        ],
+        "text": "Westbrook"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_38",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_37",
+        "bbox": [
+            427.0,
+            637.71,
+            957.4,
+            899.01
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_43",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_42",
+        "bbox": [
+            433.5,
+            641.8699999999999,
+            519.3,
+            656.17
+        ],
+        "text": "Thornfield"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_45",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_44",
+        "bbox": [
+            961.3,
+            637.71,
+            1039.3,
+            899.01
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_50",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_49",
+        "bbox": [
+            967.8,
+            641.8699999999999,
+            1036.44,
+            656.17
+        ],
+        "text": "Darkwood"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_52",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_51",
+        "bbox": [
+            1069.2,
+            104.71,
+            1275.9,
+            620.8100000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_57",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_56",
+        "bbox": [
+            1075.7,
+            108.87,
+            1144.3400000000001,
+            123.17
+        ],
+        "text": "Westwood"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_59",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_58",
+        "bbox": [
+            1069.2,
+            624.71,
+            1275.9,
+            724.8100000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_64",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_63",
+        "bbox": [
+            1075.7,
+            628.8699999999999,
+            1161.5,
+            643.17
+        ],
+        "text": "Silverhill"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_66",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_65",
+        "bbox": [
+            1305.8,
+            104.71,
+            1493.0,
+            611.71
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_71",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_70",
+        "bbox": [
+            1312.3,
+            108.87,
+            1398.1,
+            123.17
+        ],
+        "text": "Freshwater"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_73",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_72",
+        "bbox": [
+            1305.8,
+            615.61,
+            1493.0,
+            724.8100000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_78",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_77",
+        "bbox": [
+            1312.3,
+            619.77,
+            1398.1,
+            634.07
+        ],
+        "text": "Silverwood"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_80",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_79",
+        "bbox": [
+            1069.2,
+            770.31,
+            1278.5,
+            899.01
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_85",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_84",
+        "bbox": [
+            1075.7,
+            774.4799999999999,
+            1161.5,
+            788.78
+        ],
+        "text": "Greenridge"
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_87",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_86",
+        "bbox": [
+            1282.4,
+            770.31,
+            1493.0,
+            899.01
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-b-1",
+        "aoi_id": "aoi_92",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_91",
+        "bbox": [
+            1288.9,
+            774.4799999999999,
+            1366.1200000000001,
+            788.78
+        ],
+        "text": "Northwood"
+    }
+]

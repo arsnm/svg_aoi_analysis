@@ -1,0 +1,850 @@
+[
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_4",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "path",
+        "parent_id": "aoi_3",
+        "bbox": [
+            385.57,
+            867.33,
+            1425.57,
+            875.13
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_7",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_6",
+        "bbox": [
+            470.7253701320235,
+            893.2914805280939,
+            498.8540778876243,
+            921.4201882836948
+        ],
+        "text": "#167"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_9",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_8",
+        "bbox": [
+            678.7253701320235,
+            893.2914805280939,
+            706.8540778876244,
+            921.4201882836948
+        ],
+        "text": "#190"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_11",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_10",
+        "bbox": [
+            886.7253701320235,
+            893.2914805280939,
+            914.8540778876244,
+            921.4201882836948
+        ],
+        "text": "#216"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_13",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_12",
+        "bbox": [
+            1094.7253701320235,
+            893.2914805280939,
+            1122.8540778876245,
+            921.4201882836948
+        ],
+        "text": "#300"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_15",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_14",
+        "bbox": [
+            1302.7253701320235,
+            893.2914805280939,
+            1330.8540778876245,
+            921.4201882836948
+        ],
+        "text": "#298"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_16",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_3",
+        "bbox": [
+            1425.56,
+            885.2700000000001,
+            1523.84,
+            903.47
+        ],
+        "text": "FOOD ITEM"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_18",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "path",
+        "parent_id": "aoi_17",
+        "bbox": [
+            377.77,
+            87.33,
+            385.57,
+            867.33
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_22",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_20",
+        "bbox": [
+            366.63,
+            861.09,
+            374.43,
+            874.09
+        ],
+        "text": "0"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_25",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_23",
+        "bbox": [
+            366.63,
+            749.66,
+            374.43,
+            762.66
+        ],
+        "text": "5"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_28",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_26",
+        "bbox": [
+            359.41,
+            638.23,
+            375.01000000000005,
+            651.23
+        ],
+        "text": "10"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_31",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_29",
+        "bbox": [
+            359.41,
+            526.8000000000001,
+            375.01000000000005,
+            539.8000000000001
+        ],
+        "text": "15"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_34",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_32",
+        "bbox": [
+            359.41,
+            415.37,
+            375.01000000000005,
+            428.37
+        ],
+        "text": "20"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_37",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_35",
+        "bbox": [
+            359.41,
+            303.94,
+            375.01000000000005,
+            316.94
+        ],
+        "text": "25"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_40",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_38",
+        "bbox": [
+            359.41,
+            192.51,
+            375.01000000000005,
+            205.51
+        ],
+        "text": "30"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_43",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_41",
+        "bbox": [
+            359.41,
+            81.08999999999999,
+            375.01000000000005,
+            94.08999999999999
+        ],
+        "text": "35"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_45",
+        "aoi_label": "axis-title",
+        "aoi_type": "title",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            335.59000000000003,
+            612.37,
+            353.79,
+            896.29
+        ],
+        "text": "NUTRITIONAL VALUE (g/100g)"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_47",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "path",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            87.33,
+            1425.57,
+            867.33
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_48",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            867.329999,
+            1425.57,
+            867.330001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_49",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            755.899999,
+            1425.57,
+            755.900001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_50",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            644.469999,
+            1425.57,
+            644.470001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_51",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            533.039999,
+            1425.57,
+            533.040001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_52",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            421.609999,
+            1425.57,
+            421.610001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_53",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            310.179999,
+            1425.57,
+            310.180001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_54",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            198.759999,
+            1425.57,
+            198.760001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_55",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            385.57,
+            87.329999,
+            1425.57,
+            87.330001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_58",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "polygon",
+        "parent_id": "aoi_57",
+        "bbox": [
+            448.04,
+            709.6,
+            461.76,
+            723.32
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_60",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_57",
+        "bbox": [
+            481.49,
+            200.91000000000003,
+            497.65,
+            217.07
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_62",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_57",
+        "bbox": [
+            518.78,
+            751.81,
+            529.6800000000001,
+            762.71
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_65",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "polygon",
+        "parent_id": "aoi_64",
+        "bbox": [
+            656.04,
+            668.75,
+            669.76,
+            682.47
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_67",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            689.49,
+            169.71000000000004,
+            705.6500000000001,
+            185.87
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_69",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_64",
+        "bbox": [
+            726.78,
+            744.67,
+            737.6800000000001,
+            755.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_72",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "polygon",
+        "parent_id": "aoi_71",
+        "bbox": [
+            864.04,
+            694.47,
+            877.76,
+            708.19
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_74",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_71",
+        "bbox": [
+            897.49,
+            238.79000000000002,
+            913.6500000000001,
+            254.95
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_76",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_71",
+        "bbox": [
+            934.78,
+            630.13,
+            945.6800000000001,
+            641.0300000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_79",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "polygon",
+        "parent_id": "aoi_78",
+        "bbox": [
+            1072.04,
+            714.72,
+            1085.76,
+            728.44
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_81",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_78",
+        "bbox": [
+            1105.4899999999998,
+            189.76000000000002,
+            1121.65,
+            205.92
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_83",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_78",
+        "bbox": [
+            1142.78,
+            683.6099999999999,
+            1153.68,
+            694.51
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_86",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "polygon",
+        "parent_id": "aoi_85",
+        "bbox": [
+            1280.04,
+            544.01,
+            1293.76,
+            557.73
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_88",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_85",
+        "bbox": [
+            1313.4899999999998,
+            253.07000000000005,
+            1329.65,
+            269.23
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_90",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_85",
+        "bbox": [
+            1350.78,
+            673.5799999999999,
+            1361.68,
+            684.48
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_95",
+        "aoi_label": "legend-title",
+        "aoi_type": "title",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_94",
+        "bbox": [
+            1438.41,
+            90.83,
+            1602.21,
+            109.03
+        ],
+        "text": "FOOD ITEM GROUP"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_98",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_97",
+        "bbox": [
+            1438.41,
+            142.81,
+            1459.21,
+            163.61
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_100",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_99",
+        "bbox": [
+            1475.71,
+            144.474,
+            1543.102,
+            163.194
+        ],
+        "text": "dishes"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_102",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_101",
+        "bbox": [
+            1438.41,
+            194.01,
+            1459.21,
+            214.81
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_104",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_103",
+        "bbox": [
+            1475.71,
+            195.674,
+            1588.03,
+            214.394
+        ],
+        "text": "sandwiches"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_107",
+        "aoi_label": "legend-title",
+        "aoi_type": "title",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_106",
+        "bbox": [
+            1438.41,
+            278.09,
+            1634.97,
+            296.28999999999996
+        ],
+        "text": "TYPES OF NUTRIENTS"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_111",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_110",
+        "bbox": [
+            1465.71,
+            327.434,
+            1544.334,
+            346.154
+        ],
+        "text": "Protein"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_112",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "polygon",
+        "parent_id": "aoi_109",
+        "bbox": [
+            1438.05,
+            328.23,
+            1451.77,
+            341.95
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_115",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_114",
+        "bbox": [
+            1465.71,
+            378.454,
+            1600.4940000000001,
+            397.174
+        ],
+        "text": "Carbohydrate"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_116",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "path",
+        "parent_id": "aoi_113",
+        "bbox": [
+            1436.83,
+            378.12,
+            1452.9900000000002,
+            394.28
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_119",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_118",
+        "bbox": [
+            1465.71,
+            429.474,
+            1499.406,
+            448.19399999999996
+        ],
+        "text": "Fat"
+    },
+    {
+        "stimulus_id": "B-a-1",
+        "aoi_id": "aoi_120",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "circle",
+        "parent_id": "aoi_117",
+        "bbox": [
+            1439.46,
+            431.47,
+            1450.3600000000001,
+            442.37
+        ],
+        "text": ""
+    }
+]

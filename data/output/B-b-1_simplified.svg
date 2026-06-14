@@ -1,0 +1,534 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="312.59000000000003 56.58999999999999 1330.3600000000001 1274.97">
+    <g id="aoi_1_data-container" data-type="container" data-original-tag="svg">
+        <rect x="332.59000000000003" y="76.58999999999999" width="1290.3600000000001" height="1234.97" fill="none" stroke="red" stroke-width="1" />
+        <text x="332.59000000000003" y="74.58999999999999" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+        <g id="aoi_2_data-container" data-type="container" data-original-tag="g">
+            <rect x="332.59000000000003" y="76.58999999999999" width="1101.0099999999998" height="1234.97" fill="none" stroke="red" stroke-width="1" />
+            <text x="332.59000000000003" y="74.58999999999999" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+            <g id="aoi_3_grid" data-type="grid" data-original-tag="g">
+                <rect x="385.229999" y="82.83" width="1040.0000020000002" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="385.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                <g id="aoi_4_grid" data-type="grid" data-original-tag="path">
+                    <rect x="385.23" y="82.83" width="1040.0" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="385.23" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                </g>
+                <g id="aoi_5_grid" data-type="grid" data-original-tag="g">
+                    <rect x="385.229999" y="82.83" width="1040.0000020000002" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="385.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    <g id="aoi_6_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_7_grid" data-type="grid" data-original-tag="line">
+                        <rect x="489.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="489.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_8_grid" data-type="grid" data-original-tag="line">
+                        <rect x="593.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="593.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_9_grid" data-type="grid" data-original-tag="line">
+                        <rect x="697.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="697.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_10_grid" data-type="grid" data-original-tag="line">
+                        <rect x="801.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="801.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_11_grid" data-type="grid" data-original-tag="line">
+                        <rect x="905.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="905.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_12_grid" data-type="grid" data-original-tag="line">
+                        <rect x="1009.229999" y="82.83" width="1.9999999949504854e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1009.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_13_grid" data-type="grid" data-original-tag="line">
+                        <rect x="1113.229999" y="82.83" width="2.000000222324161e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1113.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_14_grid" data-type="grid" data-original-tag="line">
+                        <rect x="1217.229999" y="82.83" width="2.000000222324161e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1217.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_15_grid" data-type="grid" data-original-tag="line">
+                        <rect x="1321.229999" y="82.83" width="2.000000222324161e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1321.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_16_grid" data-type="grid" data-original-tag="line">
+                        <rect x="1425.229999" y="82.83" width="2.000000222324161e-06" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1425.229999" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_17_grid" data-type="grid" data-original-tag="g">
+                <rect x="385.23" y="82.829999" width="1040.0" height="780.000002" fill="none" stroke="red" stroke-width="1" />
+                <text x="385.23" y="80.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                <g id="aoi_18_grid" data-type="grid" data-original-tag="path">
+                    <rect x="385.23" y="82.83" width="1040.0" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="385.23" y="80.83" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                </g>
+                <g id="aoi_19_grid" data-type="grid" data-original-tag="g">
+                    <rect x="385.23" y="82.829999" width="1040.0" height="780.000002" fill="none" stroke="red" stroke-width="1" />
+                    <text x="385.23" y="80.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    <g id="aoi_20_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="862.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="860.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_21_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="784.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="782.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_22_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="706.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="704.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_23_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="628.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="626.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_24_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="550.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="548.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_25_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="472.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="470.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_26_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="394.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="392.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_27_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="316.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="314.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_28_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="238.82999900000002" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="236.82999900000002" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_29_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="160.82999900000002" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="158.82999900000002" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                    <g id="aoi_30_grid" data-type="grid" data-original-tag="line">
+                        <rect x="385.23" y="82.829999" width="1040.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                        <text x="385.23" y="80.829999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_31_axis" data-type="axis" data-original-tag="g">
+                <rect x="381.61" y="862.83" width="1051.9899999999998" height="59.139999999999986" fill="none" stroke="red" stroke-width="1" />
+                <text x="381.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                <g id="aoi_32_axis" data-type="axis" data-original-tag="path">
+                    <rect x="385.23" y="862.83" width="1040.0" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                    <text x="385.23" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                </g>
+                <g id="aoi_33_axis-tick" data-type="tick" data-original-tag="g">
+                    <rect x="381.61" y="862.83" width="1051.9899999999998" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                    <text x="381.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                    <g id="aoi_34_axis" data-type="axis" data-original-tag="g">
+                        <rect x="381.61" y="862.83" width="7.800000000000011" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="381.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_35_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="385.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="385.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_36_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="381.61" y="873.36" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="381.61" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "0"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_37_axis" data-type="axis" data-original-tag="g">
+                        <rect x="485.61" y="862.83" width="7.800000000000011" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="485.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_38_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="489.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="489.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_39_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="485.61" y="873.36" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="485.61" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "2"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_40_axis" data-type="axis" data-original-tag="g">
+                        <rect x="589.61" y="862.83" width="7.7999999999999545" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="589.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_41_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="593.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="593.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_42_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="589.61" y="873.36" width="7.7999999999999545" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="589.61" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "4"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_43_axis" data-type="axis" data-original-tag="g">
+                        <rect x="693.61" y="862.83" width="7.7999999999999545" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="693.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_44_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="697.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="697.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_45_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="693.61" y="873.36" width="7.7999999999999545" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="693.61" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "6"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_46_axis" data-type="axis" data-original-tag="g">
+                        <rect x="797.61" y="862.83" width="7.7999999999999545" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="797.61" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_47_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="801.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="801.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_48_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="797.61" y="873.36" width="7.7999999999999545" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="797.61" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "8"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_49_axis" data-type="axis" data-original-tag="g">
+                        <rect x="898.0" y="862.83" width="15.600000000000023" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="898.0" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_50_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="905.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="905.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_51_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="898.0" y="873.36" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="898.0" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "10"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_52_axis" data-type="axis" data-original-tag="g">
+                        <rect x="1002.0" y="862.83" width="15.600000000000023" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1002.0" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_53_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="1009.229999" y="862.83" width="1.9999999949504854e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1009.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_54_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="1002.0" y="873.36" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1002.0" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "12"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_55_axis" data-type="axis" data-original-tag="g">
+                        <rect x="1106.0" y="862.83" width="15.599999999999909" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1106.0" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_56_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="1113.229999" y="862.83" width="2.000000222324161e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1113.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_57_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="1106.0" y="873.36" width="15.599999999999909" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1106.0" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "14"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_58_axis" data-type="axis" data-original-tag="g">
+                        <rect x="1210.0" y="862.83" width="15.599999999999909" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1210.0" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_59_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="1217.229999" y="862.83" width="2.000000222324161e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1217.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_60_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="1210.0" y="873.36" width="15.599999999999909" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1210.0" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "16"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_61_axis" data-type="axis" data-original-tag="g">
+                        <rect x="1314.0" y="862.83" width="15.599999999999909" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1314.0" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_62_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="1321.229999" y="862.83" width="2.000000222324161e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1321.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_63_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="1314.0" y="873.36" width="15.599999999999909" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1314.0" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "18"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_64_axis" data-type="axis" data-original-tag="g">
+                        <rect x="1418.0" y="862.83" width="15.599999999999909" height="23.529999999999973" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1418.0" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_65_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="1425.229999" y="862.83" width="2.000000222324161e-06" height="7.7999999999999545" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1425.229999" y="860.83" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_66_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="1418.0" y="873.36" width="15.599999999999909" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1418.0" y="871.36" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "20"</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="aoi_67_axis-title" data-type="title" data-original-tag="g">
+                    <rect x="608.69" y="903.7700000000001" width="633.3600000000001" height="18.199999999999932" fill="none" stroke="red" stroke-width="1" />
+                    <text x="608.69" y="901.7700000000001" font-size="10" fill="blue" font-family="sans-serif">axis-title (title)</text>
+                    <g id="aoi_68_axis-label" data-type="label" data-original-tag="text">
+                        <rect x="608.69" y="903.7700000000001" width="633.3600000000001" height="18.199999999999932" fill="none" stroke="red" stroke-width="1" />
+                        <text x="608.69" y="901.7700000000001" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)"</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_69_axis" data-type="axis" data-original-tag="g">
+                <rect x="332.59000000000003" y="76.58999999999999" width="52.639999999999986" height="1234.97" fill="none" stroke="red" stroke-width="1" />
+                <text x="332.59000000000003" y="74.58999999999999" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                <g id="aoi_70_axis" data-type="axis" data-original-tag="path">
+                    <rect x="377.43" y="82.83" width="7.800000000000011" height="780.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="377.43" y="80.83" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                </g>
+                <g id="aoi_71_axis-tick" data-type="tick" data-original-tag="g">
+                    <rect x="359.07" y="76.58999999999999" width="26.160000000000025" height="793.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="359.07" y="74.58999999999999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                    <g id="aoi_72_axis" data-type="axis" data-original-tag="g">
+                        <rect x="366.3" y="856.59" width="18.930000000000007" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="366.3" y="854.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_73_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="862.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="860.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_74_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="366.3" y="856.59" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="366.3" y="854.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "0"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_75_axis" data-type="axis" data-original-tag="g">
+                        <rect x="366.3" y="778.59" width="18.930000000000007" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="366.3" y="776.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_76_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="784.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="782.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_77_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="366.3" y="778.59" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="366.3" y="776.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "2"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_78_axis" data-type="axis" data-original-tag="g">
+                        <rect x="366.3" y="700.59" width="18.930000000000007" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="366.3" y="698.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_79_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="706.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="704.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_80_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="366.3" y="700.59" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="366.3" y="698.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "4"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_81_axis" data-type="axis" data-original-tag="g">
+                        <rect x="366.3" y="622.59" width="18.930000000000007" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="366.3" y="620.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_82_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="628.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="626.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_83_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="366.3" y="622.59" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="366.3" y="620.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "6"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_84_axis" data-type="axis" data-original-tag="g">
+                        <rect x="366.3" y="544.59" width="18.930000000000007" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="366.3" y="542.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_85_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="550.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="548.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_86_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="366.3" y="544.59" width="7.800000000000011" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="366.3" y="542.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "8"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_87_axis" data-type="axis" data-original-tag="g">
+                        <rect x="359.07" y="466.59000000000003" width="26.160000000000025" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="359.07" y="464.59000000000003" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_88_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="472.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="470.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_89_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="359.07" y="466.59000000000003" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="359.07" y="464.59000000000003" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "10"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_90_axis" data-type="axis" data-original-tag="g">
+                        <rect x="359.07" y="388.59000000000003" width="26.160000000000025" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="359.07" y="386.59000000000003" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_91_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="394.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="392.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_92_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="359.07" y="388.59000000000003" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="359.07" y="386.59000000000003" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "12"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_93_axis" data-type="axis" data-original-tag="g">
+                        <rect x="359.07" y="310.59000000000003" width="26.160000000000025" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="359.07" y="308.59000000000003" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_94_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="316.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="314.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_95_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="359.07" y="310.59000000000003" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="359.07" y="308.59000000000003" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "14"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_96_axis" data-type="axis" data-original-tag="g">
+                        <rect x="359.07" y="232.59" width="26.160000000000025" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="359.07" y="230.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_97_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="238.82999900000002" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="236.82999900000002" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_98_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="359.07" y="232.59" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="359.07" y="230.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "16"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_99_axis" data-type="axis" data-original-tag="g">
+                        <rect x="359.07" y="154.59" width="26.160000000000025" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="359.07" y="152.59" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_100_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="160.82999900000002" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="158.82999900000002" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_101_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="359.07" y="154.59" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="359.07" y="152.59" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "18"</text>
+                        </g>
+                    </g>
+                    <g id="aoi_102_axis" data-type="axis" data-original-tag="g">
+                        <rect x="359.07" y="76.58999999999999" width="26.160000000000025" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="359.07" y="74.58999999999999" font-size="10" fill="blue" font-family="sans-serif">axis (axis)</text>
+                        <g id="aoi_103_axis-tick" data-type="tick" data-original-tag="line">
+                            <rect x="377.43" y="82.829999" width="7.800000000000011" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                            <text x="377.43" y="80.829999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+                        </g>
+                        <g id="aoi_104_axis-label" data-type="label" data-original-tag="text">
+                            <rect x="359.07" y="76.58999999999999" width="15.600000000000023" height="13.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="359.07" y="74.58999999999999" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "20"</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="aoi_105_axis-title" data-type="title" data-original-tag="g">
+                    <rect x="332.59000000000003" y="743.72" width="18.19999999999999" height="567.8399999999999" fill="none" stroke="red" stroke-width="1" />
+                    <text x="332.59000000000003" y="741.72" font-size="10" fill="blue" font-family="sans-serif">axis-title (title)</text>
+                    <g id="aoi_106_axis-label" data-type="label" data-original-tag="text">
+                        <rect x="332.59000000000003" y="743.72" width="18.19999999999999" height="567.8399999999999" fill="none" stroke="red" stroke-width="1" />
+                        <text x="332.59000000000003" y="741.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)"</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_107_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="710.23" y="187.07" width="598.0" height="483.22999999999996" fill="none" stroke="red" stroke-width="1" />
+                <text x="710.23" y="185.07" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_108_data-group" data-type="group" data-original-tag="g">
+                    <rect x="710.23" y="187.07" width="598.0" height="483.22999999999996" fill="none" stroke="red" stroke-width="1" />
+                    <text x="710.23" y="185.07" font-size="10" fill="blue" font-family="sans-serif">data-group (group)</text>
+                    <g id="aoi_109_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="1053.43" y="439.06" width="15.599999999999909" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1053.43" y="437.06" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_110_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="1292.63" y="310.06" width="15.599999999999909" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1292.63" y="308.06" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_111_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="1126.23" y="464.34999999999997" width="15.599999999999909" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1126.23" y="462.34999999999997" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_112_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="918.23" y="579.07" width="15.599999999999909" height="15.599999999999909" fill="none" stroke="red" stroke-width="1" />
+                        <text x="918.23" y="577.07" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_113_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="1141.8300000000002" y="508.07" width="15.599999999999909" height="15.599999999999966" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1141.8300000000002" y="506.07" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_114_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="1022.23" y="500.76" width="15.599999999999909" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1022.23" y="498.76" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_115_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="772.63" y="187.07" width="15.599999999999909" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                        <text x="772.63" y="185.07" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_116_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="710.23" y="654.7" width="15.599999999999909" height="15.599999999999909" fill="none" stroke="red" stroke-width="1" />
+                        <text x="710.23" y="652.7" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_117_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="965.0300000000001" y="633.94" width="15.599999999999909" height="15.599999999999909" fill="none" stroke="red" stroke-width="1" />
+                        <text x="965.0300000000001" y="631.94" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                    <g id="aoi_118_data-mark" data-type="mark" data-original-tag="circle">
+                        <rect x="772.63" y="439.82" width="15.599999999999909" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                        <text x="772.63" y="437.82" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_119_legend" data-type="legend" data-original-tag="g">
+            <rect x="1448.23" y="86.47" width="174.72000000000003" height="165.83" fill="none" stroke="red" stroke-width="1" />
+            <text x="1448.23" y="84.47" font-size="10" fill="blue" font-family="sans-serif">legend (legend)</text>
+            <g id="aoi_120_legend" data-type="legend" data-original-tag="g">
+                <rect x="1448.23" y="86.47" width="174.72000000000003" height="165.83" fill="none" stroke="red" stroke-width="1" />
+                <text x="1448.23" y="84.47" font-size="10" fill="blue" font-family="sans-serif">legend (legend)</text>
+                <g id="aoi_121_legend" data-type="legend" data-original-tag="g">
+                    <rect x="1448.23" y="86.47" width="174.72000000000003" height="60.059999999999974" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1448.23" y="84.47" font-size="10" fill="blue" font-family="sans-serif">legend (legend)</text>
+                    <g id="aoi_122_legend-title" data-type="title" data-original-tag="text">
+                        <rect x="1448.23" y="86.47" width="174.72000000000003" height="18.200000000000003" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1448.23" y="84.47" font-size="10" fill="blue" font-family="sans-serif">legend-title (title) | "STUDENT ENROLLED"</text>
+                    </g>
+                    <g id="aoi_123_legend-title" data-type="title" data-original-tag="text">
+                        <rect x="1448.23" y="107.39999999999999" width="174.72000000000003" height="18.200000000000003" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1448.23" y="105.39999999999999" font-size="10" fill="blue" font-family="sans-serif">legend-title (title) | "IN COLLEGE AFTER"</text>
+                    </g>
+                    <g id="aoi_124_legend-title" data-type="title" data-original-tag="text">
+                        <rect x="1448.23" y="128.32999999999998" width="109.20000000000005" height="18.19999999999999" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1448.23" y="126.32999999999998" font-size="10" fill="blue" font-family="sans-serif">legend-title (title) | "GRADUATION"</text>
+                    </g>
+                </g>
+                <g id="aoi_125_legend-item" data-type="item" data-original-tag="g">
+                    <rect x="1448.23" y="180.3" width="70.99599999999987" height="72.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1448.23" y="178.3" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_126_legend-item" data-type="item" data-original-tag="g">
+                        <rect x="1448.23" y="180.3" width="59.763999999999896" height="20.80000000000001" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1448.23" y="178.3" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                        <g id="aoi_127_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                            <rect x="1448.23" y="180.3" width="20.799999999999955" height="20.80000000000001" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1448.23" y="178.3" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                        </g>
+                        <g id="aoi_128_legend-item" data-type="item" data-original-tag="g">
+                            <rect x="1485.53" y="181.964" width="22.463999999999942" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1485.53" y="179.964" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                            <g id="aoi_129_legend-item-label" data-type="item-label" data-original-tag="text">
+                                <rect x="1485.53" y="181.964" width="22.463999999999942" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                                <text x="1485.53" y="179.964" font-size="10" fill="blue" font-family="sans-serif">legend-item-label (item-label) | "No"</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="aoi_130_legend-item" data-type="item" data-original-tag="g">
+                        <rect x="1448.23" y="231.5" width="70.99599999999987" height="20.80000000000001" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1448.23" y="229.5" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                        <g id="aoi_131_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                            <rect x="1448.23" y="231.5" width="20.799999999999955" height="20.80000000000001" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1448.23" y="229.5" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                        </g>
+                        <g id="aoi_132_legend-item" data-type="item" data-original-tag="g">
+                            <rect x="1485.53" y="233.164" width="33.69599999999991" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1485.53" y="231.164" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                            <g id="aoi_133_legend-item-label" data-type="item-label" data-original-tag="text">
+                                <rect x="1485.53" y="233.164" width="33.69599999999991" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                                <text x="1485.53" y="231.164" font-size="10" fill="blue" font-family="sans-serif">legend-item-label (item-label) | "Yes"</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

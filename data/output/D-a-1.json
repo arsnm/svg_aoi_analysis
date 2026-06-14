@@ -1,0 +1,1410 @@
+[
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_5",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_4",
+        "bbox": [
+            1474.16,
+            122.54,
+            1537.22,
+            151.31
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_6",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_4",
+        "bbox": [
+            1479.94,
+            127.98400000000001,
+            1547.332,
+            146.704
+        ],
+        "text": "Line 1"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_7",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_3",
+        "bbox": [
+            1386.31,
+            136.929999,
+            1451.37,
+            136.930001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_8",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_3",
+        "bbox": [
+            1377.96,
+            127.39,
+            1459.72,
+            146.88
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_11",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1474.16,
+            171.42,
+            1537.22,
+            200.19
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_12",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1479.94,
+            176.864,
+            1547.332,
+            195.584
+        ],
+        "text": "Line 2"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_13",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_9",
+        "bbox": [
+            1386.31,
+            185.799999,
+            1451.37,
+            185.800001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_14",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_9",
+        "bbox": [
+            1377.96,
+            176.27,
+            1459.72,
+            195.76000000000002
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_17",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_16",
+        "bbox": [
+            1474.16,
+            220.29,
+            1542.7,
+            249.06
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_18",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_16",
+        "bbox": [
+            1479.94,
+            225.734,
+            1547.332,
+            244.454
+        ],
+        "text": "Line 3"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_19",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_15",
+        "bbox": [
+            1386.31,
+            234.679999,
+            1451.37,
+            234.680001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_20",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_15",
+        "bbox": [
+            1377.96,
+            225.14,
+            1459.72,
+            244.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_23",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_22",
+        "bbox": [
+            1474.16,
+            269.17,
+            1542.7,
+            297.94
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_24",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_22",
+        "bbox": [
+            1479.94,
+            274.614,
+            1547.332,
+            293.33399999999995
+        ],
+        "text": "Line 4"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_25",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_21",
+        "bbox": [
+            1386.31,
+            283.559999,
+            1451.37,
+            283.560001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_26",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_21",
+        "bbox": [
+            1377.96,
+            274.02,
+            1459.72,
+            293.51
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_46",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_45",
+        "bbox": [
+            1135.18,
+            634.58,
+            1145.2,
+            644.6
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_48",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_47",
+        "bbox": [
+            1144.69,
+            619.51,
+            1184.0,
+            639.84
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_50",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_49",
+        "bbox": [
+            1147.19,
+            623.98,
+            1189.31,
+            635.6800000000001
+        ],
+        "text": "Ciryne"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_52",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_51",
+        "bbox": [
+            618.23,
+            677.51,
+            628.25,
+            687.53
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_54",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_53",
+        "bbox": [
+            627.74,
+            662.44,
+            668.32,
+            682.7700000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_56",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_55",
+        "bbox": [
+            630.24,
+            666.91,
+            672.36,
+            678.61
+        ],
+        "text": "Kelune"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_58",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_57",
+        "bbox": [
+            992.07,
+            454.76,
+            1002.09,
+            464.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_60",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_59",
+        "bbox": [
+            958.77,
+            464.33,
+            999.5699999999999,
+            484.65999999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_62",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_61",
+        "bbox": [
+            963.19,
+            468.8,
+            1005.3100000000001,
+            480.5
+        ],
+        "text": "Varion"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_64",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_63",
+        "bbox": [
+            1187.93,
+            357.11,
+            1197.95,
+            367.13
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_66",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_65",
+        "bbox": [
+            1200.44,
+            352.21,
+            1240.68,
+            372.53999999999996
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_68",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_67",
+        "bbox": [
+            1202.94,
+            356.68,
+            1245.06,
+            368.38
+        ],
+        "text": "Mareth"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_70",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_69",
+        "bbox": [
+            860.15,
+            677.51,
+            870.17,
+            687.53
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_72",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_71",
+        "bbox": [
+            870.16,
+            662.44,
+            899.29,
+            682.7700000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_74",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_73",
+        "bbox": [
+            872.66,
+            666.91,
+            907.76,
+            678.61
+        ],
+        "text": "Velis"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_76",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_75",
+        "bbox": [
+            577.96,
+            397.01,
+            587.98,
+            407.03
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_78",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_77",
+        "bbox": [
+            540.77,
+            377.53,
+            586.99,
+            397.85999999999996
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_80",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_79",
+        "bbox": [
+            544.12,
+            382.0,
+            586.24,
+            393.7
+        ],
+        "text": "Delvar"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_82",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_81",
+        "bbox": [
+            1135.18,
+            487.76,
+            1145.2,
+            497.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_84",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_83",
+        "bbox": [
+            1144.69,
+            497.78,
+            1185.53,
+            518.11
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_86",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_85",
+        "bbox": [
+            1147.19,
+            502.26,
+            1189.31,
+            513.96
+        ],
+        "text": "Nareth"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_92",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_91",
+        "bbox": [
+            1145.73,
+            421.76,
+            1155.75,
+            431.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_94",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_93",
+        "bbox": [
+            1111.07,
+            429.19,
+            1150.74,
+            449.52
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_96",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_95",
+        "bbox": [
+            1114.11,
+            433.65999999999997,
+            1156.2299999999998,
+            445.35999999999996
+        ],
+        "text": "Orsian"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_98",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_97",
+        "bbox": [
+            1187.93,
+            421.76,
+            1197.95,
+            431.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_100",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_99",
+        "bbox": [
+            1200.44,
+            426.33,
+            1239.26,
+            446.65999999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_102",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_101",
+        "bbox": [
+            1202.94,
+            430.8,
+            1245.06,
+            442.5
+        ],
+        "text": "Kelyth"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_108",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_107",
+        "bbox": [
+            813.67,
+            306.26,
+            823.6899999999999,
+            316.28
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_110",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_109",
+        "bbox": [
+            772.67,
+            286.19,
+            818.68,
+            306.52
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_112",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_111",
+        "bbox": [
+            780.08,
+            290.66999999999996,
+            822.2,
+            302.36999999999995
+        ],
+        "text": "Tarvos"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_114",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_113",
+        "bbox": [
+            818.6800000000001,
+            397.01,
+            828.7,
+            407.03
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_116",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_115",
+        "bbox": [
+            799.75,
+            378.19,
+            844.25,
+            398.52
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_118",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_117",
+        "bbox": [
+            804.49,
+            382.65999999999997,
+            846.61,
+            394.35999999999996
+        ],
+        "text": "Caelos"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_120",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_119",
+        "bbox": [
+            1046.38,
+            677.51,
+            1056.4,
+            687.53
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_122",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_121",
+        "bbox": [
+            1000.62,
+            684.94,
+            1049.89,
+            705.2700000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_124",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_123",
+        "bbox": [
+            1004.06,
+            689.41,
+            1053.2,
+            701.11
+        ],
+        "text": "Corvane"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_126",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_125",
+        "bbox": [
+            489.89,
+            677.51,
+            499.90999999999997,
+            687.53
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_128",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_127",
+        "bbox": [
+            439.28,
+            672.36,
+            489.89,
+            692.69
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_130",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_129",
+        "bbox": [
+            441.77,
+            676.83,
+            490.90999999999997,
+            688.5300000000001
+        ],
+        "text": "Thyssar"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_136",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_135",
+        "bbox": [
+            618.23,
+            397.01,
+            628.25,
+            407.03
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_138",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_137",
+        "bbox": [
+            604.82,
+            377.53,
+            641.01,
+            397.85999999999996
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_140",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_139",
+        "bbox": [
+            607.32,
+            382.01,
+            649.44,
+            393.71
+        ],
+        "text": "Tirros"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_142",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_141",
+        "bbox": [
+            663.3100000000001,
+            560.14,
+            673.33,
+            570.16
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_144",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_143",
+        "bbox": [
+            671.52,
+            569.05,
+            707.73,
+            589.38
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_146",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_145",
+        "bbox": [
+            674.02,
+            573.53,
+            709.12,
+            585.23
+        ],
+        "text": "Daryn"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_148",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_147",
+        "bbox": [
+            1082.43,
+            397.01,
+            1092.45,
+            407.03
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_150",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_149",
+        "bbox": [
+            1061.98,
+            377.05,
+            1112.89,
+            397.38
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_152",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_151",
+        "bbox": [
+            1064.0,
+            381.52,
+            1106.12,
+            393.21999999999997
+        ],
+        "text": "Nerath"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_154",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_153",
+        "bbox": [
+            881.98,
+            306.26,
+            892.0,
+            316.28
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_156",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_155",
+        "bbox": [
+            886.99,
+            287.44,
+            933.77,
+            307.77
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_158",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_157",
+        "bbox": [
+            890.42,
+            291.90999999999997,
+            939.56,
+            303.60999999999996
+        ],
+        "text": "Eryndor"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_160",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_159",
+        "bbox": [
+            432.87,
+            619.64,
+            442.89,
+            629.66
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_162",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_161",
+        "bbox": [
+            420.27,
+            599.67,
+            463.14,
+            620.0
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_164",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_163",
+        "bbox": [
+            422.76,
+            604.14,
+            464.88,
+            615.84
+        ],
+        "text": "Volmar"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_166",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_165",
+        "bbox": [
+            822.32,
+            458.45,
+            832.32,
+            468.45
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_168",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_167",
+        "bbox": [
+            776.3,
+            443.02,
+            827.3,
+            463.34999999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_170",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_169",
+        "bbox": [
+            779.43,
+            447.5,
+            828.5699999999999,
+            459.2
+        ],
+        "text": "Cendara"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_177",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_176",
+        "bbox": [
+            913.64,
+            408.7,
+            941.05,
+            429.03
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_179",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_178",
+        "bbox": [
+            914.44,
+            413.18,
+            942.5200000000001,
+            424.88
+        ],
+        "text": "Arun"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_181",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_180",
+        "bbox": [
+            1240.68,
+            388.76,
+            1250.7,
+            398.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_183",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_182",
+        "bbox": [
+            1250.19,
+            373.69,
+            1294.3,
+            394.02
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_185",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_184",
+        "bbox": [
+            1252.69,
+            378.15999999999997,
+            1301.8300000000002,
+            389.85999999999996
+        ],
+        "text": "Lunaris"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_187",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_186",
+        "bbox": [
+            1021.6400000000001,
+            248.51000000000002,
+            1031.66,
+            258.53000000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_189",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_188",
+        "bbox": [
+            1031.15,
+            233.44,
+            1065.2900000000002,
+            253.76999999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_191",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_190",
+        "bbox": [
+            1033.65,
+            238.47,
+            1079.8500000000001,
+            249.47
+        ],
+        "text": "Belaris"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_193",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_192",
+        "bbox": [
+            489.89,
+            743.07,
+            499.90999999999997,
+            753.09
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_195",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_194",
+        "bbox": [
+            499.4,
+            727.99,
+            540.8299999999999,
+            748.32
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_197",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_196",
+        "bbox": [
+            501.89,
+            732.47,
+            508.90999999999997,
+            744.1700000000001
+        ],
+        "text": "W"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_198",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_196",
+        "bbox": [
+            512.07,
+            732.47,
+            540.1500000000001,
+            744.1700000000001
+        ],
+        "text": "ezen"
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_200",
+        "aoi_label": "data-node",
+        "aoi_type": "node",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_199",
+        "bbox": [
+            1262.68,
+            487.76,
+            1272.7,
+            497.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_202",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_201",
+        "bbox": [
+            1244.26,
+            466.95,
+            1291.47,
+            487.28
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_204",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_203",
+        "bbox": [
+            1246.76,
+            471.41999999999996,
+            1288.8799999999999,
+            483.11999999999995
+        ],
+        "text": "Vaelun"
+    }
+]

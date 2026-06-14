@@ -1,0 +1,946 @@
+[
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_5",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_4",
+        "bbox": [
+            639.0699999999998,
+            643.9499999999994,
+            745.0300000000003,
+            797.6399999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_7",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_6",
+        "bbox": [
+            716.6700000000005,
+            573.0700000000004,
+            828.09,
+            736.27
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_9",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_8",
+        "bbox": [
+            590.9400000000005,
+            479.75,
+            693.3699999999998,
+            688.9300000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_11",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_10",
+        "bbox": [
+            724.9799999999992,
+            706.9899999999997,
+            831.0099999999998,
+            828.05
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_13",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_12",
+        "bbox": [
+            661.3400000000006,
+            527.2199999999999,
+            777.92,
+            666.42
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_15",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_14",
+        "bbox": [
+            910.8299999999998,
+            281.42999999999995,
+            1110.4499999999998,
+            392.8499999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_17",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_16",
+        "bbox": [
+            953.1200000000006,
+            339.69000000000045,
+            1090.0800000000002,
+            458.23000000000013
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_19",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_18",
+        "bbox": [
+            766.7300000000007,
+            437.51,
+            882.3400000000001,
+            599.8000000000002
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_21",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_20",
+        "bbox": [
+            799.6000000000003,
+            510.0400000000001,
+            946.89,
+            683.0300000000007
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_23",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_22",
+        "bbox": [
+            987.8099999999997,
+            430.9899999999995,
+            1163.4200000000005,
+            585.6199999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_25",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_24",
+        "bbox": [
+            855.6,
+            374.9,
+            1021.5300000000001,
+            527.4199999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_27",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_26",
+        "bbox": [
+            1063.03,
+            314.42999999999955,
+            1228.59,
+            493.2599999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_29",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_28",
+        "bbox": [
+            845.2700000000002,
+            427.61999999999983,
+            992.19,
+            569.4299999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_31",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_30",
+        "bbox": [
+            724.6599999999996,
+            278.1099999999997,
+            889.92,
+            471.4299999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_33",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_32",
+        "bbox": [
+            389.45000000000005,
+            382.54999999999984,
+            646.7300000000002,
+            611.4499999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_35",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_34",
+        "bbox": [
+            410.47999999999985,
+            270.4100000000001,
+            640.12,
+            478.77000000000015
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_37",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_36",
+        "bbox": [
+            502.9700000000001,
+            151.91000000000028,
+            731.1999999999998,
+            283.74000000000024
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_39",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_38",
+        "bbox": [
+            601.0300000000007,
+            252.56999999999988,
+            761.51,
+            380.9700000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_41",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_40",
+        "bbox": [
+            365.95000000000016,
+            473.3999999999999,
+            607.26,
+            713.2899999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_43",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_42",
+        "bbox": [
+            583.9899999999996,
+            347.75,
+            734.1499999999995,
+            484.59
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_45",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_44",
+        "bbox": [
+            933.3400000000001,
+            547.1800000000002,
+            1102.28,
+            723.7699999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_47",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_46",
+        "bbox": [
+            824.6200000000007,
+            574.9600000000003,
+            954.5800000000002,
+            744.1100000000004
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_49",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_48",
+        "bbox": [
+            791.7400000000001,
+            692.2100000000003,
+            903.8599999999999,
+            831.09
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_51",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_50",
+        "bbox": [
+            1072.0700000000008,
+            538.7899999999997,
+            1262.7600000000004,
+            682.9499999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_53",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_52",
+        "bbox": [
+            848.1999999999999,
+            751.35,
+            990.4499999999998,
+            840.1099999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_55",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_54",
+        "bbox": [
+            1151.3900000000003,
+            456.74999999999994,
+            1334.8499999999992,
+            681.0399999999998
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_57",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_56",
+        "bbox": [
+            900.0500000000001,
+            599.6800000000002,
+            1072.9499999999998,
+            799.78
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_59",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_58",
+        "bbox": [
+            659.7400000000006,
+            440.20000000000005,
+            758.5400000000003,
+            553.27
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_61",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_60",
+        "bbox": [
+            701.9100000000005,
+            414.52999999999975,
+            774.0700000000006,
+            494.13999999999976
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_63",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_62",
+        "bbox": [
+            745.3899999999999,
+            455.35,
+            806.8399999999999,
+            548.4800000000002
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_65",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            365.91000000000014,
+            151.87999999999926,
+            1334.86,
+            840.1199999999986
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_66",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            590.8799999999998,
+            479.74999999999955,
+            831.0200000000001,
+            828.0900000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_67",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            766.6799999999997,
+            281.409999999999,
+            1228.5899999999997,
+            683.2099999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_68",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            365.8299999999994,
+            151.95,
+            889.9199999999998,
+            713.2799999999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_69",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            791.7400000000001,
+            456.7100000000008,
+            1334.7599999999998,
+            840.1200000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_70",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "path",
+        "parent_id": "aoi_64",
+        "bbox": [
+            659.6900000000002,
+            414.44000000000017,
+            806.8499999999999,
+            553.2700000000001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_73",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_72",
+        "bbox": [
+            652.27,
+            711.85,
+            746.0,
+            733.71
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_74",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_72",
+        "bbox": [
+            657.75,
+            717.86,
+            749.01,
+            729.5600000000001
+        ],
+        "text": "Redwood Hills"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_76",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_75",
+        "bbox": [
+            981.4,
+            329.04,
+            1051.16,
+            350.90000000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_77",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_75",
+        "bbox": [
+            986.6,
+            335.05,
+            1056.8,
+            346.75
+        ],
+        "text": "Silverdale"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_79",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_78",
+        "bbox": [
+            585.12,
+            231.07,
+            657.28,
+            252.93
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_80",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_78",
+        "bbox": [
+            591.51,
+            237.07999999999998,
+            654.6899999999999,
+            248.78
+        ],
+        "text": "Northgate"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_82",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_81",
+        "bbox": [
+            1132.09,
+            601.99,
+            1213.1699999999998,
+            623.85
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_83",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_81",
+        "bbox": [
+            1137.1,
+            608.0,
+            1221.34,
+            619.7
+        ],
+        "text": "Golden Hills"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_85",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_84",
+        "bbox": [
+            709.68,
+            439.75,
+            788.49,
+            461.61
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_86",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_84",
+        "bbox": [
+            716.9,
+            445.76,
+            780.0799999999999,
+            457.46
+        ],
+        "text": "Woodridge"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_88",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_87",
+        "bbox": [
+            741.59,
+            762.5,
+            819.77,
+            784.36
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_89",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_87",
+        "bbox": [
+            748.4,
+            768.51,
+            818.5999999999999,
+            780.21
+        ],
+        "text": "Clearwater"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_93",
+        "aoi_label": "legend-title",
+        "aoi_type": "title",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_92",
+        "bbox": [
+            1420.83,
+            173.17,
+            1486.35,
+            191.36999999999998
+        ],
+        "text": "REGION"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_96",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_95",
+        "bbox": [
+            1420.83,
+            215.14,
+            1441.6299999999999,
+            235.94
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_98",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_97",
+        "bbox": [
+            1458.13,
+            216.814,
+            1559.218,
+            235.534
+        ],
+        "text": "IRONCLIFF"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_100",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_99",
+        "bbox": [
+            1420.83,
+            256.34,
+            1441.6299999999999,
+            277.14
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_102",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_101",
+        "bbox": [
+            1458.13,
+            258.014,
+            1559.218,
+            276.73400000000004
+        ],
+        "text": "MANSFIELD"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_104",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_103",
+        "bbox": [
+            1420.83,
+            297.54,
+            1441.6299999999999,
+            318.34000000000003
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_106",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_105",
+        "bbox": [
+            1458.13,
+            299.214,
+            1581.682,
+            317.93399999999997
+        ],
+        "text": "SILVERBROOK"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_108",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_107",
+        "bbox": [
+            1420.83,
+            338.74,
+            1441.6299999999999,
+            359.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_110",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_109",
+        "bbox": [
+            1458.13,
+            340.414,
+            1559.218,
+            359.134
+        ],
+        "text": "CEDARLAND"
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_112",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_111",
+        "bbox": [
+            1420.83,
+            379.94,
+            1441.6299999999999,
+            400.74
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "A-a-1",
+        "aoi_id": "aoi_114",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_113",
+        "bbox": [
+            1458.13,
+            381.614,
+            1570.45,
+            400.33399999999995
+        ],
+        "text": "STORMHAVEN"
+    }
+]

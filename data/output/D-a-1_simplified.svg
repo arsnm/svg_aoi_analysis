@@ -1,0 +1,818 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="400.27 102.54 1167.0620000000001 670.5500000000001">
+    <g id="aoi_1_data-container" data-type="container" data-original-tag="svg">
+        <rect x="420.27" y="122.54" width="1127.0620000000001" height="630.5500000000001" fill="none" stroke="red" stroke-width="1" />
+        <text x="420.27" y="120.54" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+        <g id="aoi_2_legend" data-type="legend" data-original-tag="g">
+            <rect x="1377.96" y="122.54" width="169.37200000000007" height="175.39999999999998" fill="none" stroke="red" stroke-width="1" />
+            <text x="1377.96" y="120.54" font-size="10" fill="blue" font-family="sans-serif">legend (legend)</text>
+            <g id="aoi_3_legend-item" data-type="item" data-original-tag="g">
+                <rect x="1377.96" y="122.54" width="169.37200000000007" height="28.769999999999996" fill="none" stroke="red" stroke-width="1" />
+                <text x="1377.96" y="120.54" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                <g id="aoi_4_legend-item" data-type="item" data-original-tag="g">
+                    <rect x="1474.16" y="122.54" width="73.17200000000003" height="28.769999999999996" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1474.16" y="120.54" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_5_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                        <rect x="1474.16" y="122.54" width="63.059999999999945" height="28.769999999999996" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1474.16" y="120.54" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                    </g>
+                    <g id="aoi_6_legend-item-label" data-type="item-label" data-original-tag="text">
+                        <rect x="1479.94" y="127.98400000000001" width="67.39200000000005" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1479.94" y="125.98400000000001" font-size="10" fill="blue" font-family="sans-serif">legend-item-label (item-label) | "Line 1"</text>
+                    </g>
+                </g>
+                <g id="aoi_7_legend-item-symbol" data-type="item-symbol" data-original-tag="line">
+                    <rect x="1386.31" y="136.929999" width="65.05999999999995" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1386.31" y="134.929999" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+                <g id="aoi_8_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                    <rect x="1377.96" y="127.39" width="81.75999999999999" height="19.489999999999995" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1377.96" y="125.39" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+            </g>
+            <g id="aoi_9_legend-item" data-type="item" data-original-tag="g">
+                <rect x="1377.96" y="171.42" width="169.37200000000007" height="28.77000000000001" fill="none" stroke="red" stroke-width="1" />
+                <text x="1377.96" y="169.42" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                <g id="aoi_10_legend-item" data-type="item" data-original-tag="g">
+                    <rect x="1474.16" y="171.42" width="73.17200000000003" height="28.77000000000001" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1474.16" y="169.42" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_11_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                        <rect x="1474.16" y="171.42" width="63.059999999999945" height="28.77000000000001" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1474.16" y="169.42" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                    </g>
+                    <g id="aoi_12_legend-item-label" data-type="item-label" data-original-tag="text">
+                        <rect x="1479.94" y="176.864" width="67.39200000000005" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1479.94" y="174.864" font-size="10" fill="blue" font-family="sans-serif">legend-item-label (item-label) | "Line 2"</text>
+                    </g>
+                </g>
+                <g id="aoi_13_legend-item-symbol" data-type="item-symbol" data-original-tag="line">
+                    <rect x="1386.31" y="185.799999" width="65.05999999999995" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1386.31" y="183.799999" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+                <g id="aoi_14_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                    <rect x="1377.96" y="176.27" width="81.75999999999999" height="19.49000000000001" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1377.96" y="174.27" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+            </g>
+            <g id="aoi_15_legend-item" data-type="item" data-original-tag="g">
+                <rect x="1377.96" y="220.29" width="169.37200000000007" height="28.77000000000001" fill="none" stroke="red" stroke-width="1" />
+                <text x="1377.96" y="218.29" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                <g id="aoi_16_legend-item" data-type="item" data-original-tag="g">
+                    <rect x="1474.16" y="220.29" width="73.17200000000003" height="28.77000000000001" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1474.16" y="218.29" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_17_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                        <rect x="1474.16" y="220.29" width="68.53999999999996" height="28.77000000000001" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1474.16" y="218.29" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                    </g>
+                    <g id="aoi_18_legend-item-label" data-type="item-label" data-original-tag="text">
+                        <rect x="1479.94" y="225.734" width="67.39200000000005" height="18.72" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1479.94" y="223.734" font-size="10" fill="blue" font-family="sans-serif">legend-item-label (item-label) | "Line 3"</text>
+                    </g>
+                </g>
+                <g id="aoi_19_legend-item-symbol" data-type="item-symbol" data-original-tag="line">
+                    <rect x="1386.31" y="234.679999" width="65.05999999999995" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1386.31" y="232.679999" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+                <g id="aoi_20_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                    <rect x="1377.96" y="225.14" width="81.75999999999999" height="19.49000000000001" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1377.96" y="223.14" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+            </g>
+            <g id="aoi_21_legend-item" data-type="item" data-original-tag="g">
+                <rect x="1377.96" y="269.17" width="169.37200000000007" height="28.769999999999982" fill="none" stroke="red" stroke-width="1" />
+                <text x="1377.96" y="267.17" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                <g id="aoi_22_legend-item" data-type="item" data-original-tag="g">
+                    <rect x="1474.16" y="269.17" width="73.17200000000003" height="28.769999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1474.16" y="267.17" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_23_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                        <rect x="1474.16" y="269.17" width="68.53999999999996" height="28.769999999999982" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1474.16" y="267.17" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                    </g>
+                    <g id="aoi_24_legend-item-label" data-type="item-label" data-original-tag="text">
+                        <rect x="1479.94" y="274.614" width="67.39200000000005" height="18.71999999999997" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1479.94" y="272.614" font-size="10" fill="blue" font-family="sans-serif">legend-item-label (item-label) | "Line 4"</text>
+                    </g>
+                </g>
+                <g id="aoi_25_legend-item-symbol" data-type="item-symbol" data-original-tag="line">
+                    <rect x="1386.31" y="283.559999" width="65.05999999999995" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1386.31" y="281.559999" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+                <g id="aoi_26_legend-item-symbol" data-type="item-symbol" data-original-tag="rect">
+                    <rect x="1377.96" y="274.02" width="81.75999999999999" height="19.49000000000001" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1377.96" y="272.02" font-size="10" fill="blue" font-family="sans-serif">legend-item-symbol (item-symbol)</text>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_27_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="437.88" y="248.55000000000013" width="824.8000000000001" height="499.5299999999999" fill="none" stroke="red" stroke-width="1" />
+            <text x="437.88" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_28_data-link" data-type="link" data-original-tag="g">
+                <rect x="437.88" y="362.12" width="755.0599999999998" height="320.4" fill="none" stroke="red" stroke-width="1" />
+                <text x="437.88" y="360.12" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>
+                <g id="aoi_29_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="437.88" y="362.12" width="755.0599999999998" height="320.4" fill="none" stroke="red" stroke-width="1" />
+                    <text x="437.88" y="360.12" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_30_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="437.88" y="362.12" width="755.0599999999998" height="320.4" fill="none" stroke="red" stroke-width="1" />
+                        <text x="437.88" y="360.12" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_31_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="437.88" y="362.12" width="755.0599999999998" height="320.4" fill="none" stroke="red" stroke-width="1" />
+                        <text x="437.88" y="360.12" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_32_data-link" data-type="link" data-original-tag="g">
+                <rect x="494.9" y="248.55000000000013" width="531.43" height="499.5299999999999" fill="none" stroke="red" stroke-width="1" />
+                <text x="494.9" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>
+                <g id="aoi_33_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="494.9" y="248.55000000000013" width="531.43" height="499.5299999999999" fill="none" stroke="red" stroke-width="1" />
+                    <text x="494.9" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_34_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="494.9" y="248.55000000000013" width="531.43" height="499.5299999999999" fill="none" stroke="red" stroke-width="1" />
+                        <text x="494.9" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_35_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="494.9" y="248.55000000000013" width="531.43" height="499.5299999999999" fill="none" stroke="red" stroke-width="1" />
+                        <text x="494.9" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_36_data-link" data-type="link" data-original-tag="g">
+                <rect x="818.68" y="306.52" width="444.0000000000001" height="186.25" fill="none" stroke="red" stroke-width="1" />
+                <text x="818.68" y="304.52" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>
+                <g id="aoi_37_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="818.68" y="306.52" width="444.0000000000001" height="186.25" fill="none" stroke="red" stroke-width="1" />
+                    <text x="818.68" y="304.52" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_38_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="818.68" y="306.52" width="444.0000000000001" height="186.25" fill="none" stroke="red" stroke-width="1" />
+                        <text x="818.68" y="304.52" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_39_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="818.68" y="306.52" width="444.0000000000001" height="186.25" fill="none" stroke="red" stroke-width="1" />
+                        <text x="818.68" y="304.52" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_40_data-link" data-type="link" data-original-tag="g">
+                <rect x="578.64" y="393.77000000000004" width="667.0600000000001" height="33.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="578.64" y="391.77000000000004" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>
+                <g id="aoi_41_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="578.64" y="393.77000000000004" width="667.0600000000001" height="33.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="578.64" y="391.77000000000004" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_42_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="578.64" y="393.77000000000004" width="667.0600000000001" height="33.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="578.64" y="391.77000000000004" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_43_unknown" data-type="unknown" data-original-tag="path">
+                        <rect x="578.64" y="393.77000000000004" width="667.0600000000001" height="33.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="578.64" y="391.77000000000004" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_44_data-node" data-type="node" data-original-tag="g">
+            <rect x="420.27" y="233.44" width="881.5600000000002" height="519.6500000000001" fill="none" stroke="red" stroke-width="1" />
+            <text x="420.27" y="231.44" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+            <g id="aoi_45_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1135.18" y="619.51" width="54.12999999999988" height="25.090000000000032" fill="none" stroke="red" stroke-width="1" />
+                <text x="1135.18" y="617.51" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_46_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1135.18" y="634.58" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1135.18" y="632.58" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_47_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1144.69" y="619.51" width="44.61999999999989" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1144.69" y="617.51" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_48_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1144.69" y="619.51" width="39.309999999999945" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1144.69" y="617.51" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_49_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1147.19" y="623.98" width="42.11999999999989" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1147.19" y="621.98" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_50_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1147.19" y="623.98" width="42.11999999999989" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1147.19" y="621.98" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Ciryne"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_51_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="618.23" y="662.44" width="54.129999999999995" height="25.089999999999918" fill="none" stroke="red" stroke-width="1" />
+                <text x="618.23" y="660.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_52_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="618.23" y="677.51" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="618.23" y="675.51" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_53_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="627.74" y="662.44" width="44.620000000000005" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="627.74" y="660.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_54_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="627.74" y="662.44" width="40.58000000000004" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="627.74" y="660.44" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_55_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="630.24" y="666.91" width="42.120000000000005" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="630.24" y="664.91" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_56_data-label" data-type="label" data-original-tag="text">
+                            <rect x="630.24" y="666.91" width="42.120000000000005" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="630.24" y="664.91" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Kelune"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_57_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="958.77" y="454.76" width="46.54000000000008" height="29.899999999999977" fill="none" stroke="red" stroke-width="1" />
+                <text x="958.77" y="452.76" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_58_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="992.07" y="454.76" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="992.07" y="452.76" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_59_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="958.77" y="464.33" width="46.54000000000008" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="958.77" y="462.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_60_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="958.77" y="464.33" width="40.799999999999955" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="958.77" y="462.33" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_61_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="963.19" y="468.8" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="963.19" y="466.8" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_62_data-label" data-type="label" data-original-tag="text">
+                            <rect x="963.19" y="468.8" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="963.19" y="466.8" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Varion"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_63_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1187.93" y="352.21" width="57.12999999999988" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                <text x="1187.93" y="350.21" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_64_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1187.93" y="357.11" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1187.93" y="355.11" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_65_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1200.44" y="352.21" width="44.61999999999989" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1200.44" y="350.21" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_66_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1200.44" y="352.21" width="40.24000000000001" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1200.44" y="350.21" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_67_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1202.94" y="356.68" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1202.94" y="354.68" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_68_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1202.94" y="356.68" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1202.94" y="354.68" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Mareth"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_69_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="860.15" y="662.44" width="47.610000000000014" height="25.089999999999918" fill="none" stroke="red" stroke-width="1" />
+                <text x="860.15" y="660.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_70_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="860.15" y="677.51" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="860.15" y="675.51" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_71_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="870.16" y="662.44" width="37.60000000000002" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="870.16" y="660.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_72_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="870.16" y="662.44" width="29.129999999999995" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="870.16" y="660.44" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_73_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="872.66" y="666.91" width="35.10000000000002" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="872.66" y="664.91" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_74_data-label" data-type="label" data-original-tag="text">
+                            <rect x="872.66" y="666.91" width="35.10000000000002" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="872.66" y="664.91" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Velis"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_75_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="540.77" y="377.53" width="47.210000000000036" height="29.5" fill="none" stroke="red" stroke-width="1" />
+                <text x="540.77" y="375.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_76_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="577.96" y="397.01" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="577.96" y="395.01" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_77_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="540.77" y="377.53" width="46.22000000000003" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="540.77" y="375.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_78_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="540.77" y="377.53" width="46.22000000000003" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="540.77" y="375.53" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_79_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="544.12" y="382.0" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="544.12" y="380.0" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_80_data-label" data-type="label" data-original-tag="text">
+                            <rect x="544.12" y="382.0" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="544.12" y="380.0" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Delvar"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_81_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1135.18" y="487.76" width="54.12999999999988" height="30.350000000000023" fill="none" stroke="red" stroke-width="1" />
+                <text x="1135.18" y="485.76" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_82_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1135.18" y="487.76" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1135.18" y="485.76" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_83_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1144.69" y="497.78" width="44.61999999999989" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1144.69" y="495.78" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_84_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1144.69" y="497.78" width="40.83999999999992" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1144.69" y="495.78" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_85_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1147.19" y="502.26" width="42.11999999999989" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1147.19" y="500.26" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_86_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1147.19" y="502.26" width="42.11999999999989" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1147.19" y="500.26" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Nareth"</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="aoi_87_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1140.189999" y="490.27" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1140.189999" y="488.27" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_88_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="1140.189999" y="490.27" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1140.189999" y="488.27" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_89_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="1140.189999" y="490.27" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1140.189999" y="488.27" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_90_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="1140.189999" y="490.27" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1140.189999" y="488.27" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_91_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1111.07" y="421.76" width="45.159999999999854" height="27.75999999999999" fill="none" stroke="red" stroke-width="1" />
+                <text x="1111.07" y="419.76" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_92_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1145.73" y="421.76" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1145.73" y="419.76" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_93_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1111.07" y="429.19" width="45.159999999999854" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1111.07" y="427.19" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_94_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1111.07" y="429.19" width="39.67000000000007" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1111.07" y="427.19" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_95_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1114.11" y="433.65999999999997" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1114.11" y="431.65999999999997" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_96_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1114.11" y="433.65999999999997" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1114.11" y="431.65999999999997" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Orsian"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_97_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1187.93" y="421.33" width="57.12999999999988" height="25.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                <text x="1187.93" y="419.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_98_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1187.93" y="421.76" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1187.93" y="419.76" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_99_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1200.44" y="426.33" width="44.61999999999989" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1200.44" y="424.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_100_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1200.44" y="426.33" width="38.819999999999936" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1200.44" y="424.33" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_101_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1202.94" y="430.8" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1202.94" y="428.8" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_102_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1202.94" y="430.8" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1202.94" y="428.8" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Kelyth"</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="aoi_103_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1192.939999" y="421.33" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1192.939999" y="419.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_104_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="1192.939999" y="421.33" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1192.939999" y="419.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_105_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="1192.939999" y="421.33" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1192.939999" y="419.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_106_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="1192.939999" y="421.33" width="2.000000222324161e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1192.939999" y="419.33" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_107_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="772.67" y="286.19" width="51.01999999999998" height="30.089999999999975" fill="none" stroke="red" stroke-width="1" />
+                <text x="772.67" y="284.19" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_108_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="813.67" y="306.26" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="813.67" y="304.26" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_109_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="772.67" y="286.19" width="49.530000000000086" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="772.67" y="284.19" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_110_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="772.67" y="286.19" width="46.00999999999999" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="772.67" y="284.19" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_111_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="780.08" y="290.66999999999996" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="780.08" y="288.66999999999996" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_112_data-label" data-type="label" data-original-tag="text">
+                            <rect x="780.08" y="290.66999999999996" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="780.08" y="288.66999999999996" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Tarvos"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_113_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="799.75" y="378.19" width="46.860000000000014" height="28.839999999999975" fill="none" stroke="red" stroke-width="1" />
+                <text x="799.75" y="376.19" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_114_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="818.6800000000001" y="397.01" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="818.6800000000001" y="395.01" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_115_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="799.75" y="378.19" width="46.860000000000014" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="799.75" y="376.19" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_116_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="799.75" y="378.19" width="44.5" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="799.75" y="376.19" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_117_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="804.49" y="382.65999999999997" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="804.49" y="380.65999999999997" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_118_data-label" data-type="label" data-original-tag="text">
+                            <rect x="804.49" y="382.65999999999997" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="804.49" y="380.65999999999997" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Caelos"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_119_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1000.62" y="677.51" width="55.780000000000086" height="27.760000000000105" fill="none" stroke="red" stroke-width="1" />
+                <text x="1000.62" y="675.51" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_120_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1046.38" y="677.51" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1046.38" y="675.51" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_121_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1000.62" y="684.94" width="52.58000000000004" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1000.62" y="682.94" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_122_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1000.62" y="684.94" width="49.270000000000095" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1000.62" y="682.94" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_123_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1004.06" y="689.41" width="49.1400000000001" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1004.06" y="687.41" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_124_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1004.06" y="689.41" width="49.1400000000001" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1004.06" y="687.41" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Corvane"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_125_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="439.28" y="672.36" width="60.629999999999995" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                <text x="439.28" y="670.36" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_126_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="489.89" y="677.51" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="489.89" y="675.51" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_127_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="439.28" y="672.36" width="51.629999999999995" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="439.28" y="670.36" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_128_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="439.28" y="672.36" width="50.610000000000014" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="439.28" y="670.36" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_129_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="441.77" y="676.83" width="49.139999999999986" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="441.77" y="674.83" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_130_data-label" data-type="label" data-original-tag="text">
+                            <rect x="441.77" y="676.83" width="49.139999999999986" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="441.77" y="674.83" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Thyssar"</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="aoi_131_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="494.899999" y="679.53" width="1.9999999949504854e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="494.899999" y="677.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_132_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="494.899999" y="679.53" width="1.9999999949504854e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="494.899999" y="677.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_133_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="494.899999" y="679.53" width="1.9999999949504854e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="494.899999" y="677.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_134_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="494.899999" y="679.53" width="1.9999999949504854e-06" height="5.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="494.899999" y="677.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_135_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="604.82" y="377.53" width="44.620000000000005" height="29.5" fill="none" stroke="red" stroke-width="1" />
+                <text x="604.82" y="375.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_136_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="618.23" y="397.01" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="618.23" y="395.01" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_137_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="604.82" y="377.53" width="44.620000000000005" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="604.82" y="375.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_138_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="604.82" y="377.53" width="36.18999999999994" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="604.82" y="375.53" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_139_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="607.32" y="382.01" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="607.32" y="380.01" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_140_data-label" data-type="label" data-original-tag="text">
+                            <rect x="607.32" y="382.01" width="42.120000000000005" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="607.32" y="380.01" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Tirros"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_141_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="663.3100000000001" y="560.14" width="45.809999999999945" height="29.24000000000001" fill="none" stroke="red" stroke-width="1" />
+                <text x="663.3100000000001" y="558.14" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_142_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="663.3100000000001" y="560.14" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="663.3100000000001" y="558.14" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_143_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="671.52" y="569.05" width="37.60000000000002" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="671.52" y="567.05" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_144_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="671.52" y="569.05" width="36.210000000000036" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="671.52" y="567.05" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_145_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="674.02" y="573.53" width="35.10000000000002" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="674.02" y="571.53" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_146_data-label" data-type="label" data-original-tag="text">
+                            <rect x="674.02" y="573.53" width="35.10000000000002" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="674.02" y="571.53" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Daryn"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_147_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1061.98" y="377.05" width="50.91000000000008" height="29.97999999999996" fill="none" stroke="red" stroke-width="1" />
+                <text x="1061.98" y="375.05" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_148_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1082.43" y="397.01" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1082.43" y="395.01" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_149_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1061.98" y="377.05" width="50.91000000000008" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1061.98" y="375.05" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_150_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1061.98" y="377.05" width="50.91000000000008" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1061.98" y="375.05" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_151_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1064.0" y="381.52" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1064.0" y="379.52" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_152_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1064.0" y="381.52" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1064.0" y="379.52" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Nerath"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_153_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="881.98" y="287.44" width="57.57999999999993" height="28.839999999999975" fill="none" stroke="red" stroke-width="1" />
+                <text x="881.98" y="285.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_154_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="881.98" y="306.26" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="881.98" y="304.26" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_155_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="886.99" y="287.44" width="52.569999999999936" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="886.99" y="285.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_156_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="886.99" y="287.44" width="46.77999999999997" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="886.99" y="285.44" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_157_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="890.42" y="291.90999999999997" width="49.139999999999986" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="890.42" y="289.90999999999997" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_158_data-label" data-type="label" data-original-tag="text">
+                            <rect x="890.42" y="291.90999999999997" width="49.139999999999986" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="890.42" y="289.90999999999997" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Eryndor"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_159_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="420.27" y="599.67" width="44.610000000000014" height="29.99000000000001" fill="none" stroke="red" stroke-width="1" />
+                <text x="420.27" y="597.67" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_160_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="432.87" y="619.64" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="432.87" y="617.64" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_161_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="420.27" y="599.67" width="44.610000000000014" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="420.27" y="597.67" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_162_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="420.27" y="599.67" width="42.870000000000005" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="420.27" y="597.67" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_163_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="422.76" y="604.14" width="42.120000000000005" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="422.76" y="602.14" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_164_data-label" data-type="label" data-original-tag="text">
+                            <rect x="422.76" y="604.14" width="42.120000000000005" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="422.76" y="602.14" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Volmar"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_165_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="776.3" y="443.02" width="56.020000000000095" height="25.430000000000007" fill="none" stroke="red" stroke-width="1" />
+                <text x="776.3" y="441.02" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_166_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="822.32" y="458.45" width="10.0" height="10.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="822.32" y="456.45" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_167_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="776.3" y="443.02" width="52.26999999999998" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="776.3" y="441.02" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_168_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="776.3" y="443.02" width="51.0" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="776.3" y="441.02" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_169_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="779.43" y="447.5" width="49.139999999999986" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="779.43" y="445.5" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_170_data-label" data-type="label" data-original-tag="text">
+                            <rect x="779.43" y="447.5" width="49.139999999999986" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="779.43" y="445.5" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Cendara"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_171_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="913.64" y="399.45999912386856" width="28.88000000000011" height="29.570000876131417" fill="none" stroke="red" stroke-width="1" />
+                <text x="913.64" y="397.45999912386856" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_172_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="926.3899995179277" y="399.45999912386856" width="4.380000964144642" height="2.410001752262872" fill="none" stroke="red" stroke-width="1" />
+                    <text x="926.3899995179277" y="397.45999912386856" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_173_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="926.3899995179277" y="399.45999912386856" width="4.380000964144642" height="2.410001752262872" fill="none" stroke="red" stroke-width="1" />
+                        <text x="926.3899995179277" y="397.45999912386856" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_174_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="926.3899995179277" y="399.45999912386856" width="4.380000964144642" height="2.410001752262872" fill="none" stroke="red" stroke-width="1" />
+                        <text x="926.3899995179277" y="397.45999912386856" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                    <g id="aoi_175_unknown" data-type="unknown" data-original-tag="line">
+                        <rect x="926.3899995179277" y="399.45999912386856" width="4.380000964144642" height="2.410001752262872" fill="none" stroke="red" stroke-width="1" />
+                        <text x="926.3899995179277" y="397.45999912386856" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_176_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="913.64" y="408.7" width="28.88000000000011" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="913.64" y="406.7" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_177_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="913.64" y="408.7" width="27.409999999999968" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="913.64" y="406.7" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_178_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="914.44" y="413.18" width="28.08000000000004" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="914.44" y="411.18" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_179_data-label" data-type="label" data-original-tag="text">
+                            <rect x="914.44" y="413.18" width="28.08000000000004" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="914.44" y="411.18" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Arun"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_180_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1240.68" y="373.69" width="61.15000000000009" height="25.089999999999975" fill="none" stroke="red" stroke-width="1" />
+                <text x="1240.68" y="371.69" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_181_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1240.68" y="388.76" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1240.68" y="386.76" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_182_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1250.19" y="373.69" width="51.6400000000001" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1250.19" y="371.69" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_183_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1250.19" y="373.69" width="44.1099999999999" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1250.19" y="371.69" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_184_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1252.69" y="378.15999999999997" width="49.1400000000001" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1252.69" y="376.15999999999997" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_185_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1252.69" y="378.15999999999997" width="49.1400000000001" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1252.69" y="376.15999999999997" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Lunaris"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_186_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1021.6400000000001" y="233.44" width="58.210000000000036" height="25.090000000000032" fill="none" stroke="red" stroke-width="1" />
+                <text x="1021.6400000000001" y="231.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_187_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1021.6400000000001" y="248.51000000000002" width="10.019999999999982" height="10.02000000000001" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1021.6400000000001" y="246.51000000000002" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_188_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1031.15" y="233.44" width="48.700000000000045" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1031.15" y="231.44" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_189_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1031.15" y="233.44" width="34.1400000000001" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1031.15" y="231.44" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_190_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1033.65" y="238.47" width="46.200000000000045" height="11.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1033.65" y="236.47" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_191_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1033.65" y="238.47" width="46.200000000000045" height="11.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1033.65" y="236.47" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Belaris"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_192_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="489.89" y="727.99" width="50.93999999999994" height="25.100000000000023" fill="none" stroke="red" stroke-width="1" />
+                <text x="489.89" y="725.99" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_193_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="489.89" y="743.07" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="489.89" y="741.07" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_194_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="499.4" y="727.99" width="41.42999999999995" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                    <text x="499.4" y="725.99" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_195_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="499.4" y="727.99" width="41.42999999999995" height="20.33000000000004" fill="none" stroke="red" stroke-width="1" />
+                        <text x="499.4" y="725.99" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_196_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="501.89" y="732.47" width="38.260000000000105" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                        <text x="501.89" y="730.47" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_197_data-label" data-type="label" data-original-tag="text">
+                            <rect x="501.89" y="732.47" width="7.019999999999982" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="501.89" y="730.47" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "W"</text>
+                        </g>
+                        <g id="aoi_198_data-label" data-type="label" data-original-tag="text">
+                            <rect x="512.07" y="732.47" width="28.08000000000004" height="11.700000000000045" fill="none" stroke="red" stroke-width="1" />
+                            <text x="512.07" y="730.47" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "ezen"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="aoi_199_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1244.26" y="466.95" width="47.210000000000036" height="30.829999999999984" fill="none" stroke="red" stroke-width="1" />
+                <text x="1244.26" y="464.95" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_200_data-node" data-type="node" data-original-tag="circle">
+                    <rect x="1262.68" y="487.76" width="10.019999999999982" height="10.019999999999982" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1262.68" y="485.76" font-size="10" fill="blue" font-family="sans-serif">data-node (node)</text>
+                </g>
+                <g id="aoi_201_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1244.26" y="466.95" width="47.210000000000036" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1244.26" y="464.95" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_202_data-label" data-type="label" data-original-tag="rect">
+                        <rect x="1244.26" y="466.95" width="47.210000000000036" height="20.329999999999984" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1244.26" y="464.95" font-size="10" fill="blue" font-family="sans-serif">data-label (label)</text>
+                    </g>
+                    <g id="aoi_203_unknown" data-type="unknown" data-original-tag="g">
+                        <rect x="1246.76" y="471.41999999999996" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1246.76" y="469.41999999999996" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                        <g id="aoi_204_data-label" data-type="label" data-original-tag="text">
+                            <rect x="1246.76" y="471.41999999999996" width="42.11999999999989" height="11.699999999999989" fill="none" stroke="red" stroke-width="1" />
+                            <text x="1246.76" y="469.41999999999996" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Vaelun"</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

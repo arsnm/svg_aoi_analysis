@@ -44,11 +44,13 @@ class AOIPipeline:
 
         # 4. Data Extraction
         extracted_data = self._extract_data(semantic_tree.root, stimulus_id)
+        filtered_data = self._filter_to_visible(extracted_data)
 
-        # 5. Output Generation
+        # 5. 
+        #  Generation
         return {
-            "json": json.dumps(extracted_data, indent=4),
-            "simplified_svg": self._generate_simplified_svg(extracted_data)
+            "json": json.dumps(filtered_data, indent=4),
+            "simplified_svg": self._generate_simplified_svg(extracted_data, svg_path)
         }
 
     def _extract_data(self, root_node: SVGTreeNodeSemantic, stimulus_id: str) -> list[dict]:
@@ -99,8 +101,30 @@ class AOIPipeline:
 
         traverse(root_node, None)
         return extracted_data
-
-    def _generate_simplified_svg(self, extracted_data: list[dict]) -> str:
+    
+    def _filter_to_visible(self, extracted_data: list[dict]) -> list[dict]:
+        KEEP_TAGS = {'path', 'circle', 'rect', 'line', 'polygon', 
+                    'polyline', 'ellipse', 'text', 'foreignObject',
+                    'div', 'span'}
+        
+        filtered = []
+        for item in extracted_data:
+            tag = item['tag']
+            label = item['aoi_label']
+            
+            # Always drop pure container labels
+            # Always drop pure container labels — but never drop text elements
+            if label in ('data-container', 'unknown'):
+                if tag == 'text':
+                    filtered.append(item)
+                continue
+                
+            # Keep only non-g tags — these are actual visible elements
+            if tag != 'g':
+                filtered.append(item)
+        
+        return filtered
+    def _generate_simplified_svg(self, extracted_data: list[dict], svg_path: Path = None) -> str:
         """
         Generates a simplified SVG showing the bounding boxes, preserving the hierarchy.
         """
@@ -190,9 +214,18 @@ class AOIPipeline:
 if __name__ == "__main__":
     import sys
     if len(sys.argv) > 1:
+        svg_path = Path(sys.argv[1])
         pipeline = AOIPipeline()
-        results = pipeline.process_svg(sys.argv[1])
-        print("--- JSON OUTPUT ---")
-        print(results["json"])
-        print("\n--- SIMPLIFIED SVG OUTPUT ---")
-        print(results["simplified_svg"])
+        results = pipeline.process_svg(svg_path)
+
+        output_dir = svg_path.parent.parent / "output"
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+        json_path = output_dir / f"{svg_path.stem}.json"
+        svg_out_path = output_dir / f"{svg_path.stem}_simplified.svg"
+
+        json_path.write_text(results["json"], encoding="utf-8")
+        svg_out_path.write_text(results["simplified_svg"], encoding="utf-8")
+
+        print(f"JSON saved to:         {json_path}")
+        print(f"Simplified SVG saved to: {svg_out_path}")
