@@ -1,0 +1,392 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20.0 -20.0 823.5999999999999 695.4">
+    <g id="aoi_1_data-container" data-type="container" data-original-tag="svg">
+        <rect x="0.0" y="0.0" width="783.5999999999999" height="655.4" fill="none" stroke="red" stroke-width="1" />
+        <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+        <g id="aoi_2_grid" data-type="grid" data-original-tag="g">
+            <rect x="40.0" y="19.999999" width="580.0" height="450.000002" fill="none" stroke="red" stroke-width="1" />
+            <text x="40.0" y="17.999999" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+            <g id="aoi_3_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="469.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="467.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_4_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="424.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="422.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_5_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="379.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="377.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_6_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="334.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="332.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_7_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="289.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="287.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_8_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="244.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="242.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_9_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="199.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="197.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_10_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="154.99999900000003" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="152.99999900000003" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_11_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="109.99999899999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="107.99999899999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_12_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="64.999999" width="580.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="62.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_13_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="40.0" y="19.999999" width="580.0" height="2.0000000020559128e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="17.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+        </g>
+        <g id="aoi_14_axis-tick" data-type="tick" data-original-tag="g">
+            <rect x="34.0" y="19.999999" width="6.0" height="450.000002" fill="none" stroke="red" stroke-width="1" />
+            <text x="34.0" y="17.999999" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+            <g id="aoi_15_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="469.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="467.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_16_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="424.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="422.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_17_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="379.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="377.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_18_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="334.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="332.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_19_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="289.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="287.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_20_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="244.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="242.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_21_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="199.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="197.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_22_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="154.99999900000003" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="152.99999900000003" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_23_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="109.99999899999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="107.99999899999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_24_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="64.999999" width="6.0" height="1.9999999949504854e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="62.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_25_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="34.0" y="19.999999" width="6.0" height="2.0000000020559128e-06" fill="none" stroke="red" stroke-width="1" />
+                <text x="34.0" y="17.999999" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+        </g>
+        <g id="aoi_26_axis-label" data-type="label" data-original-tag="g">
+            <rect x="40.0" y="10.719999999999999" width="14.399999999999999" height="462.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="40.0" y="8.719999999999999" font-size="10" fill="blue" font-family="sans-serif">axis-label (label)</text>
+            <g id="aoi_27_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="460.72" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="458.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "0"</text>
+            </g>
+            <g id="aoi_28_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="415.72" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="413.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "2"</text>
+            </g>
+            <g id="aoi_29_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="370.72" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="368.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "4"</text>
+            </g>
+            <g id="aoi_30_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="325.72" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="323.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "6"</text>
+            </g>
+            <g id="aoi_31_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="280.72" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="278.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "8"</text>
+            </g>
+            <g id="aoi_32_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="235.72" width="14.399999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="233.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "10"</text>
+            </g>
+            <g id="aoi_33_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="190.72" width="14.399999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="188.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "12"</text>
+            </g>
+            <g id="aoi_34_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="145.72000000000003" width="14.399999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="143.72000000000003" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "14"</text>
+            </g>
+            <g id="aoi_35_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="100.71999999999998" width="14.399999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="98.71999999999998" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "16"</text>
+            </g>
+            <g id="aoi_36_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="55.72" width="14.399999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="53.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "18"</text>
+            </g>
+            <g id="aoi_37_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="10.719999999999999" width="14.399999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="8.719999999999999" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "20"</text>
+            </g>
+        </g>
+        <g id="aoi_38_axis-title" data-type="title" data-original-tag="g">
+            <rect x="36.89" y="245.0" width="12.0" height="410.4" fill="none" stroke="red" stroke-width="1" />
+            <text x="36.89" y="243.0" font-size="10" fill="blue" font-family="sans-serif">axis-title (title)</text>
+            <g id="aoi_39_axis-label" data-type="label" data-original-tag="text">
+                <rect x="36.89" y="245.0" width="12.0" height="410.4" fill="none" stroke="red" stroke-width="1" />
+                <text x="36.89" y="243.0" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "MATH SCORE AT THE END OF HIGHSCHOOL (on a 20-point scale)"</text>
+            </g>
+        </g>
+        <g id="aoi_40_grid" data-type="grid" data-original-tag="g">
+            <rect x="39.999999" y="20.0" width="580.000002" height="450.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="39.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+            <g id="aoi_41_grid" data-type="grid" data-original-tag="line">
+                <rect x="39.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="39.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+            </g>
+            <g id="aoi_42_grid" data-type="grid" data-original-tag="line">
+                <rect x="97.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="97.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">grid (grid)</text>
+            </g>
+            <g id="aoi_43_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="155.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="155.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_44_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="213.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="213.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_45_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="271.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="271.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_46_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="329.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="329.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_47_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="387.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="387.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_48_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="445.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="445.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_49_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="503.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="503.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_50_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="561.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="561.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_51_data-mark" data-type="mark" data-original-tag="line">
+                <rect x="619.999999" y="20.0" width="1.9999999949504854e-06" height="450.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="619.999999" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+        </g>
+        <g id="aoi_52_axis-tick" data-type="tick" data-original-tag="g">
+            <rect x="39.999999" y="470.0" width="580.000002" height="6.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="39.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">axis-tick (tick)</text>
+            <g id="aoi_53_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="39.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="39.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_54_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="97.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="97.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_55_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="155.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="155.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_56_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="213.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="213.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_57_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="271.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="271.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_58_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="329.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="329.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_59_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="387.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="387.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_60_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="445.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="445.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_61_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="503.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="503.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_62_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="561.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="561.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_63_data-mark" data-type="mark" data-original-tag="path">
+                <rect x="619.999999" y="470.0" width="1.9999999949504854e-06" height="6.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="619.999999" y="468.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+        </g>
+        <g id="aoi_64_axis-label" data-type="label" data-original-tag="g">
+            <rect x="40.0" y="461.11" width="594.4" height="12.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="40.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label)</text>
+            <g id="aoi_65_axis-label" data-type="label" data-original-tag="text">
+                <rect x="40.0" y="461.11" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="40.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "0"</text>
+            </g>
+            <g id="aoi_66_axis-label" data-type="label" data-original-tag="text">
+                <rect x="98.0" y="461.11" width="7.200000000000003" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="98.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "2"</text>
+            </g>
+            <g id="aoi_67_axis-label" data-type="label" data-original-tag="text">
+                <rect x="156.0" y="461.11" width="7.199999999999989" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="156.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "4"</text>
+            </g>
+            <g id="aoi_68_axis-label" data-type="label" data-original-tag="text">
+                <rect x="214.0" y="461.11" width="7.199999999999989" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="214.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "6"</text>
+            </g>
+            <g id="aoi_69_axis-label" data-type="label" data-original-tag="text">
+                <rect x="272.0" y="461.11" width="7.199999999999989" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="272.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "8"</text>
+            </g>
+            <g id="aoi_70_axis-label" data-type="label" data-original-tag="text">
+                <rect x="330.0" y="461.11" width="14.399999999999977" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="330.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "10"</text>
+            </g>
+            <g id="aoi_71_axis-label" data-type="label" data-original-tag="text">
+                <rect x="388.0" y="461.11" width="14.399999999999977" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="388.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "12"</text>
+            </g>
+            <g id="aoi_72_axis-label" data-type="label" data-original-tag="text">
+                <rect x="446.0" y="461.11" width="14.399999999999977" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="446.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "14"</text>
+            </g>
+            <g id="aoi_73_axis-label" data-type="label" data-original-tag="text">
+                <rect x="504.0" y="461.11" width="14.399999999999977" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="504.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "16"</text>
+            </g>
+            <g id="aoi_74_axis-label" data-type="label" data-original-tag="text">
+                <rect x="562.0" y="461.11" width="14.399999999999977" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="562.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "18"</text>
+            </g>
+            <g id="aoi_75_axis-label" data-type="label" data-original-tag="text">
+                <rect x="620.0" y="461.11" width="14.399999999999977" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="620.0" y="459.11" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "20"</text>
+            </g>
+        </g>
+        <g id="aoi_76_axis-title" data-type="title" data-original-tag="g">
+            <rect x="330.0" y="460.4" width="453.5999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="330.0" y="458.4" font-size="10" fill="blue" font-family="sans-serif">axis-title (title)</text>
+            <g id="aoi_77_axis-label" data-type="label" data-original-tag="text">
+                <rect x="330.0" y="460.4" width="453.5999999999999" height="12.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="330.0" y="458.4" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "MATH SCORE AT THE BEGINNING OF HIGHSCHOOL (on a 20-point scale)"</text>
+            </g>
+        </g>
+        <g id="aoi_78_data-mark" data-type="mark" data-original-tag="g">
+            <rect x="221.59999999999997" y="80.63846153846154" width="332.8" height="277.7865384615384" fill="none" stroke="red" stroke-width="1" />
+            <text x="221.59999999999997" y="78.63846153846154" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            <g id="aoi_79_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="413.0" y="226.01730769230772" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="413.0" y="224.01730769230772" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_80_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="546.4" y="151.59423076923085" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="546.4" y="149.59423076923085" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_81_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="453.59999999999997" y="240.60769230769228" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="453.59999999999997" y="238.60769230769228" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_82_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="337.5999999999999" y="306.7923076923077" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="337.5999999999999" y="304.7923076923077" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_83_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="462.30000000000007" y="265.8307692307693" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="462.30000000000007" y="263.8307692307693" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_84_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="395.5999999999999" y="261.61346153846154" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="395.5999999999999" y="259.61346153846154" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_85_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="256.3999999999999" y="80.63846153846154" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="256.3999999999999" y="78.63846153846154" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_86_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="221.59999999999997" y="350.42499999999995" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="221.59999999999997" y="348.42499999999995" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_87_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="363.7" y="338.448076923077" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="363.7" y="336.448076923077" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_88_data-mark" data-type="mark" data-original-tag="circle">
+                <rect x="256.3999999999999" y="226.45576923076928" width="8.0" height="8.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="256.3999999999999" y="224.45576923076928" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+        </g>
+        <g id="aoi_89_data-mark" data-type="mark" data-original-tag="rect">
+            <rect x="40.0" y="20.0" width="580.0" height="450.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="40.0" y="18.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+        </g>
+        <g id="aoi_90_legend" data-type="legend" data-original-tag="foreignObject">
+            <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+            <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">legend (legend)</text>
+            <g id="aoi_91_unknown" data-type="unknown" data-original-tag="div">
+            </g>
+            <g id="aoi_92_legend-item" data-type="item" data-original-tag="div">
+                <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                <g id="aoi_93_legend-item" data-type="item" data-original-tag="span">
+                    <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_94_data-container" data-type="container" data-original-tag="svg">
+                        <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+                        <g id="aoi_95_data-mark" data-type="mark" data-original-tag="rect">
+                            <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="aoi_96_legend-item" data-type="item" data-original-tag="span">
+                    <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                    <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">legend-item (item)</text>
+                    <g id="aoi_97_data-container" data-type="container" data-original-tag="svg">
+                        <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                        <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+                        <g id="aoi_98_data-mark" data-type="mark" data-original-tag="rect">
+                            <rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="red" stroke-width="1" />
+                            <text x="0.0" y="-2.0" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

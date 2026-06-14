@@ -1,0 +1,1426 @@
+[
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_4",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "path",
+        "parent_id": "aoi_3",
+        "bbox": [
+            385.23,
+            82.83,
+            1425.23,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_6",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            385.229999,
+            82.83,
+            385.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_7",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            489.229999,
+            82.83,
+            489.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_8",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            593.229999,
+            82.83,
+            593.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_9",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            697.229999,
+            82.83,
+            697.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_10",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            801.229999,
+            82.83,
+            801.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_11",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            905.229999,
+            82.83,
+            905.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_12",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            1009.229999,
+            82.83,
+            1009.230001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_13",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            1113.229999,
+            82.83,
+            1113.2300010000001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_14",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            1217.229999,
+            82.83,
+            1217.2300010000001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_15",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            1321.229999,
+            82.83,
+            1321.2300010000001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_16",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_5",
+        "bbox": [
+            1425.229999,
+            82.83,
+            1425.2300010000001,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_18",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "path",
+        "parent_id": "aoi_17",
+        "bbox": [
+            385.23,
+            82.83,
+            1425.23,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_20",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            862.829999,
+            1425.23,
+            862.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_21",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            784.829999,
+            1425.23,
+            784.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_22",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            706.829999,
+            1425.23,
+            706.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_23",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            628.829999,
+            1425.23,
+            628.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_24",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            550.829999,
+            1425.23,
+            550.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_25",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            472.829999,
+            1425.23,
+            472.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_26",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            394.829999,
+            1425.23,
+            394.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_27",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            316.829999,
+            1425.23,
+            316.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_28",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            238.82999900000002,
+            1425.23,
+            238.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_29",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            160.82999900000002,
+            1425.23,
+            160.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_30",
+        "aoi_label": "grid",
+        "aoi_type": "grid",
+        "family": "grid",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            385.23,
+            82.829999,
+            1425.23,
+            82.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_32",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "path",
+        "parent_id": "aoi_31",
+        "bbox": [
+            385.23,
+            862.83,
+            1425.23,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_35",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_34",
+        "bbox": [
+            385.229999,
+            862.83,
+            385.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_36",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_34",
+        "bbox": [
+            381.61,
+            873.36,
+            389.41,
+            886.36
+        ],
+        "text": "0"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_38",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_37",
+        "bbox": [
+            489.229999,
+            862.83,
+            489.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_39",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_37",
+        "bbox": [
+            485.61,
+            873.36,
+            493.41,
+            886.36
+        ],
+        "text": "2"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_41",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_40",
+        "bbox": [
+            593.229999,
+            862.83,
+            593.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_42",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_40",
+        "bbox": [
+            589.61,
+            873.36,
+            597.41,
+            886.36
+        ],
+        "text": "4"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_44",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_43",
+        "bbox": [
+            697.229999,
+            862.83,
+            697.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_45",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_43",
+        "bbox": [
+            693.61,
+            873.36,
+            701.41,
+            886.36
+        ],
+        "text": "6"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_47",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_46",
+        "bbox": [
+            801.229999,
+            862.83,
+            801.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_48",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_46",
+        "bbox": [
+            797.61,
+            873.36,
+            805.41,
+            886.36
+        ],
+        "text": "8"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_50",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_49",
+        "bbox": [
+            905.229999,
+            862.83,
+            905.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_51",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_49",
+        "bbox": [
+            898.0,
+            873.36,
+            913.6,
+            886.36
+        ],
+        "text": "10"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_53",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_52",
+        "bbox": [
+            1009.229999,
+            862.83,
+            1009.230001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_54",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_52",
+        "bbox": [
+            1002.0,
+            873.36,
+            1017.6,
+            886.36
+        ],
+        "text": "12"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_56",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_55",
+        "bbox": [
+            1113.229999,
+            862.83,
+            1113.2300010000001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_57",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_55",
+        "bbox": [
+            1106.0,
+            873.36,
+            1121.6,
+            886.36
+        ],
+        "text": "14"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_59",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_58",
+        "bbox": [
+            1217.229999,
+            862.83,
+            1217.2300010000001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_60",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_58",
+        "bbox": [
+            1210.0,
+            873.36,
+            1225.6,
+            886.36
+        ],
+        "text": "16"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_62",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_61",
+        "bbox": [
+            1321.229999,
+            862.83,
+            1321.2300010000001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_63",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_61",
+        "bbox": [
+            1314.0,
+            873.36,
+            1329.6,
+            886.36
+        ],
+        "text": "18"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_65",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_64",
+        "bbox": [
+            1425.229999,
+            862.83,
+            1425.2300010000001,
+            870.63
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_66",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_64",
+        "bbox": [
+            1418.0,
+            873.36,
+            1433.6,
+            886.36
+        ],
+        "text": "20"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_68",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_67",
+        "bbox": [
+            608.69,
+            903.7700000000001,
+            1242.0500000000002,
+            921.97
+        ],
+        "text": "MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_70",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "path",
+        "parent_id": "aoi_69",
+        "bbox": [
+            377.43,
+            82.83,
+            385.23,
+            862.83
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_73",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_72",
+        "bbox": [
+            377.43,
+            862.829999,
+            385.23,
+            862.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_74",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_72",
+        "bbox": [
+            366.3,
+            856.59,
+            374.1,
+            869.59
+        ],
+        "text": "0"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_76",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_75",
+        "bbox": [
+            377.43,
+            784.829999,
+            385.23,
+            784.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_77",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_75",
+        "bbox": [
+            366.3,
+            778.59,
+            374.1,
+            791.59
+        ],
+        "text": "2"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_79",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_78",
+        "bbox": [
+            377.43,
+            706.829999,
+            385.23,
+            706.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_80",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_78",
+        "bbox": [
+            366.3,
+            700.59,
+            374.1,
+            713.59
+        ],
+        "text": "4"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_82",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_81",
+        "bbox": [
+            377.43,
+            628.829999,
+            385.23,
+            628.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_83",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_81",
+        "bbox": [
+            366.3,
+            622.59,
+            374.1,
+            635.59
+        ],
+        "text": "6"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_85",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_84",
+        "bbox": [
+            377.43,
+            550.829999,
+            385.23,
+            550.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_86",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_84",
+        "bbox": [
+            366.3,
+            544.59,
+            374.1,
+            557.59
+        ],
+        "text": "8"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_88",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_87",
+        "bbox": [
+            377.43,
+            472.829999,
+            385.23,
+            472.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_89",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_87",
+        "bbox": [
+            359.07,
+            466.59000000000003,
+            374.67,
+            479.59000000000003
+        ],
+        "text": "10"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_91",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_90",
+        "bbox": [
+            377.43,
+            394.829999,
+            385.23,
+            394.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_92",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_90",
+        "bbox": [
+            359.07,
+            388.59000000000003,
+            374.67,
+            401.59000000000003
+        ],
+        "text": "12"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_94",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_93",
+        "bbox": [
+            377.43,
+            316.829999,
+            385.23,
+            316.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_95",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_93",
+        "bbox": [
+            359.07,
+            310.59000000000003,
+            374.67,
+            323.59000000000003
+        ],
+        "text": "14"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_97",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_96",
+        "bbox": [
+            377.43,
+            238.82999900000002,
+            385.23,
+            238.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_98",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_96",
+        "bbox": [
+            359.07,
+            232.59,
+            374.67,
+            245.59
+        ],
+        "text": "16"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_100",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_99",
+        "bbox": [
+            377.43,
+            160.82999900000002,
+            385.23,
+            160.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_101",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_99",
+        "bbox": [
+            359.07,
+            154.59,
+            374.67,
+            167.59
+        ],
+        "text": "18"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_103",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "line",
+        "parent_id": "aoi_102",
+        "bbox": [
+            377.43,
+            82.829999,
+            385.23,
+            82.830001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_104",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_102",
+        "bbox": [
+            359.07,
+            76.58999999999999,
+            374.67,
+            89.58999999999999
+        ],
+        "text": "20"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_106",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_105",
+        "bbox": [
+            332.59000000000003,
+            743.72,
+            350.79,
+            1311.56
+        ],
+        "text": "MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_109",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            1053.43,
+            439.06,
+            1069.03,
+            454.66
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_110",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            1292.63,
+            310.06,
+            1308.23,
+            325.66
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_111",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            1126.23,
+            464.34999999999997,
+            1141.83,
+            479.95
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_112",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            918.23,
+            579.07,
+            933.8299999999999,
+            594.67
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_113",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            1141.8300000000002,
+            508.07,
+            1157.43,
+            523.67
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_114",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            1022.23,
+            500.76,
+            1037.83,
+            516.36
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_115",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            772.63,
+            187.07,
+            788.2299999999999,
+            202.67000000000002
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_116",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            710.23,
+            654.7,
+            725.8299999999999,
+            670.3
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_117",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            965.0300000000001,
+            633.94,
+            980.63,
+            649.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_118",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "circle",
+        "parent_id": "aoi_108",
+        "bbox": [
+            772.63,
+            439.82,
+            788.2299999999999,
+            455.42
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_122",
+        "aoi_label": "legend-title",
+        "aoi_type": "title",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_121",
+        "bbox": [
+            1448.23,
+            86.47,
+            1622.95,
+            104.67
+        ],
+        "text": "STUDENT ENROLLED"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_123",
+        "aoi_label": "legend-title",
+        "aoi_type": "title",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_121",
+        "bbox": [
+            1448.23,
+            107.39999999999999,
+            1622.95,
+            125.6
+        ],
+        "text": "IN COLLEGE AFTER"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_124",
+        "aoi_label": "legend-title",
+        "aoi_type": "title",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_121",
+        "bbox": [
+            1448.23,
+            128.32999999999998,
+            1557.43,
+            146.52999999999997
+        ],
+        "text": "GRADUATION"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_127",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_126",
+        "bbox": [
+            1448.23,
+            180.3,
+            1469.03,
+            201.10000000000002
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_129",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_128",
+        "bbox": [
+            1485.53,
+            181.964,
+            1507.994,
+            200.684
+        ],
+        "text": "No"
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_131",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_130",
+        "bbox": [
+            1448.23,
+            231.5,
+            1469.03,
+            252.3
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "B-b-1",
+        "aoi_id": "aoi_133",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_132",
+        "bbox": [
+            1485.53,
+            233.164,
+            1519.2259999999999,
+            251.884
+        ],
+        "text": "Yes"
+    }
+]

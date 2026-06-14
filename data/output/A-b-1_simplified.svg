@@ -1,0 +1,370 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="394.0 56.11 1132.0 879.8">
+    <g id="aoi_1_data-container" data-type="container" data-original-tag="svg">
+        <rect x="414.0" y="76.11" width="1092.0" height="839.8" fill="none" stroke="red" stroke-width="1" />
+        <text x="414.0" y="74.11" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
+        <g id="aoi_2_data-mark" data-type="mark" data-original-tag="rect">
+            <rect x="414.0" y="76.11" width="1092.0" height="839.8" fill="none" stroke="red" stroke-width="1" />
+            <text x="414.0" y="74.11" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+        </g>
+        <g id="aoi_3_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="414.0" y="76.11" width="638.3" height="529.1" fill="none" stroke="red" stroke-width="1" />
+            <text x="414.0" y="74.11" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_4_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="414.0" y="76.11" width="638.3" height="529.1" fill="none" stroke="red" stroke-width="1" />
+                <text x="414.0" y="74.11" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_5_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="420.5" y="83.13" width="74.88" height="15.600000000000009" fill="none" stroke="red" stroke-width="1" />
+                <text x="420.5" y="81.13" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_6_data-label" data-type="label" data-original-tag="text">
+                    <rect x="420.5" y="83.13" width="74.88" height="15.600000000000009" fill="none" stroke="red" stroke-width="1" />
+                    <text x="420.5" y="81.13" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "SUNHAVEN"</text>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_7_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="414.0" y="609.11" width="638.3" height="302.9" fill="none" stroke="red" stroke-width="1" />
+            <text x="414.0" y="607.11" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_8_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="414.0" y="609.11" width="638.3" height="302.9" fill="none" stroke="red" stroke-width="1" />
+                <text x="414.0" y="607.11" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_9_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="420.5" y="616.13" width="84.24000000000001" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                <text x="420.5" y="614.13" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_10_data-label" data-type="label" data-original-tag="text">
+                    <rect x="420.5" y="616.13" width="84.24000000000001" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                    <text x="420.5" y="614.13" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "STONEFELL"</text>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_11_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1056.2" y="76.11" width="232.70000000000005" height="661.7" fill="none" stroke="red" stroke-width="1" />
+            <text x="1056.2" y="74.11" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_12_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1056.2" y="76.11" width="232.70000000000005" height="661.7" fill="none" stroke="red" stroke-width="1" />
+                <text x="1056.2" y="74.11" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_13_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1062.7" y="83.13" width="84.24000000000001" height="15.600000000000009" fill="none" stroke="red" stroke-width="1" />
+                <text x="1062.7" y="81.13" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_14_data-label" data-type="label" data-original-tag="text">
+                    <rect x="1062.7" y="83.13" width="84.24000000000001" height="15.600000000000009" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1062.7" y="81.13" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "RAVENLAND"</text>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_15_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1292.8" y="76.11" width="213.20000000000005" height="661.7" fill="none" stroke="red" stroke-width="1" />
+            <text x="1292.8" y="74.11" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_16_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1292.8" y="76.11" width="213.20000000000005" height="661.7" fill="none" stroke="red" stroke-width="1" />
+                <text x="1292.8" y="74.11" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_17_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1299.3" y="83.13" width="74.87999999999988" height="15.600000000000009" fill="none" stroke="red" stroke-width="1" />
+                <text x="1299.3" y="81.13" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_18_data-label" data-type="label" data-original-tag="text">
+                    <rect x="1299.3" y="83.13" width="74.87999999999988" height="15.600000000000009" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1299.3" y="81.13" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "HIGHMOOR"</text>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_19_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1056.2" y="741.71" width="449.79999999999995" height="170.29999999999995" fill="none" stroke="red" stroke-width="1" />
+            <text x="1056.2" y="739.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_20_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1056.2" y="741.71" width="449.79999999999995" height="170.29999999999995" fill="none" stroke="red" stroke-width="1" />
+                <text x="1056.2" y="739.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_21_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1062.7" y="748.73" width="84.24000000000001" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                <text x="1062.7" y="746.73" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_22_data-label" data-type="label" data-original-tag="text">
+                    <rect x="1062.7" y="748.73" width="84.24000000000001" height="15.600000000000023" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1062.7" y="746.73" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "FROSTVALE"</text>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_23_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="427.0" y="104.71" width="494.0" height="487.50000000000006" fill="none" stroke="red" stroke-width="1" />
+            <text x="427.0" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_24_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="427.0" y="104.71" width="494.0" height="487.50000000000006" fill="none" stroke="red" stroke-width="1" />
+                <text x="427.0" y="102.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_25_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="427.0" y="104.71" width="82.38" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                <text x="427.0" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_26_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="427.0" y="104.71" width="82.38" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                    <text x="427.0" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_27_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="427.0" y="104.71" width="82.38" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                        <text x="427.0" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_28_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="433.5" y="108.87" width="68.63999999999999" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                    <text x="433.5" y="106.87" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_29_data-label" data-type="label" data-original-tag="text">
+                        <rect x="433.5" y="108.87" width="68.63999999999999" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                        <text x="433.5" y="106.87" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Eastwood"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_30_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="924.9" y="104.71" width="114.39999999999998" height="487.50000000000006" fill="none" stroke="red" stroke-width="1" />
+            <text x="924.9" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_31_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="924.9" y="104.71" width="114.39999999999998" height="487.50000000000006" fill="none" stroke="red" stroke-width="1" />
+                <text x="924.9" y="102.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_32_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="924.9" y="104.71" width="90.07000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                <text x="924.9" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_33_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="924.9" y="104.71" width="90.07000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                    <text x="924.9" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_34_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="924.9" y="104.71" width="90.07000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                        <text x="924.9" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_35_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="931.4" y="108.87" width="77.22000000000003" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                    <text x="931.4" y="106.87" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_36_data-label" data-type="label" data-original-tag="text">
+                        <rect x="931.4" y="108.87" width="77.22000000000003" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                        <text x="931.4" y="106.87" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Westbrook"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_37_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="427.0" y="637.71" width="530.4" height="261.29999999999995" fill="none" stroke="red" stroke-width="1" />
+            <text x="427.0" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_38_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="427.0" y="637.71" width="530.4" height="261.29999999999995" fill="none" stroke="red" stroke-width="1" />
+                <text x="427.0" y="635.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_39_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="427.0" y="637.71" width="92.29999999999995" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                <text x="427.0" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_40_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="427.0" y="637.71" width="83.82" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                    <text x="427.0" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_41_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="427.0" y="637.71" width="83.82" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                        <text x="427.0" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_42_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="433.5" y="641.8699999999999" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                    <text x="433.5" y="639.8699999999999" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_43_data-label" data-type="label" data-original-tag="text">
+                        <rect x="433.5" y="641.8699999999999" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                        <text x="433.5" y="639.8699999999999" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Thornfield"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_44_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="961.3" y="637.71" width="85.18000000000006" height="261.29999999999995" fill="none" stroke="red" stroke-width="1" />
+            <text x="961.3" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_45_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="961.3" y="637.71" width="78.0" height="261.29999999999995" fill="none" stroke="red" stroke-width="1" />
+                <text x="961.3" y="635.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_46_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="961.3" y="637.71" width="85.18000000000006" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                <text x="961.3" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_47_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="961.3" y="637.71" width="85.18000000000006" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                    <text x="961.3" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_48_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="961.3" y="637.71" width="85.18000000000006" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                        <text x="961.3" y="635.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_49_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="967.8" y="641.8699999999999" width="68.6400000000001" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                    <text x="967.8" y="639.8699999999999" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_50_data-label" data-type="label" data-original-tag="text">
+                        <rect x="967.8" y="641.8699999999999" width="68.6400000000001" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                        <text x="967.8" y="639.8699999999999" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Darkwood"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_51_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1069.2" y="104.71" width="206.70000000000005" height="516.1" fill="none" stroke="red" stroke-width="1" />
+            <text x="1069.2" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_52_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1069.2" y="104.71" width="206.70000000000005" height="516.1" fill="none" stroke="red" stroke-width="1" />
+                <text x="1069.2" y="102.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_53_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1069.2" y="104.71" width="88.19000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                <text x="1069.2" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_54_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1069.2" y="104.71" width="88.19000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1069.2" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_55_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="1069.2" y="104.71" width="88.19000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1069.2" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_56_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1075.7" y="108.87" width="68.6400000000001" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1075.7" y="106.87" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_57_data-label" data-type="label" data-original-tag="text">
+                        <rect x="1075.7" y="108.87" width="68.6400000000001" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1075.7" y="106.87" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Westwood"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_58_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1069.2" y="624.71" width="206.70000000000005" height="100.10000000000002" fill="none" stroke="red" stroke-width="1" />
+            <text x="1069.2" y="622.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_59_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1069.2" y="624.71" width="206.70000000000005" height="100.10000000000002" fill="none" stroke="red" stroke-width="1" />
+                <text x="1069.2" y="622.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_60_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1069.2" y="624.71" width="92.29999999999995" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                <text x="1069.2" y="622.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_61_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1069.2" y="624.71" width="70.37999999999988" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1069.2" y="622.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_62_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="1069.2" y="624.71" width="70.37999999999988" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1069.2" y="622.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_63_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1075.7" y="628.8699999999999" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1075.7" y="626.8699999999999" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_64_data-label" data-type="label" data-original-tag="text">
+                        <rect x="1075.7" y="628.8699999999999" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1075.7" y="626.8699999999999" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Silverhill"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_65_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1305.8" y="104.71" width="187.20000000000005" height="507.00000000000006" fill="none" stroke="red" stroke-width="1" />
+            <text x="1305.8" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_66_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1305.8" y="104.71" width="187.20000000000005" height="507.00000000000006" fill="none" stroke="red" stroke-width="1" />
+                <text x="1305.8" y="102.71" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_67_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1305.8" y="104.71" width="92.29999999999995" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                <text x="1305.8" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_68_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1305.8" y="104.71" width="90.70000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1305.8" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_69_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="1305.8" y="104.71" width="90.70000000000005" height="22.689999999999998" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1305.8" y="102.71" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_70_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1312.3" y="108.87" width="85.79999999999995" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1312.3" y="106.87" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_71_data-label" data-type="label" data-original-tag="text">
+                        <rect x="1312.3" y="108.87" width="85.79999999999995" height="14.299999999999997" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1312.3" y="106.87" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Freshwater"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_72_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1305.8" y="615.61" width="187.20000000000005" height="109.20000000000005" fill="none" stroke="red" stroke-width="1" />
+            <text x="1305.8" y="613.61" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_73_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1305.8" y="615.61" width="187.20000000000005" height="109.20000000000005" fill="none" stroke="red" stroke-width="1" />
+                <text x="1305.8" y="613.61" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_74_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1305.8" y="615.61" width="92.29999999999995" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                <text x="1305.8" y="613.61" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_75_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1305.8" y="615.61" width="90.34999999999991" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1305.8" y="613.61" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_76_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="1305.8" y="615.61" width="90.34999999999991" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1305.8" y="613.61" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_77_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1312.3" y="619.77" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1312.3" y="617.77" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_78_data-label" data-type="label" data-original-tag="text">
+                        <rect x="1312.3" y="619.77" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1312.3" y="617.77" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Silverwood"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_79_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1069.2" y="770.31" width="209.29999999999995" height="128.70000000000005" fill="none" stroke="red" stroke-width="1" />
+            <text x="1069.2" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_80_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1069.2" y="770.31" width="209.29999999999995" height="128.70000000000005" fill="none" stroke="red" stroke-width="1" />
+                <text x="1069.2" y="768.31" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_81_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1069.2" y="770.31" width="93.98000000000002" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                <text x="1069.2" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_82_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1069.2" y="770.31" width="93.98000000000002" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1069.2" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_83_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="1069.2" y="770.31" width="93.98000000000002" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1069.2" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_84_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1075.7" y="774.4799999999999" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1075.7" y="772.4799999999999" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_85_data-label" data-type="label" data-original-tag="text">
+                        <rect x="1075.7" y="774.4799999999999" width="85.79999999999995" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1075.7" y="772.4799999999999" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Greenridge"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="aoi_86_unknown" data-type="unknown" data-original-tag="g">
+            <rect x="1282.4" y="770.31" width="210.5999999999999" height="128.70000000000005" fill="none" stroke="red" stroke-width="1" />
+            <text x="1282.4" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <g id="aoi_87_data-mark" data-type="mark" data-original-tag="rect">
+                <rect x="1282.4" y="770.31" width="210.5999999999999" height="128.70000000000005" fill="none" stroke="red" stroke-width="1" />
+                <text x="1282.4" y="768.31" font-size="10" fill="blue" font-family="sans-serif">data-mark (mark)</text>
+            </g>
+            <g id="aoi_88_unknown" data-type="unknown" data-original-tag="g">
+                <rect x="1282.4" y="770.31" width="91.6099999999999" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                <text x="1282.4" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                <g id="aoi_89_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1282.4" y="770.31" width="91.6099999999999" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1282.4" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_90_unknown" data-type="unknown" data-original-tag="rect">
+                        <rect x="1282.4" y="770.31" width="91.6099999999999" height="22.690000000000055" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1282.4" y="768.31" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    </g>
+                </g>
+                <g id="aoi_91_unknown" data-type="unknown" data-original-tag="g">
+                    <rect x="1288.9" y="774.4799999999999" width="77.22000000000003" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                    <text x="1288.9" y="772.4799999999999" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+                    <g id="aoi_92_data-label" data-type="label" data-original-tag="text">
+                        <rect x="1288.9" y="774.4799999999999" width="77.22000000000003" height="14.300000000000068" fill="none" stroke="red" stroke-width="1" />
+                        <text x="1288.9" y="772.4799999999999" font-size="10" fill="blue" font-family="sans-serif">data-label (label) | "Northwood"</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

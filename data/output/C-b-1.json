@@ -1,0 +1,2530 @@
+[
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_7",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_6",
+        "bbox": [
+            1445.53,
+            225.81,
+            1532.8899999999999,
+            244.01
+        ],
+        "text": "RELATIVE"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_8",
+        "aoi_label": "data-label",
+        "aoi_type": "label",
+        "family": "data",
+        "tag": "text",
+        "parent_id": "aoi_6",
+        "bbox": [
+            1445.53,
+            250.2,
+            1576.57,
+            268.4
+        ],
+        "text": "HUMIDITY (%)"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_11",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            310.28,
+            1475.01,
+            364.96
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_12",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            364.96,
+            1475.01,
+            419.64
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_13",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            419.63,
+            1475.01,
+            474.31
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_14",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            474.31,
+            1475.01,
+            528.99
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_15",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            528.99,
+            1475.01,
+            583.67
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_16",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            583.66,
+            1475.01,
+            638.3399999999999
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_17",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "rect",
+        "parent_id": "aoi_10",
+        "bbox": [
+            1446.58,
+            638.34,
+            1475.01,
+            693.02
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_20",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_19",
+        "bbox": [
+            1504.06,
+            301.504,
+            1548.9879999999998,
+            320.22400000000005
+        ],
+        "text": "100%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_21",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_19",
+        "bbox": [
+            1473.31,
+            310.279999,
+            1490.39,
+            310.28000099999997
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_23",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_22",
+        "bbox": [
+            1504.06,
+            356.184,
+            1537.7559999999999,
+            374.904
+        ],
+        "text": "90%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_24",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_22",
+        "bbox": [
+            1473.31,
+            364.959999,
+            1490.39,
+            364.960001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_26",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_25",
+        "bbox": [
+            1504.06,
+            410.864,
+            1537.7559999999999,
+            429.58399999999995
+        ],
+        "text": "75%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_27",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_25",
+        "bbox": [
+            1473.31,
+            419.629999,
+            1490.39,
+            419.630001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_29",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_28",
+        "bbox": [
+            1504.06,
+            465.534,
+            1537.7559999999999,
+            484.254
+        ],
+        "text": "60%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_30",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_28",
+        "bbox": [
+            1473.31,
+            474.309999,
+            1490.39,
+            474.310001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_32",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_31",
+        "bbox": [
+            1504.06,
+            520.214,
+            1537.7559999999999,
+            538.9340000000001
+        ],
+        "text": "45%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_33",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_31",
+        "bbox": [
+            1473.31,
+            528.989999,
+            1490.39,
+            528.990001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_35",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_34",
+        "bbox": [
+            1504.06,
+            574.884,
+            1537.7559999999999,
+            593.604
+        ],
+        "text": "30%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_36",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_34",
+        "bbox": [
+            1473.31,
+            583.659999,
+            1490.39,
+            583.660001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_38",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_37",
+        "bbox": [
+            1504.06,
+            629.564,
+            1537.7559999999999,
+            648.284
+        ],
+        "text": "15%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_39",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_37",
+        "bbox": [
+            1473.31,
+            638.339999,
+            1490.39,
+            638.340001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_41",
+        "aoi_label": "legend-item-label",
+        "aoi_type": "item-label",
+        "family": "legend",
+        "tag": "text",
+        "parent_id": "aoi_40",
+        "bbox": [
+            1504.06,
+            684.234,
+            1526.524,
+            702.9540000000001
+        ],
+        "text": "0%"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_42",
+        "aoi_label": "legend-item-symbol",
+        "aoi_type": "item-symbol",
+        "family": "legend",
+        "tag": "line",
+        "parent_id": "aoi_40",
+        "bbox": [
+            1473.31,
+            693.009999,
+            1490.39,
+            693.010001
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_45",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            421.64,
+            586.82,
+            429.08,
+            599.22
+        ],
+        "text": "1"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_46",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            453.63,
+            586.82,
+            461.07,
+            599.22
+        ],
+        "text": "2"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_47",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            485.63,
+            586.82,
+            493.07,
+            599.22
+        ],
+        "text": "3"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_48",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            517.62,
+            586.82,
+            525.0600000000001,
+            599.22
+        ],
+        "text": "4"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_49",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            549.61,
+            586.82,
+            557.0500000000001,
+            599.22
+        ],
+        "text": "5"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_50",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            581.6,
+            586.82,
+            589.0400000000001,
+            599.22
+        ],
+        "text": "6"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_51",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            613.59,
+            586.82,
+            621.0300000000001,
+            599.22
+        ],
+        "text": "7"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_52",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            645.59,
+            586.82,
+            653.0300000000001,
+            599.22
+        ],
+        "text": "8"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_53",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            677.58,
+            586.82,
+            685.0200000000001,
+            599.22
+        ],
+        "text": "9"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_54",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            706.12,
+            586.82,
+            721.0,
+            599.22
+        ],
+        "text": "10"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_55",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            738.11,
+            586.82,
+            752.99,
+            599.22
+        ],
+        "text": "11"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_56",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            770.11,
+            586.82,
+            784.99,
+            599.22
+        ],
+        "text": "12"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_57",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            802.1,
+            586.82,
+            816.98,
+            599.22
+        ],
+        "text": "13"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_58",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            834.09,
+            586.82,
+            848.97,
+            599.22
+        ],
+        "text": "14"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_59",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            866.08,
+            586.82,
+            880.96,
+            599.22
+        ],
+        "text": "15"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_60",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            898.07,
+            586.82,
+            912.95,
+            599.22
+        ],
+        "text": "16"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_61",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            930.07,
+            586.82,
+            944.95,
+            599.22
+        ],
+        "text": "17"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_62",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            962.06,
+            586.82,
+            976.9399999999999,
+            599.22
+        ],
+        "text": "18"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_63",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            994.05,
+            586.82,
+            1008.93,
+            599.22
+        ],
+        "text": "19"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_64",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1026.04,
+            586.82,
+            1040.92,
+            599.22
+        ],
+        "text": "20"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_65",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1058.03,
+            586.82,
+            1072.91,
+            599.22
+        ],
+        "text": "21"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_66",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1090.03,
+            586.82,
+            1104.91,
+            599.22
+        ],
+        "text": "22"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_67",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1122.02,
+            586.82,
+            1136.9,
+            599.22
+        ],
+        "text": "23"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_68",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1154.01,
+            586.82,
+            1168.89,
+            599.22
+        ],
+        "text": "24"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_69",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1186.0,
+            586.82,
+            1200.88,
+            599.22
+        ],
+        "text": "25"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_70",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1217.99,
+            586.82,
+            1232.8700000000001,
+            599.22
+        ],
+        "text": "26"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_71",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1249.99,
+            586.82,
+            1264.8700000000001,
+            599.22
+        ],
+        "text": "27"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_72",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1281.98,
+            586.82,
+            1296.8600000000001,
+            599.22
+        ],
+        "text": "28"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_73",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1313.97,
+            586.82,
+            1328.8500000000001,
+            599.22
+        ],
+        "text": "29"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_74",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1345.96,
+            586.82,
+            1360.8400000000001,
+            599.22
+        ],
+        "text": "30"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_75",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_44",
+        "bbox": [
+            1377.95,
+            586.82,
+            1392.8300000000002,
+            599.22
+        ],
+        "text": "31"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_77",
+        "aoi_label": "axis-title",
+        "aoi_type": "title",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_76",
+        "bbox": [
+            863.91,
+            612.33,
+            907.5899999999999,
+            630.53
+        ],
+        "text": "DAYS"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_79",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_78",
+        "bbox": [
+            376.48,
+            414.63,
+            398.8,
+            427.03000000000003
+        ],
+        "text": "Jun"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_80",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_78",
+        "bbox": [
+            380.62,
+            474.17,
+            403.0192,
+            486.37
+        ],
+        "text": "Jul"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_81",
+        "aoi_label": "axis",
+        "aoi_type": "axis",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_78",
+        "bbox": [
+            374.65,
+            538.6,
+            396.96999999999997,
+            551.0
+        ],
+        "text": "Aug"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_83",
+        "aoi_label": "axis-tick",
+        "aoi_type": "tick",
+        "family": "axis",
+        "tag": "path",
+        "parent_id": "aoi_82",
+        "bbox": [
+            361.21000000000004,
+            419.23,
+            369.24,
+            543.2
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_84",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "rect",
+        "parent_id": "aoi_82",
+        "bbox": [
+            348.74,
+            438.94,
+            369.25,
+            522.75
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_86",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_85",
+        "bbox": [
+            361.59000000000003,
+            520.79,
+            379.79,
+            586.31
+        ],
+        "text": "SUMMER"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_87",
+        "aoi_label": "axis-label",
+        "aoi_type": "label",
+        "family": "axis",
+        "tag": "text",
+        "parent_id": "aoi_85",
+        "bbox": [
+            361.59000000000003,
+            520.79,
+            379.79,
+            586.31
+        ],
+        "text": "SUMMER"
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_89",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            920.96,
+            389.59,
+            952.95,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_90",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            409.09,
+            451.58,
+            441.08,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_91",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            793.0,
+            389.59,
+            824.99,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_92",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            761.0,
+            451.58,
+            792.99,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_93",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1112.92,
+            389.59,
+            1144.91,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_94",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            697.02,
+            451.58,
+            729.01,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_95",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            569.05,
+            389.59,
+            601.04,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_96",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1048.93,
+            389.59,
+            1080.92,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_97",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1144.91,
+            451.58,
+            1176.9,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_98",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            601.04,
+            451.58,
+            633.03,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_99",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            824.99,
+            389.59,
+            856.98,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_100",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1272.88,
+            389.59,
+            1304.8700000000001,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_101",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            793.0,
+            451.58,
+            824.99,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_102",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            409.09,
+            389.59,
+            441.08,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_103",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1240.88,
+            389.59,
+            1272.8700000000001,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_104",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            505.07,
+            389.59,
+            537.06,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_105",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            824.99,
+            451.58,
+            856.98,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_106",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            729.01,
+            451.58,
+            761.0,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_107",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            665.03,
+            451.58,
+            697.02,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_108",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1048.93,
+            451.58,
+            1080.92,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_109",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            665.03,
+            389.59,
+            697.02,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_110",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1336.86,
+            389.59,
+            1368.85,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_111",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            537.06,
+            451.58,
+            569.05,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_112",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            633.04,
+            389.59,
+            665.03,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_113",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1208.89,
+            389.59,
+            1240.88,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_114",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            952.96,
+            389.59,
+            984.95,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_115",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1080.92,
+            389.59,
+            1112.91,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_116",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            984.95,
+            451.58,
+            1016.94,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_117",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            441.08,
+            451.58,
+            473.07,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_118",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1304.87,
+            451.58,
+            1336.86,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_119",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            441.08,
+            389.59,
+            473.07,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_120",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1240.88,
+            451.58,
+            1272.8700000000001,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_121",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1272.88,
+            451.58,
+            1304.8700000000001,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_122",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            569.05,
+            451.58,
+            601.04,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_123",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            888.97,
+            451.58,
+            920.96,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_124",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            984.95,
+            389.59,
+            1016.94,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_125",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1080.92,
+            451.58,
+            1112.91,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_126",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            505.07,
+            451.58,
+            537.06,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_127",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            473.08,
+            389.59,
+            505.07,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_128",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            729.01,
+            389.59,
+            761.0,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_129",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            697.02,
+            389.59,
+            729.01,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_130",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1336.86,
+            451.58,
+            1368.85,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_131",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            537.06,
+            389.59,
+            569.05,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_132",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            856.98,
+            451.58,
+            888.97,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_133",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1016.94,
+            451.58,
+            1048.93,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_134",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1176.9,
+            451.58,
+            1208.89,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_135",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            888.97,
+            389.59,
+            920.96,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_136",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1368.85,
+            451.58,
+            1400.84,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_137",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            856.98,
+            389.59,
+            888.97,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_138",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1112.92,
+            451.58,
+            1144.91,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_139",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1208.89,
+            451.58,
+            1240.88,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_140",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1144.91,
+            389.59,
+            1176.9,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_141",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            761.0,
+            389.59,
+            792.99,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_142",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            633.04,
+            451.58,
+            665.03,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_143",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            952.96,
+            451.58,
+            984.95,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_144",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            473.08,
+            451.58,
+            505.07,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_145",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1304.87,
+            389.59,
+            1336.86,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_146",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1176.9,
+            389.59,
+            1208.89,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_147",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            601.04,
+            389.59,
+            633.03,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_148",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            920.96,
+            451.58,
+            952.95,
+            513.56
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_149",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1016.94,
+            389.59,
+            1048.93,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_150",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            824.99,
+            513.56,
+            856.98,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_151",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1176.9,
+            513.56,
+            1208.89,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_152",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            665.03,
+            513.56,
+            697.02,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_153",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1368.85,
+            513.56,
+            1400.84,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_154",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            473.08,
+            513.56,
+            505.07,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_155",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            952.96,
+            513.56,
+            984.95,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_156",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1240.88,
+            513.56,
+            1272.8700000000001,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_157",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            409.09,
+            513.56,
+            441.08,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_158",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            920.96,
+            513.56,
+            952.95,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_159",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1016.94,
+            513.56,
+            1048.93,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_160",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            441.08,
+            513.56,
+            473.07,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_161",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            793.0,
+            513.56,
+            824.99,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_162",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            888.97,
+            513.56,
+            920.96,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_163",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1272.88,
+            513.56,
+            1304.8700000000001,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_164",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1304.87,
+            513.56,
+            1336.86,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_165",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            537.06,
+            513.56,
+            569.05,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_166",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            601.04,
+            513.56,
+            633.03,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_167",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1080.92,
+            513.56,
+            1112.91,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_168",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            761.0,
+            513.56,
+            792.99,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_169",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            729.01,
+            513.56,
+            761.0,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_170",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1048.93,
+            513.56,
+            1080.92,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_171",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            505.07,
+            513.56,
+            537.06,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_172",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1336.86,
+            513.56,
+            1368.85,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_173",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1208.89,
+            513.56,
+            1240.88,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_174",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            569.05,
+            513.56,
+            601.04,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_175",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1144.91,
+            513.56,
+            1176.9,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_176",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            697.02,
+            513.56,
+            729.01,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_177",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            633.04,
+            513.56,
+            665.03,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_178",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            1112.92,
+            513.56,
+            1144.91,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_179",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            984.95,
+            513.56,
+            1016.94,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_180",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_88",
+        "bbox": [
+            856.98,
+            513.56,
+            888.97,
+            575.54
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_182",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_181",
+        "bbox": [
+            1368.85,
+            389.59,
+            1400.84,
+            451.57
+        ],
+        "text": ""
+    },
+    {
+        "stimulus_id": "C-b-1",
+        "aoi_id": "aoi_186",
+        "aoi_label": "data-mark",
+        "aoi_type": "mark",
+        "family": "data",
+        "tag": "rect",
+        "parent_id": "aoi_181",
+        "bbox": [
+            1368.85,
+            389.59,
+            1400.84,
+            451.53999999999996
+        ],
+        "text": ""
+    }
+]
