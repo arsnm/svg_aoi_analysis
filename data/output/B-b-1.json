@@ -13,7 +13,10 @@
             1425.23,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M385.23,82.83v780h1040V82.83",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -29,7 +32,10 @@
             385.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -45,7 +51,10 @@
             489.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -61,7 +70,10 @@
             593.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -77,7 +89,10 @@
             697.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -93,7 +108,10 @@
             801.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -109,7 +127,10 @@
             905.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -125,7 +146,10 @@
             1009.230001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -141,7 +165,10 @@
             1113.2300010000001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -157,7 +184,10 @@
             1217.2300010000001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -173,7 +203,10 @@
             1321.2300010000001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -189,7 +222,10 @@
             1425.2300010000001,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -205,7 +241,10 @@
             1425.23,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M1425.23,862.83H385.23V82.83h1040",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -221,7 +260,10 @@
             1425.23,
             862.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -237,7 +279,10 @@
             1425.23,
             784.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -253,7 +298,10 @@
             1425.23,
             706.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -269,7 +317,10 @@
             1425.23,
             628.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -285,7 +336,10 @@
             1425.23,
             550.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -301,7 +355,10 @@
             1425.23,
             472.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -317,7 +374,10 @@
             1425.23,
             394.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -333,7 +393,10 @@
             1425.23,
             316.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -349,7 +412,10 @@
             1425.23,
             238.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -365,7 +431,10 @@
             1425.23,
             160.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -381,7 +450,10 @@
             1425.23,
             82.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -397,7 +469,10 @@
             1425.23,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M385.23,870.63v-7.8h1040v7.8",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -413,7 +488,10 @@
             385.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -429,7 +507,10 @@
             389.41,
             886.36
         ],
-        "text": "0"
+        "text": "0",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -445,7 +526,10 @@
             489.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -461,7 +545,10 @@
             493.41,
             886.36
         ],
-        "text": "2"
+        "text": "2",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -477,7 +564,10 @@
             593.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -493,7 +583,10 @@
             597.41,
             886.36
         ],
-        "text": "4"
+        "text": "4",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -509,7 +602,10 @@
             697.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -525,7 +621,10 @@
             701.41,
             886.36
         ],
-        "text": "6"
+        "text": "6",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -541,7 +640,10 @@
             801.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -557,7 +659,10 @@
             805.41,
             886.36
         ],
-        "text": "8"
+        "text": "8",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -573,7 +678,10 @@
             905.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -589,7 +697,10 @@
             913.6,
             886.36
         ],
-        "text": "10"
+        "text": "10",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -605,7 +716,10 @@
             1009.230001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -621,7 +735,10 @@
             1017.6,
             886.36
         ],
-        "text": "12"
+        "text": "12",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -637,7 +754,10 @@
             1113.2300010000001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -653,7 +773,10 @@
             1121.6,
             886.36
         ],
-        "text": "14"
+        "text": "14",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -669,7 +792,10 @@
             1217.2300010000001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -685,7 +811,10 @@
             1225.6,
             886.36
         ],
-        "text": "16"
+        "text": "16",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -701,7 +830,10 @@
             1321.2300010000001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -717,7 +849,10 @@
             1329.6,
             886.36
         ],
-        "text": "18"
+        "text": "18",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -733,7 +868,10 @@
             1425.2300010000001,
             870.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -749,13 +887,16 @@
             1433.6,
             886.36
         ],
-        "text": "20"
+        "text": "20",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
         "aoi_id": "aoi_68",
-        "aoi_label": "axis-label",
-        "aoi_type": "label",
+        "aoi_label": "axis-title",
+        "aoi_type": "title",
         "family": "axis",
         "tag": "text",
         "parent_id": "aoi_67",
@@ -765,7 +906,10 @@
             1242.0500000000002,
             921.97
         ],
-        "text": "MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)"
+        "text": "MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -781,7 +925,10 @@
             385.23,
             862.83
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M377.43,862.83h7.8V82.83h-7.8",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -797,7 +944,10 @@
             385.23,
             862.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -813,7 +963,10 @@
             374.1,
             869.59
         ],
-        "text": "0"
+        "text": "0",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -829,7 +982,10 @@
             385.23,
             784.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -845,7 +1001,10 @@
             374.1,
             791.59
         ],
-        "text": "2"
+        "text": "2",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -861,7 +1020,10 @@
             385.23,
             706.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -877,7 +1039,10 @@
             374.1,
             713.59
         ],
-        "text": "4"
+        "text": "4",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -893,7 +1058,10 @@
             385.23,
             628.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -909,7 +1077,10 @@
             374.1,
             635.59
         ],
-        "text": "6"
+        "text": "6",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -925,7 +1096,10 @@
             385.23,
             550.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -941,7 +1115,10 @@
             374.1,
             557.59
         ],
-        "text": "8"
+        "text": "8",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -957,7 +1134,10 @@
             385.23,
             472.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -973,7 +1153,10 @@
             374.67,
             479.59000000000003
         ],
-        "text": "10"
+        "text": "10",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -989,7 +1172,10 @@
             385.23,
             394.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1005,7 +1191,10 @@
             374.67,
             401.59000000000003
         ],
-        "text": "12"
+        "text": "12",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1021,7 +1210,10 @@
             385.23,
             316.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1037,7 +1229,10 @@
             374.67,
             323.59000000000003
         ],
-        "text": "14"
+        "text": "14",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1053,7 +1248,10 @@
             385.23,
             238.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1069,7 +1267,10 @@
             374.67,
             245.59
         ],
-        "text": "16"
+        "text": "16",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1085,7 +1286,10 @@
             385.23,
             160.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1101,7 +1305,10 @@
             374.67,
             167.59
         ],
-        "text": "18"
+        "text": "18",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1117,7 +1324,10 @@
             385.23,
             82.830001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1133,13 +1343,16 @@
             374.67,
             89.58999999999999
         ],
-        "text": "20"
+        "text": "20",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
         "aoi_id": "aoi_106",
-        "aoi_label": "axis-label",
-        "aoi_type": "label",
+        "aoi_label": "axis-title",
+        "aoi_type": "title",
         "family": "axis",
         "tag": "text",
         "parent_id": "aoi_105",
@@ -1149,7 +1362,10 @@
             350.79,
             1311.56
         ],
-        "text": "MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)"
+        "text": "MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1165,7 +1381,12 @@
             1069.03,
             454.66
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1181,7 +1402,12 @@
             1308.23,
             325.66
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1197,7 +1423,12 @@
             1141.83,
             479.95
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1213,7 +1444,12 @@
             933.8299999999999,
             594.67
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "GRADUATION": "Yes"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1229,7 +1465,12 @@
             1157.43,
             523.67
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "GRADUATION": "Yes"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1245,7 +1486,12 @@
             1037.83,
             516.36
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "GRADUATION": "Yes"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1261,7 +1507,12 @@
             788.2299999999999,
             202.67000000000002
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1277,7 +1528,12 @@
             725.8299999999999,
             670.3
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1293,7 +1549,12 @@
             980.63,
             649.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1309,7 +1570,12 @@
             788.2299999999999,
             455.42
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "GRADUATION": "No"
+        }
     },
     {
         "stimulus_id": "B-b-1",
@@ -1325,7 +1591,10 @@
             1622.95,
             104.67
         ],
-        "text": "STUDENT ENROLLED"
+        "text": "STUDENT ENROLLED",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1341,7 +1610,10 @@
             1622.95,
             125.6
         ],
-        "text": "IN COLLEGE AFTER"
+        "text": "IN COLLEGE AFTER",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1357,7 +1629,10 @@
             1557.43,
             146.52999999999997
         ],
-        "text": "GRADUATION"
+        "text": "GRADUATION",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1373,7 +1648,10 @@
             1469.03,
             201.10000000000002
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1389,7 +1667,10 @@
             1507.994,
             200.684
         ],
-        "text": "No"
+        "text": "No",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1405,7 +1686,10 @@
             1469.03,
             252.3
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-b-1",
@@ -1421,6 +1705,9 @@
             1519.2259999999999,
             251.884
         ],
-        "text": "Yes"
+        "text": "Yes",
+        "fill": "",
+        "d": "",
+        "category": null
     }
 ]

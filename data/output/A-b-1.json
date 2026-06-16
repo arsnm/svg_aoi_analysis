@@ -13,7 +13,10 @@
             1506.0,
             915.91
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -29,7 +32,10 @@
             1052.3,
             605.21
         ],
-        "text": ""
+        "text": "",
+        "fill": "#f0f5f7",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -45,7 +51,10 @@
             495.38,
             98.73
         ],
-        "text": "SUNHAVEN"
+        "text": "SUNHAVEN",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -61,7 +70,10 @@
             1052.3,
             912.01
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fcf0f6",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -77,7 +89,10 @@
             504.74,
             631.73
         ],
-        "text": "STONEFELL"
+        "text": "STONEFELL",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -93,7 +108,10 @@
             1288.9,
             737.8100000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#f0fcfa",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -109,7 +127,10 @@
             1146.94,
             98.73
         ],
-        "text": "RAVENLAND"
+        "text": "RAVENLAND",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -125,7 +146,10 @@
             1506.0,
             737.8100000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fcfaf0",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -141,7 +165,10 @@
             1374.1799999999998,
             98.73
         ],
-        "text": "HIGHMOOR"
+        "text": "HIGHMOOR",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -157,7 +184,10 @@
             1506.0,
             912.01
         ],
-        "text": ""
+        "text": "",
+        "fill": "#f7f0ed",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -173,7 +203,10 @@
             1146.94,
             764.33
         ],
-        "text": "FROSTVALE"
+        "text": "FROSTVALE",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -189,7 +222,10 @@
             921.0,
             592.21
         ],
-        "text": ""
+        "text": "",
+        "fill": "#07b",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -205,7 +241,10 @@
             502.14,
             123.17
         ],
-        "text": "Eastwood"
+        "text": "Eastwood",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -221,7 +260,10 @@
             1039.3,
             592.21
         ],
-        "text": ""
+        "text": "",
+        "fill": "#07b",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -237,7 +279,10 @@
             1008.62,
             123.17
         ],
-        "text": "Westbrook"
+        "text": "Westbrook",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -253,7 +298,10 @@
             957.4,
             899.01
         ],
-        "text": ""
+        "text": "",
+        "fill": "#ed3584",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -269,7 +317,10 @@
             519.3,
             656.17
         ],
-        "text": "Thornfield"
+        "text": "Thornfield",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -285,7 +336,10 @@
             1039.3,
             899.01
         ],
-        "text": ""
+        "text": "",
+        "fill": "#ed3584",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -301,7 +355,10 @@
             1036.44,
             656.17
         ],
-        "text": "Darkwood"
+        "text": "Darkwood",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -317,7 +374,10 @@
             1275.9,
             620.8100000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#009377",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -333,7 +393,10 @@
             1144.3400000000001,
             123.17
         ],
-        "text": "Westwood"
+        "text": "Westwood",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -349,7 +412,10 @@
             1275.9,
             724.8100000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#009377",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -365,7 +431,10 @@
             1161.5,
             643.17
         ],
-        "text": "Silverhill"
+        "text": "Silverhill",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -381,7 +450,10 @@
             1493.0,
             611.71
         ],
-        "text": ""
+        "text": "",
+        "fill": "#ed8",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -397,7 +469,10 @@
             1398.1,
             123.17
         ],
-        "text": "Freshwater"
+        "text": "Freshwater",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -413,7 +488,10 @@
             1493.0,
             724.8100000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#ed8",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -429,7 +507,10 @@
             1398.1,
             634.07
         ],
-        "text": "Silverwood"
+        "text": "Silverwood",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -445,7 +526,10 @@
             1278.5,
             899.01
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -461,7 +545,10 @@
             1161.5,
             788.78
         ],
-        "text": "Greenridge"
+        "text": "Greenridge",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -477,7 +564,10 @@
             1493.0,
             899.01
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "A-b-1",
@@ -493,6 +583,9 @@
             1366.1200000000001,
             788.78
         ],
-        "text": "Northwood"
+        "text": "Northwood",
+        "fill": "",
+        "d": "",
+        "category": null
     }
 ]

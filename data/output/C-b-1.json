@@ -13,7 +13,10 @@
             1532.8899999999999,
             244.01
         ],
-        "text": "RELATIVE"
+        "text": "RELATIVE",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -29,7 +32,10 @@
             1576.57,
             268.4
         ],
-        "text": "HUMIDITY (%)"
+        "text": "HUMIDITY (%)",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -45,7 +51,10 @@
             1475.01,
             364.96
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -61,7 +70,10 @@
             1475.01,
             419.64
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -77,7 +89,10 @@
             1475.01,
             474.31
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -93,7 +108,10 @@
             1475.01,
             528.99
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -109,7 +127,10 @@
             1475.01,
             583.67
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -125,7 +146,10 @@
             1475.01,
             638.3399999999999
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -141,7 +165,10 @@
             1475.01,
             693.02
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fde725",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -157,7 +184,10 @@
             1548.9879999999998,
             320.22400000000005
         ],
-        "text": "100%"
+        "text": "100%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -173,7 +203,10 @@
             1490.39,
             310.28000099999997
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -189,7 +222,10 @@
             1537.7559999999999,
             374.904
         ],
-        "text": "90%"
+        "text": "90%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -205,7 +241,10 @@
             1490.39,
             364.960001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -221,7 +260,10 @@
             1537.7559999999999,
             429.58399999999995
         ],
-        "text": "75%"
+        "text": "75%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -237,7 +279,10 @@
             1490.39,
             419.630001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -253,7 +298,10 @@
             1537.7559999999999,
             484.254
         ],
-        "text": "60%"
+        "text": "60%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -269,7 +317,10 @@
             1490.39,
             474.310001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -285,7 +336,10 @@
             1537.7559999999999,
             538.9340000000001
         ],
-        "text": "45%"
+        "text": "45%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -301,7 +355,10 @@
             1490.39,
             528.990001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -317,7 +374,10 @@
             1537.7559999999999,
             593.604
         ],
-        "text": "30%"
+        "text": "30%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -333,7 +393,10 @@
             1490.39,
             583.660001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -349,7 +412,10 @@
             1537.7559999999999,
             648.284
         ],
-        "text": "15%"
+        "text": "15%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -365,7 +431,10 @@
             1490.39,
             638.340001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -381,7 +450,10 @@
             1526.524,
             702.9540000000001
         ],
-        "text": "0%"
+        "text": "0%",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -397,7 +469,10 @@
             1490.39,
             693.010001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -413,7 +488,10 @@
             429.08,
             599.22
         ],
-        "text": "1"
+        "text": "1",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -429,7 +507,10 @@
             461.07,
             599.22
         ],
-        "text": "2"
+        "text": "2",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -445,7 +526,10 @@
             493.07,
             599.22
         ],
-        "text": "3"
+        "text": "3",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -461,7 +545,10 @@
             525.0600000000001,
             599.22
         ],
-        "text": "4"
+        "text": "4",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -477,7 +564,10 @@
             557.0500000000001,
             599.22
         ],
-        "text": "5"
+        "text": "5",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -493,7 +583,10 @@
             589.0400000000001,
             599.22
         ],
-        "text": "6"
+        "text": "6",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -509,7 +602,10 @@
             621.0300000000001,
             599.22
         ],
-        "text": "7"
+        "text": "7",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -525,7 +621,10 @@
             653.0300000000001,
             599.22
         ],
-        "text": "8"
+        "text": "8",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -541,7 +640,10 @@
             685.0200000000001,
             599.22
         ],
-        "text": "9"
+        "text": "9",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -557,7 +659,10 @@
             721.0,
             599.22
         ],
-        "text": "10"
+        "text": "10",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -573,7 +678,10 @@
             752.99,
             599.22
         ],
-        "text": "11"
+        "text": "11",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -589,7 +697,10 @@
             784.99,
             599.22
         ],
-        "text": "12"
+        "text": "12",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -605,7 +716,10 @@
             816.98,
             599.22
         ],
-        "text": "13"
+        "text": "13",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -621,7 +735,10 @@
             848.97,
             599.22
         ],
-        "text": "14"
+        "text": "14",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -637,7 +754,10 @@
             880.96,
             599.22
         ],
-        "text": "15"
+        "text": "15",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -653,7 +773,10 @@
             912.95,
             599.22
         ],
-        "text": "16"
+        "text": "16",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -669,7 +792,10 @@
             944.95,
             599.22
         ],
-        "text": "17"
+        "text": "17",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -685,7 +811,10 @@
             976.9399999999999,
             599.22
         ],
-        "text": "18"
+        "text": "18",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -701,7 +830,10 @@
             1008.93,
             599.22
         ],
-        "text": "19"
+        "text": "19",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -717,7 +849,10 @@
             1040.92,
             599.22
         ],
-        "text": "20"
+        "text": "20",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -733,7 +868,10 @@
             1072.91,
             599.22
         ],
-        "text": "21"
+        "text": "21",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -749,7 +887,10 @@
             1104.91,
             599.22
         ],
-        "text": "22"
+        "text": "22",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -765,7 +906,10 @@
             1136.9,
             599.22
         ],
-        "text": "23"
+        "text": "23",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -781,7 +925,10 @@
             1168.89,
             599.22
         ],
-        "text": "24"
+        "text": "24",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -797,7 +944,10 @@
             1200.88,
             599.22
         ],
-        "text": "25"
+        "text": "25",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -813,7 +963,10 @@
             1232.8700000000001,
             599.22
         ],
-        "text": "26"
+        "text": "26",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -829,7 +982,10 @@
             1264.8700000000001,
             599.22
         ],
-        "text": "27"
+        "text": "27",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -845,7 +1001,10 @@
             1296.8600000000001,
             599.22
         ],
-        "text": "28"
+        "text": "28",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -861,7 +1020,10 @@
             1328.8500000000001,
             599.22
         ],
-        "text": "29"
+        "text": "29",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -877,7 +1039,10 @@
             1360.8400000000001,
             599.22
         ],
-        "text": "30"
+        "text": "30",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -893,7 +1058,10 @@
             1392.8300000000002,
             599.22
         ],
-        "text": "31"
+        "text": "31",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -909,7 +1077,10 @@
             907.5899999999999,
             630.53
         ],
-        "text": "DAYS"
+        "text": "DAYS",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -925,7 +1096,10 @@
             398.8,
             427.03000000000003
         ],
-        "text": "Jun"
+        "text": "Jun",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -941,7 +1115,10 @@
             403.0192,
             486.37
         ],
-        "text": "Jul"
+        "text": "Jul",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -957,7 +1134,10 @@
             396.96999999999997,
             551.0
         ],
-        "text": "Aug"
+        "text": "Aug",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -973,7 +1153,10 @@
             369.24,
             543.2
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M369.24,419.23h-4.03c-2.2,0-4,1.8-4,4v115.97c0,2.2,1.8,4,4,4h4.03",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -989,7 +1172,10 @@
             369.25,
             522.75
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -1005,7 +1191,10 @@
             379.79,
             586.31
         ],
-        "text": "SUMMER"
+        "text": "SUMMER",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -1021,7 +1210,10 @@
             379.79,
             586.31
         ],
-        "text": "SUMMER"
+        "text": "SUMMER",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "C-b-1",
@@ -1037,7 +1229,12 @@
             952.95,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1053,7 +1250,12 @@
             441.08,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1069,7 +1271,12 @@
             824.99,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1085,7 +1292,12 @@
             792.99,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1101,7 +1313,12 @@
             1144.91,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1117,7 +1334,12 @@
             729.01,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1133,7 +1355,12 @@
             601.04,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1149,7 +1376,12 @@
             1080.92,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1165,7 +1397,12 @@
             1176.9,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1181,7 +1418,12 @@
             633.03,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1197,7 +1439,12 @@
             856.98,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1213,7 +1460,12 @@
             1304.8700000000001,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1229,7 +1481,12 @@
             824.99,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1245,7 +1502,12 @@
             441.08,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1261,7 +1523,12 @@
             1272.8700000000001,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1277,7 +1544,12 @@
             537.06,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1293,7 +1565,12 @@
             856.98,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1309,7 +1586,12 @@
             761.0,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1325,7 +1607,12 @@
             697.02,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1341,7 +1628,12 @@
             1080.92,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1357,7 +1649,12 @@
             697.02,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1373,7 +1670,12 @@
             1368.85,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1389,7 +1691,12 @@
             569.05,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1405,7 +1712,12 @@
             665.03,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1421,7 +1733,12 @@
             1240.88,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1437,7 +1754,12 @@
             984.95,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1453,7 +1775,12 @@
             1112.91,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1469,7 +1796,12 @@
             1016.94,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1485,7 +1817,12 @@
             473.07,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1501,7 +1838,12 @@
             1336.86,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1517,7 +1859,12 @@
             473.07,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1533,7 +1880,12 @@
             1272.8700000000001,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1549,7 +1901,12 @@
             1304.8700000000001,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1565,7 +1922,12 @@
             601.04,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1581,7 +1943,12 @@
             920.96,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1597,7 +1964,12 @@
             1016.94,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1613,7 +1985,12 @@
             1112.91,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1629,7 +2006,12 @@
             537.06,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1645,7 +2027,12 @@
             505.07,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1661,7 +2048,12 @@
             761.0,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1677,7 +2069,12 @@
             729.01,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1693,7 +2090,12 @@
             1368.85,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1709,7 +2111,12 @@
             569.05,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1725,7 +2132,12 @@
             888.97,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1741,7 +2153,12 @@
             1048.93,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1757,7 +2174,12 @@
             1208.89,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1773,7 +2195,12 @@
             920.96,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1789,7 +2216,12 @@
             1400.84,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1805,7 +2237,12 @@
             888.97,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1821,7 +2258,12 @@
             1144.91,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1837,7 +2279,12 @@
             1240.88,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1853,7 +2300,12 @@
             1176.9,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1869,7 +2321,12 @@
             792.99,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1885,7 +2342,12 @@
             665.03,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1901,7 +2363,12 @@
             984.95,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1917,7 +2384,12 @@
             505.07,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1933,7 +2405,12 @@
             1336.86,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1949,7 +2426,12 @@
             1208.89,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1965,7 +2447,12 @@
             633.03,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1981,7 +2468,12 @@
             952.95,
             513.56
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -1997,7 +2489,12 @@
             1048.93,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2013,7 +2510,12 @@
             856.98,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2029,7 +2531,12 @@
             1208.89,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2045,7 +2552,12 @@
             697.02,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2061,7 +2573,12 @@
             1400.84,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2077,7 +2594,12 @@
             505.07,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2093,7 +2615,12 @@
             984.95,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#37477b",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2109,7 +2636,12 @@
             1272.8700000000001,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2125,7 +2657,12 @@
             441.08,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2141,7 +2678,12 @@
             952.95,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2157,7 +2699,12 @@
             1048.93,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2173,7 +2720,12 @@
             473.07,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2189,7 +2741,12 @@
             824.99,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2205,7 +2762,12 @@
             920.96,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2221,7 +2783,12 @@
             1304.8700000000001,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2237,7 +2804,12 @@
             1336.86,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2253,7 +2825,12 @@
             569.05,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2269,7 +2846,12 @@
             633.03,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2285,7 +2867,12 @@
             1112.91,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2301,7 +2888,12 @@
             792.99,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2317,7 +2909,12 @@
             761.0,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2333,7 +2930,12 @@
             1080.92,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2349,7 +2951,12 @@
             537.06,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2365,7 +2972,12 @@
             1368.85,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2381,7 +2993,12 @@
             1240.88,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2397,7 +3014,12 @@
             601.04,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#bade28",
+        "d": "",
+        "category": {
+            "default": "30%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2413,7 +3035,12 @@
             1176.9,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2429,7 +3056,12 @@
             729.01,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#70cf57",
+        "d": "",
+        "category": {
+            "default": "45%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2445,7 +3077,12 @@
             665.03,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#32b67a",
+        "d": "",
+        "category": {
+            "default": "60%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2461,7 +3098,12 @@
             1144.91,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fde725",
+        "d": "",
+        "category": {
+            "default": "15%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2477,7 +3119,12 @@
             1016.94,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#306a8e",
+        "d": "",
+        "category": {
+            "default": "90%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2493,7 +3140,12 @@
             888.97,
             575.54
         ],
-        "text": ""
+        "text": "",
+        "fill": "#1f948c",
+        "d": "",
+        "category": {
+            "default": "75%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2509,7 +3161,12 @@
             1400.84,
             451.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#f2f2f2",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     },
     {
         "stimulus_id": "C-b-1",
@@ -2525,6 +3182,11 @@
             1400.84,
             451.53999999999996
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": {
+            "default": "100%"
+        }
     }
 ]

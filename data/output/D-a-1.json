@@ -13,7 +13,10 @@
             1537.22,
             151.31
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -29,7 +32,10 @@
             1547.332,
             146.704
         ],
-        "text": "Line 1"
+        "text": "Line 1",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -45,7 +51,10 @@
             1451.37,
             136.930001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -61,7 +70,10 @@
             1459.72,
             146.88
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -77,7 +89,10 @@
             1537.22,
             200.19
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -93,7 +108,10 @@
             1547.332,
             195.584
         ],
-        "text": "Line 2"
+        "text": "Line 2",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -109,7 +127,10 @@
             1451.37,
             185.800001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -125,7 +146,10 @@
             1459.72,
             195.76000000000002
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -141,7 +165,10 @@
             1542.7,
             249.06
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -157,7 +184,10 @@
             1547.332,
             244.454
         ],
-        "text": "Line 3"
+        "text": "Line 3",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -173,7 +203,10 @@
             1451.37,
             234.680001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -189,7 +222,10 @@
             1459.72,
             244.63
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -205,7 +241,10 @@
             1542.7,
             297.94
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -221,7 +260,10 @@
             1547.332,
             293.33399999999995
         ],
-        "text": "Line 4"
+        "text": "Line 4",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -237,7 +279,10 @@
             1451.37,
             283.560001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -253,7 +298,105 @@
             1459.72,
             293.51
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_27",
+        "aoi_label": "data-link",
+        "aoi_type": "link",
+        "family": "data",
+        "tag": "g",
+        "parent_id": "aoi_1",
+        "bbox": [
+            437.88,
+            248.55000000000013,
+            1262.68,
+            748.08
+        ],
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_28",
+        "aoi_label": "data-link",
+        "aoi_type": "link",
+        "family": "data",
+        "tag": "g",
+        "parent_id": "aoi_27",
+        "bbox": [
+            437.88,
+            362.12,
+            1192.9399999999998,
+            682.52
+        ],
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_32",
+        "aoi_label": "data-link",
+        "aoi_type": "link",
+        "family": "data",
+        "tag": "g",
+        "parent_id": "aoi_27",
+        "bbox": [
+            494.9,
+            248.55000000000013,
+            1026.33,
+            748.08
+        ],
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_36",
+        "aoi_label": "data-link",
+        "aoi_type": "link",
+        "family": "data",
+        "tag": "g",
+        "parent_id": "aoi_27",
+        "bbox": [
+            818.68,
+            306.52,
+            1262.68,
+            492.77
+        ],
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
+    },
+    {
+        "stimulus_id": "D-a-1",
+        "aoi_id": "aoi_40",
+        "aoi_label": "data-link",
+        "aoi_type": "link",
+        "family": "data",
+        "tag": "g",
+        "parent_id": "aoi_27",
+        "bbox": [
+            578.64,
+            393.77000000000004,
+            1245.7,
+            426.77000000000004
+        ],
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -269,7 +412,10 @@
             1145.2,
             644.6
         ],
-        "text": ""
+        "text": "",
+        "fill": "#c67",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -285,7 +431,10 @@
             1184.0,
             639.84
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -301,7 +450,10 @@
             1189.31,
             635.6800000000001
         ],
-        "text": "Ciryne"
+        "text": "Ciryne",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -317,7 +469,10 @@
             628.25,
             687.53
         ],
-        "text": ""
+        "text": "",
+        "fill": "#c67",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -333,7 +488,10 @@
             668.32,
             682.7700000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -349,7 +507,10 @@
             672.36,
             678.61
         ],
-        "text": "Kelune"
+        "text": "Kelune",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -365,7 +526,10 @@
             1002.09,
             464.78
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a49",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -381,7 +545,10 @@
             999.5699999999999,
             484.65999999999997
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -397,7 +564,10 @@
             1005.3100000000001,
             480.5
         ],
-        "text": "Varion"
+        "text": "Varion",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -413,7 +583,10 @@
             1197.95,
             367.13
         ],
-        "text": ""
+        "text": "",
+        "fill": "#c67",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -429,7 +602,10 @@
             1240.68,
             372.53999999999996
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -445,7 +621,10 @@
             1245.06,
             368.38
         ],
-        "text": "Mareth"
+        "text": "Mareth",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -461,7 +640,10 @@
             870.17,
             687.53
         ],
-        "text": ""
+        "text": "",
+        "fill": "#c67",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -477,7 +659,10 @@
             899.29,
             682.7700000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -493,7 +678,10 @@
             907.76,
             678.61
         ],
-        "text": "Velis"
+        "text": "Velis",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -509,7 +697,10 @@
             587.98,
             407.03
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -525,7 +716,10 @@
             586.99,
             397.85999999999996
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -541,7 +735,10 @@
             586.24,
             393.7
         ],
-        "text": "Delvar"
+        "text": "Delvar",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -557,7 +754,10 @@
             1145.2,
             497.78
         ],
-        "text": ""
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -573,7 +773,10 @@
             1185.53,
             518.11
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -589,7 +792,10 @@
             1189.31,
             513.96
         ],
-        "text": "Nareth"
+        "text": "Nareth",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -605,7 +811,10 @@
             1155.75,
             431.78
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -621,7 +830,10 @@
             1150.74,
             449.52
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -637,7 +849,10 @@
             1156.2299999999998,
             445.35999999999996
         ],
-        "text": "Orsian"
+        "text": "Orsian",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -653,7 +868,10 @@
             1197.95,
             431.78
         ],
-        "text": ""
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -669,7 +887,10 @@
             1239.26,
             446.65999999999997
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -685,7 +906,10 @@
             1245.06,
             442.5
         ],
-        "text": "Kelyth"
+        "text": "Kelyth",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -701,7 +925,10 @@
             823.6899999999999,
             316.28
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a49",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -717,7 +944,10 @@
             818.68,
             306.52
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -733,7 +963,10 @@
             822.2,
             302.36999999999995
         ],
-        "text": "Tarvos"
+        "text": "Tarvos",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -749,7 +982,10 @@
             828.7,
             407.03
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -765,7 +1001,10 @@
             844.25,
             398.52
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -781,7 +1020,10 @@
             846.61,
             394.35999999999996
         ],
-        "text": "Caelos"
+        "text": "Caelos",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -797,7 +1039,10 @@
             1056.4,
             687.53
         ],
-        "text": ""
+        "text": "",
+        "fill": "#c67",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -813,7 +1058,10 @@
             1049.89,
             705.2700000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -829,7 +1077,10 @@
             1053.2,
             701.11
         ],
-        "text": "Corvane"
+        "text": "Corvane",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -845,7 +1096,10 @@
             499.90999999999997,
             687.53
         ],
-        "text": ""
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -861,7 +1115,10 @@
             489.89,
             692.69
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -877,7 +1134,10 @@
             490.90999999999997,
             688.5300000000001
         ],
-        "text": "Thyssar"
+        "text": "Thyssar",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -893,7 +1153,10 @@
             628.25,
             407.03
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -909,7 +1172,10 @@
             641.01,
             397.85999999999996
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -925,7 +1191,10 @@
             649.44,
             393.71
         ],
-        "text": "Tirros"
+        "text": "Tirros",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -941,7 +1210,10 @@
             673.33,
             570.16
         ],
-        "text": ""
+        "text": "",
+        "fill": "#993",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -957,7 +1229,10 @@
             707.73,
             589.38
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -973,7 +1248,10 @@
             709.12,
             585.23
         ],
-        "text": "Daryn"
+        "text": "Daryn",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -989,7 +1267,10 @@
             1092.45,
             407.03
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1005,7 +1286,10 @@
             1112.89,
             397.38
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1021,7 +1305,10 @@
             1106.12,
             393.21999999999997
         ],
-        "text": "Nerath"
+        "text": "Nerath",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1037,7 +1324,10 @@
             892.0,
             316.28
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a49",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1053,7 +1343,10 @@
             933.77,
             307.77
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1069,7 +1362,10 @@
             939.56,
             303.60999999999996
         ],
-        "text": "Eryndor"
+        "text": "Eryndor",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1085,7 +1381,10 @@
             442.89,
             629.66
         ],
-        "text": ""
+        "text": "",
+        "fill": "#c67",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1101,7 +1400,10 @@
             463.14,
             620.0
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1117,7 +1419,10 @@
             464.88,
             615.84
         ],
-        "text": "Volmar"
+        "text": "Volmar",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1133,7 +1438,10 @@
             832.32,
             468.45
         ],
-        "text": ""
+        "text": "",
+        "fill": "#993",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1149,7 +1457,10 @@
             827.3,
             463.34999999999997
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1165,7 +1476,10 @@
             828.5699999999999,
             459.2
         ],
-        "text": "Cendara"
+        "text": "Cendara",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1181,7 +1495,10 @@
             941.05,
             429.03
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1197,7 +1514,10 @@
             942.5200000000001,
             424.88
         ],
-        "text": "Arun"
+        "text": "Arun",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1213,7 +1533,10 @@
             1250.7,
             398.78
         ],
-        "text": ""
+        "text": "",
+        "fill": "#d86830",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1229,7 +1552,10 @@
             1294.3,
             394.02
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1245,7 +1571,10 @@
             1301.8300000000002,
             389.85999999999996
         ],
-        "text": "Lunaris"
+        "text": "Lunaris",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1261,7 +1590,10 @@
             1031.66,
             258.53000000000003
         ],
-        "text": ""
+        "text": "",
+        "fill": "#993",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1277,7 +1609,10 @@
             1065.2900000000002,
             253.76999999999998
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1293,7 +1628,10 @@
             1079.8500000000001,
             249.47
         ],
-        "text": "Belaris"
+        "text": "Belaris",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1309,7 +1647,10 @@
             499.90999999999997,
             753.09
         ],
-        "text": ""
+        "text": "",
+        "fill": "#993",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1325,7 +1666,10 @@
             540.8299999999999,
             748.32
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1341,7 +1685,10 @@
             508.90999999999997,
             744.1700000000001
         ],
-        "text": "W"
+        "text": "W",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1357,7 +1704,10 @@
             540.1500000000001,
             744.1700000000001
         ],
-        "text": "ezen"
+        "text": "ezen",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1373,7 +1723,10 @@
             1272.7,
             497.78
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a49",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1389,7 +1742,10 @@
             1291.47,
             487.28
         ],
-        "text": ""
+        "text": "",
+        "fill": "#fff",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "D-a-1",
@@ -1405,6 +1761,9 @@
             1288.8799999999999,
             483.11999999999995
         ],
-        "text": "Vaelun"
+        "text": "Vaelun",
+        "fill": "",
+        "d": "",
+        "category": null
     }
 ]

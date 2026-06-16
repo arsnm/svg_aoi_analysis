@@ -263,9 +263,9 @@
                 <g id="aoi_67_axis-title" data-type="title" data-original-tag="g">
                     <rect x="608.69" y="903.7700000000001" width="633.3600000000001" height="18.199999999999932" fill="none" stroke="red" stroke-width="1" />
                     <text x="608.69" y="901.7700000000001" font-size="10" fill="blue" font-family="sans-serif">axis-title (title)</text>
-                    <g id="aoi_68_axis-label" data-type="label" data-original-tag="text">
+                    <g id="aoi_68_axis-title" data-type="title" data-original-tag="text">
                         <rect x="608.69" y="903.7700000000001" width="633.3600000000001" height="18.199999999999932" fill="none" stroke="red" stroke-width="1" />
-                        <text x="608.69" y="901.7700000000001" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)"</text>
+                        <text x="608.69" y="901.7700000000001" font-size="10" fill="blue" font-family="sans-serif">axis-title (title) | "MATH SCORE AT BEGINING OF HIGHSCHOOL (on a 20-point scale)"</text>
                     </g>
                 </g>
             </g>
@@ -415,9 +415,9 @@
                 <g id="aoi_105_axis-title" data-type="title" data-original-tag="g">
                     <rect x="332.59000000000003" y="743.72" width="18.19999999999999" height="567.8399999999999" fill="none" stroke="red" stroke-width="1" />
                     <text x="332.59000000000003" y="741.72" font-size="10" fill="blue" font-family="sans-serif">axis-title (title)</text>
-                    <g id="aoi_106_axis-label" data-type="label" data-original-tag="text">
+                    <g id="aoi_106_axis-title" data-type="title" data-original-tag="text">
                         <rect x="332.59000000000003" y="743.72" width="18.19999999999999" height="567.8399999999999" fill="none" stroke="red" stroke-width="1" />
-                        <text x="332.59000000000003" y="741.72" font-size="10" fill="blue" font-family="sans-serif">axis-label (label) | "MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)"</text>
+                        <text x="332.59000000000003" y="741.72" font-size="10" fill="blue" font-family="sans-serif">axis-title (title) | "MATH SCORE AT END OF HIGHSCHOO (on a 20-point scale)"</text>
                     </g>
                 </g>
             </g>
