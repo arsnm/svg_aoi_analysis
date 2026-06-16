@@ -93,6 +93,7 @@ KEYWORD_MAP = {
     "bar":                  "data-mark",
     "cell":                 "data-mark",
     "tick":                 "data-mark",
+    "lines-paths":       "data-link",
 
     # Links / nodes
     "line-":                "data-link",
