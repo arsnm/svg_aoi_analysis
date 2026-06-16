@@ -102,9 +102,9 @@
                 </g>
             </g>
         </g>
-        <g id="aoi_27_unknown" data-type="unknown" data-original-tag="g">
+        <g id="aoi_27_data-link" data-type="link" data-original-tag="g">
             <rect x="437.88" y="248.55000000000013" width="824.8000000000001" height="499.5299999999999" fill="none" stroke="red" stroke-width="1" />
-            <text x="437.88" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <text x="437.88" y="246.55000000000013" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>
             <g id="aoi_28_data-link" data-type="link" data-original-tag="g">
                 <rect x="437.88" y="362.12" width="755.0599999999998" height="320.4" fill="none" stroke="red" stroke-width="1" />
                 <text x="437.88" y="360.12" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>

@@ -2,9 +2,9 @@
     <g id="aoi_1_data-container" data-type="container" data-original-tag="svg">
         <rect x="413.2" y="170.63" width="1130.4239999999998" height="557.44" fill="none" stroke="red" stroke-width="1" />
         <text x="413.2" y="168.63" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
-        <g id="aoi_2_unknown" data-type="unknown" data-original-tag="g">
+        <g id="aoi_2_data-container" data-type="container" data-original-tag="g">
             <rect x="413.2" y="330.8" width="727.2460000000001" height="397.27000000000004" fill="none" stroke="red" stroke-width="1" />
-            <text x="413.2" y="328.8" font-size="10" fill="blue" font-family="sans-serif">unknown (unknown)</text>
+            <text x="413.2" y="328.8" font-size="10" fill="blue" font-family="sans-serif">data-container (container)</text>
             <g id="aoi_3_data-link" data-type="link" data-original-tag="g">
                 <rect x="474.97999964213494" y="363.42999903255554" width="616.7300012455494" height="331.06000194579167" fill="none" stroke="red" stroke-width="1" />
                 <text x="474.97999964213494" y="361.42999903255554" font-size="10" fill="blue" font-family="sans-serif">data-link (link)</text>

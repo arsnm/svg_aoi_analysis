@@ -13,7 +13,10 @@
             1425.57,
             875.13
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M385.57,875.13v-7.8h1040v7.8",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -29,7 +32,10 @@
             498.8540778876243,
             921.4201882836948
         ],
-        "text": "#167"
+        "text": "#167",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -45,7 +51,10 @@
             706.8540778876244,
             921.4201882836948
         ],
-        "text": "#190"
+        "text": "#190",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -61,7 +70,10 @@
             914.8540778876244,
             921.4201882836948
         ],
-        "text": "#216"
+        "text": "#216",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -77,7 +89,10 @@
             1122.8540778876245,
             921.4201882836948
         ],
-        "text": "#300"
+        "text": "#300",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -93,7 +108,10 @@
             1330.8540778876245,
             921.4201882836948
         ],
-        "text": "#298"
+        "text": "#298",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -109,7 +127,10 @@
             1523.84,
             903.47
         ],
-        "text": "FOOD ITEM"
+        "text": "FOOD ITEM",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -125,7 +146,10 @@
             385.57,
             867.33
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M377.77,867.33h7.8V87.33h-7.8",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -141,7 +165,10 @@
             374.43,
             874.09
         ],
-        "text": "0"
+        "text": "0",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -157,7 +184,10 @@
             374.43,
             762.66
         ],
-        "text": "5"
+        "text": "5",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -173,7 +203,10 @@
             375.01000000000005,
             651.23
         ],
-        "text": "10"
+        "text": "10",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -189,7 +222,10 @@
             375.01000000000005,
             539.8000000000001
         ],
-        "text": "15"
+        "text": "15",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -205,7 +241,10 @@
             375.01000000000005,
             428.37
         ],
-        "text": "20"
+        "text": "20",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -221,7 +260,10 @@
             375.01000000000005,
             316.94
         ],
-        "text": "25"
+        "text": "25",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -237,7 +279,10 @@
             375.01000000000005,
             205.51
         ],
-        "text": "30"
+        "text": "30",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -253,7 +298,10 @@
             375.01000000000005,
             94.08999999999999
         ],
-        "text": "35"
+        "text": "35",
+        "fill": "#333",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -269,7 +317,10 @@
             353.79,
             896.29
         ],
-        "text": "NUTRITIONAL VALUE (g/100g)"
+        "text": "NUTRITIONAL VALUE (g/100g)",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -285,7 +336,10 @@
             1425.57,
             867.33
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "M1425.57,867.33H385.57V87.33h1040",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -301,7 +355,10 @@
             1425.57,
             867.330001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -317,7 +374,10 @@
             1425.57,
             755.900001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -333,7 +393,10 @@
             1425.57,
             644.470001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -349,7 +412,10 @@
             1425.57,
             533.040001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -365,7 +431,10 @@
             1425.57,
             421.610001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -381,7 +450,10 @@
             1425.57,
             310.180001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -397,7 +469,10 @@
             1425.57,
             198.760001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -413,7 +488,10 @@
             1425.57,
             87.330001
         ],
-        "text": ""
+        "text": "",
+        "fill": "none",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -429,7 +507,13 @@
             461.76,
             723.32
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Protein"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -445,7 +529,13 @@
             497.65,
             217.07
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "M489.57,217.07s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Carbohydrate"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -461,7 +551,13 @@
             529.6800000000001,
             762.71
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Fat"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -477,7 +573,13 @@
             669.76,
             682.47
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Protein"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -493,7 +595,13 @@
             705.6500000000001,
             185.87
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "M697.57,185.87s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Carbohydrate"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -509,7 +617,13 @@
             737.6800000000001,
             755.57
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Fat"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -525,7 +639,13 @@
             877.76,
             708.19
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Protein"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -541,7 +661,13 @@
             913.6500000000001,
             254.95
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "M905.57,254.95s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Carbohydrate"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -557,7 +683,13 @@
             945.6800000000001,
             641.0300000000001
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "dishes",
+            "TYPES OF NUTRIENTS": "Fat"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -573,7 +705,13 @@
             1085.76,
             728.44
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "sandwiches",
+            "TYPES OF NUTRIENTS": "Protein"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -589,7 +727,13 @@
             1121.65,
             205.92
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "M1113.57,205.92s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z",
+        "category": {
+            "FOOD ITEM GROUP": "sandwiches",
+            "TYPES OF NUTRIENTS": "Carbohydrate"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -605,7 +749,13 @@
             1153.68,
             694.51
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "sandwiches",
+            "TYPES OF NUTRIENTS": "Fat"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -621,7 +771,13 @@
             1293.76,
             557.73
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "sandwiches",
+            "TYPES OF NUTRIENTS": "Protein"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -637,7 +793,13 @@
             1329.65,
             269.23
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "M1321.57,269.23s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z",
+        "category": {
+            "FOOD ITEM GROUP": "sandwiches",
+            "TYPES OF NUTRIENTS": "Carbohydrate"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -653,7 +815,13 @@
             1361.68,
             684.48
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": {
+            "FOOD ITEM GROUP": "sandwiches",
+            "TYPES OF NUTRIENTS": "Fat"
+        }
     },
     {
         "stimulus_id": "B-a-1",
@@ -669,7 +837,10 @@
             1602.21,
             109.03
         ],
-        "text": "FOOD ITEM GROUP"
+        "text": "FOOD ITEM GROUP",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -685,7 +856,10 @@
             1459.21,
             163.61
         ],
-        "text": ""
+        "text": "",
+        "fill": "#283",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -701,7 +875,10 @@
             1543.102,
             163.194
         ],
-        "text": "dishes"
+        "text": "dishes",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -717,7 +894,10 @@
             1459.21,
             214.81
         ],
-        "text": ""
+        "text": "",
+        "fill": "#a37",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -733,7 +913,10 @@
             1588.03,
             214.394
         ],
-        "text": "sandwiches"
+        "text": "sandwiches",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -749,7 +932,10 @@
             1634.97,
             296.28999999999996
         ],
-        "text": "TYPES OF NUTRIENTS"
+        "text": "TYPES OF NUTRIENTS",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -765,7 +951,10 @@
             1544.334,
             346.154
         ],
-        "text": "Protein"
+        "text": "Protein",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -781,7 +970,10 @@
             1451.77,
             341.95
         ],
-        "text": ""
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -797,7 +989,10 @@
             1600.4940000000001,
             397.174
         ],
-        "text": "Carbohydrate"
+        "text": "Carbohydrate",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -813,7 +1008,10 @@
             1452.9900000000002,
             394.28
         ],
-        "text": ""
+        "text": "",
+        "fill": "",
+        "d": "M1444.91,394.28s.64-2.34,3.19-4.89c2.55-2.55,4.89-3.19,4.89-3.19,0,0-2.34-.64-4.89-3.19-2.55-2.55-3.19-4.89-3.19-4.89,0,0-.64,2.34-3.19,4.89-2.55,2.55-4.89,3.19-4.89,3.19,0,0,2.34.64,4.89,3.19,2.55,2.55,3.19,4.89,3.19,4.89Z",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -829,7 +1027,10 @@
             1499.406,
             448.19399999999996
         ],
-        "text": "Fat"
+        "text": "Fat",
+        "fill": "",
+        "d": "",
+        "category": null
     },
     {
         "stimulus_id": "B-a-1",
@@ -845,6 +1046,9 @@
             1450.3600000000001,
             442.37
         ],
-        "text": ""
+        "text": "",
+        "fill": "",
+        "d": "",
+        "category": null
     }
 ]
