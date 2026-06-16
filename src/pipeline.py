@@ -45,6 +45,7 @@ class AOIPipeline:
         # 4. Data Extraction
         extracted_data = self._extract_data(semantic_tree.root, stimulus_id)
         filtered_data = self._filter_to_visible(extracted_data)
+        filtered_data = self._link_categories(filtered_data, extracted_data)
 
         # 5. 
         #  Generation
@@ -91,7 +92,9 @@ class AOIPipeline:
                 "tag": node.tag,
                 "parent_id": parent_id,
                 "bbox": bbox,
-                "text": text_val
+                "text": text_val,
+                "fill": node.attributes.get("fill", "").strip().lower(),
+                "d": node.attributes.get("d", "")
             }
 
             extracted_data.append(aoi_entry)
@@ -101,6 +104,125 @@ class AOIPipeline:
 
         traverse(root_node, None)
         return extracted_data
+    
+    def _normalize_color(self, color: str):
+        """Convert any CSS color string to an (r,g,b) tuple for comparison."""
+        if not color:
+            return None
+        color = color.strip().lower()
+        if color in ('none', 'inherit', 'transparent', 'currentcolor', ''):
+            return None
+        # Expand 3-digit hex to 6-digit
+        if len(color) == 4 and color.startswith('#'):
+            color = '#' + color[1]*2 + color[2]*2 + color[3]*2
+        # Parse 6-digit hex
+        if len(color) == 7 and color.startswith('#'):
+            try:
+                return (int(color[1:3], 16),
+                        int(color[3:5], 16),
+                        int(color[5:7], 16))
+            except ValueError:
+                return None
+        return None
+
+    def _shape_signature(self, item: dict) -> tuple:
+        """
+        Builds a signature describing an element's visual shape,
+        used to match data-marks to legend symbols when color alone
+        isn't distinctive.
+        """
+        tag = item["tag"]
+        fill = self._normalize_color(item["fill"])
+
+        bbox = item["bbox"]
+        aspect = None
+        if bbox:
+            w = bbox[2] - bbox[0]
+            h = bbox[3] - bbox[1]
+            if h > 0:
+                aspect = round(w / h, 1)
+
+        complexity = None
+        if tag == "path":
+            d = item.get("d", "")
+            complexity = round(len(d.split()) / 5) * 5
+
+        return (tag, fill, aspect, complexity)
+    
+    def _link_categories(self, filtered_data: list[dict], all_data: list[dict]) -> list[dict]:
+        """
+        Builds one category map per legend group (identified by legend-title),
+        then matches each data-mark against all groups, returning a dict of
+        {legend_title: category_name} per element.
+        """
+        legend_groups = {}
+        current_title = "default"
+        current_symbols = []
+        current_labels = []
+
+        for item in all_data:
+            label = item["aoi_label"]
+            if label == "legend-title" and item["text"]:
+                if current_symbols or current_labels:
+                    legend_groups[current_title] = {
+                        "symbols": current_symbols,
+                        "labels": current_labels
+                    }
+                current_title = item["text"]
+                current_symbols = []
+                current_labels = []
+            elif label == "legend-item-symbol":
+                current_symbols.append(item)
+            elif label == "legend-item-label" and item["text"]:
+                current_labels.append(item["text"])
+
+        if current_symbols or current_labels:
+            legend_groups[current_title] = {
+                "symbols": current_symbols,
+                "labels": current_labels
+            }
+
+        group_signatures = {}
+        for title, group in legend_groups.items():
+            sig_map = {}
+            symbols = group["symbols"]
+            labels = group["labels"]
+            for i, sym in enumerate(symbols):
+                if i < len(labels):
+                    sig = self._shape_signature(sym)
+                    sig_map[sig] = labels[i]
+            group_signatures[title] = sig_map
+
+        for item in filtered_data:
+            if item["aoi_label"] in ("data-mark", "data-node"):
+                sig = self._shape_signature(item)
+                categories = {}
+
+                for title, sig_map in group_signatures.items():
+                    category = None
+
+                    category = sig_map.get(sig)
+
+                    if category is None and sig[1] is not None:
+                        for leg_sig, name in sig_map.items():
+                            if leg_sig[1] == sig[1]:
+                                category = name
+                                break
+
+                    if category is None and sig[0] and sig[2]:
+                        for leg_sig, name in sig_map.items():
+                            if leg_sig[0] == sig[0] and leg_sig[2] == sig[2]:
+                                category = name
+                                break
+
+                    if category is not None:
+                        categories[title] = category
+
+                item["category"] = categories if categories else None
+            else:
+                item["category"] = None
+
+        return filtered_data
     
     def _filter_to_visible(self, extracted_data: list[dict]) -> list[dict]:
         KEEP_TAGS = {'path', 'circle', 'rect', 'line', 'polygon', 
@@ -121,6 +243,8 @@ class AOIPipeline:
                 
             # Keep only non-g tags — these are actual visible elements
             if tag != 'g':
+                filtered.append(item)
+            elif label == 'data-link':
                 filtered.append(item)
         
         return filtered
