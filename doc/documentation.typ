@@ -53,10 +53,10 @@
   )
   #v(0.5em)
   #(authors.map(a => {
-    link("mailto:" + a.email, box(a.name))
+    link("mailto:" + a.mail, box(a.name))
   }).join(", ")).
 
-  _Under the supervision of #(link("mailto:" + supervisor.email,
+  _Under the supervision of #(link("mailto:" + supervisor.mail,
   supervisor.name))._
 ]
 #line(length: 100%, stroke: 0.5pt)

@@ -1,6 +1,7 @@
 #import "./global.typ": *
 #import "@preview/gantty:0.5.1" as gantty
 #import "./schedule.typ"
+#import "./utils.typ": *
 
 #let doc_title = "Project Plan"
 
@@ -49,10 +50,10 @@
   )
   #v(0.5em)
   #(authors.map(a => {
-    link("mailto:" + a.email, box(a.name))
+    link("mailto:" + a.mail, box(a.name))
   }).join(", ")).
 
-  _Under the supervision of #(link("mailto:" + supervisor.email,
+  _Under the supervision of #(link("mailto:" + supervisor.mail,
   supervisor.name))._
 ]
 #line(length: 100%, stroke: 0.5pt)
@@ -67,7 +68,7 @@
 This project's goal is to extract and visualize the _Area of Interests_
 (*AOI*\s) of heterogeneous SVG files (Scalable Vector Graphics). The SVGs we are
 working on are already data visualizations, and have a somewhat shared structure
-(legends, labels, axes, #(etc)). This extraction's goal is to better interpret
+(legends, labels, axes, #etc). This extraction's goal is to better interpret
 eye-tracking data. Eye-tracking methods record where users look on a chart or
 map, but only as coordinates on the screen. Without additional information,
 these coordinates ($x,y$) are hard to interpret, since we don't know what part
