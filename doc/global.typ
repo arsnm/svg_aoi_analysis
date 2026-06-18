@@ -13,7 +13,7 @@
 #let supervisor = (name: "Anne-Flore Cabouat", mail:
 "anne-flore.cabouat@inria.fr")
 
-#let keywords = ("Area Of Interest (AOI)", "Scalable Vector Graphic (SVG)",
+#let keywords = ("Area Of Interest (AOI)", "Scalable Vector Graphics (SVG)",
 "Extraction", "Semantic")
 
 #let school = "Télécom Paris"

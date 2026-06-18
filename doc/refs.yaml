@@ -1,0 +1,14 @@
+w3c-svg:
+  type: report
+  title: Scalable Vector Graphics (SVG) Specification
+  author: World Wide Web Consortium (W3C)
+  institution: W3C
+  url: https://www.w3.org/TR/SVG/
+
+shapely:
+  type: web
+  title: "Shapely: Manipulation and analysis of geometric objects"
+  author:
+  - Gillies, Sean
+  - contributors
+  url: https://shapely.readthedocs.io/
