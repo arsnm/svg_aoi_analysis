@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AOI Viewer</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: #f1f5f9; color: #1e293b;
+  height: 100vh; display: flex; flex-direction: column; overflow: hidden;
+}
+.topbar {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 16px; background: #ffffff;
+  border-bottom: 1px solid #e2e8f0; flex-shrink: 0; flex-wrap: wrap;
+}
+.topbar h1 { font-size: 14px; font-weight: 700; color: #7c3aed; }
+.upload-group {
+  display: flex; align-items: center; gap: 6px;
+  background: #f8fafc; border: 1px solid #cbd5e1;
+  border-radius: 7px; padding: 4px 10px;
+}
+.upload-group span { font-size: 11px; color: #64748b; }
+.upload-btn {
+  font-size: 11px; color: #7c3aed;
+  background: #ffffff; border: 1px solid #cbd5e1;
+  padding: 3px 10px; border-radius: 5px; cursor: pointer;
+  transition: background .15s; white-space: nowrap;
+}
+.upload-btn:hover { background: #f1f5f9; }
+.upload-btn.loaded { color: #059669; border-color: #059669; }
+input[type=file] { display: none; }
+.status-dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: #cbd5e1; transition: background .2s;
+}
+.status-dot.ok { background: #059669; }
+.stats { display: flex; gap: 5px; flex-wrap: wrap; margin-left: auto; }
+.stat-badge {
+  font-size: 11px; padding: 3px 8px; border-radius: 4px;
+  font-weight: 600; cursor: pointer; border: 2px solid transparent;
+}
+.stat-badge.hidden { opacity: .3; }
+.main { display: flex; flex: 1; overflow: hidden; }
+.canvas-pane {
+  flex: 1; overflow: auto; position: relative;
+  background: repeating-conic-gradient(#e2e8f0 0% 25%, #f8fafc 0% 50%) 0 0/16px 16px;
+}
+#viewer {
+  position: relative; display: inline-block;
+  transform-origin: top left;
+}
+#bgImg { display: block; position: relative; z-index: 0; pointer-events: none; }
+.aoi-box {
+  position: absolute;
+  border: 2px solid transparent;
+  cursor: pointer;
+  z-index: 1;
+}
+.aoi-box.no-fill {
+  pointer-events: none;
+}
+.aoi-box:hover { z-index: 999 !important; filter: brightness(1.5); }
+.aoi-label-tag {
+  position: absolute; top: -20px; left: 0;
+  font-size: 10px; font-weight: 700;
+  padding: 2px 5px; border-radius: 3px;
+  white-space: nowrap; pointer-events: none;
+  display: none; color: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,.6);
+}
+.aoi-box:hover .aoi-label-tag { display: block; }
+.sidebar {
+  width: 280px; flex-shrink: 0;
+  background: #ffffff; border-left: 1px solid #e2e8f0;
+  display: flex; flex-direction: column; overflow: hidden;
+}
+.sidebar-header {
+  padding: 9px 14px; border-bottom: 1px solid #e2e8f0;
+  font-size: 10px; color: #94a3b8; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase;
+}
+#detail { padding: 14px; flex: 1; overflow-y: auto; font-size: 12px; color: #64748b; }
+.empty-msg { color: #cbd5e1; font-style: italic; }
+.drow { margin-bottom: 10px; }
+.dkey { color: #94a3b8; font-size: 10px; margin-bottom: 3px; text-transform: uppercase; letter-spacing: .05em; }
+.dval { color: #1e293b; font-size: 12px; padding: 5px 9px; background: #f8fafc; border-radius: 5px; border: 1px solid #e2e8f0; word-break: break-all; }
+.label-pill { display: inline-block; padding: 4px 12px; border-radius: 20px; font-weight: 700; font-size: 12px; }
+.legend-section { border-top: 1px solid #e2e8f0; padding: 8px 14px; overflow-y: auto; }
+.legend-row {
+  display: flex; align-items: center; gap: 8px;
+  font-size: 11px; color: #64748b; cursor: pointer; padding: 4px 0;
+}
+.legend-row:hover { color: #1e293b; }
+.legend-row.hidden { opacity: .3; }
+.lswatch { width: 12px; height: 12px; border-radius: 3px; flex-shrink: 0; }
+.lcount { margin-left: auto; color: #cbd5e1; font-size: 10px; }
+.zoom-bar {
+  position: fixed; bottom: 14px; left: 50%; transform: translateX(-50%);
+  display: flex; gap: 3px; align-items: center;
+  background: #ffffff; border: 1px solid #e2e8f0;
+  border-radius: 8px; padding: 4px; z-index: 500;
+  box-shadow: 0 4px 20px rgba(0,0,0,.1);
+}
+.zbtn {
+  background: #f8fafc; border: none; color: #475569;
+  width: 28px; height: 28px; border-radius: 5px; cursor: pointer;
+  font-size: 14px; display: flex; align-items: center; justify-content: center;
+}
+.zbtn:hover { background: #e2e8f0; color: #1e293b; }
+#zoomPct { font-size: 11px; color: #94a3b8; padding: 0 6px; min-width: 38px; text-align: center; }
+.empty-state {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  height: 100%; color: #cbd5e1; text-align: center; gap: 14px;
+}
+.empty-state .icon { font-size: 44px; opacity: .4; }
+.empty-state p { font-size: 13px; color: #94a3b8; }
+.empty-state small { font-size: 11px; }
+#instructions {
+  background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px;
+  padding: 16px 20px; text-align: left; font-size: 12px; color: #475569;
+  line-height: 1.8; max-width: 340px;
+}
+#instructions strong { color: #7c3aed; }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>AOI Viewer</h1>
+  <div class="upload-group">
+    <div class="status-dot" id="dotJson"></div>
+    <span>JSON</span>
+    <label class="upload-btn" id="btnJson" for="fileJson">Browse</label>
+    <input type="file" id="fileJson" accept=".json">
+  </div>
+  <div class="upload-group">
+    <div class="status-dot" id="dotSvg"></div>
+    <span>SVG</span>
+    <label class="upload-btn" id="btnSvg" for="fileSvg">Browse</label>
+    <input type="file" id="fileSvg" accept=".svg,.png,.jpg">
+  </div>
+  <div id="statsBar" class="stats"></div>
+</div>
+
+<div class="main">
+  <div class="canvas-pane" id="canvasPane">
+    <div class="empty-state" id="emptyState">
+      <div class="icon">🔬</div>
+      <p>Load a JSON + SVG to inspect AOI labels</p>
+      <div id="instructions">
+        <strong>Step 1</strong> — JSON Browse → <code>data/output/A-a-1.json</code><br>
+        <strong>Step 2</strong> — SVG Browse → <code>data/svg/A-a-1.svg</code><br>
+        <strong>Tip</strong> — Load JSON first, then SVG<br>
+        <strong>Tip</strong> — Click any colored box to inspect it<br>
+        <strong>Tip</strong> — Click label names to toggle visibility
+      </div>
+    </div>
+    <div id="viewer" style="display:none">
+      <img id="bgImg" alt="">
+    </div>
+  </div>
+  <div class="sidebar">
+    <div class="sidebar-header">Selected AOI</div>
+    <div id="detail"><span class="empty-msg">Click any box to inspect it</span></div>
+    <div class="sidebar-header">Label families</div>
+    <div class="legend-section" id="legendList"></div>
+  </div>
+</div>
+
+<div class="zoom-bar">
+  <button class="zbtn" onclick="changeZoom(-0.15)">−</button>
+  <span id="zoomPct">100%</span>
+  <button class="zbtn" onclick="changeZoom(+0.15)">+</button>
+  <button class="zbtn" title="Fit" onclick="fitZoom()">⊡</button>
+  <button class="zbtn" title="1:1" onclick="setZoom(1)">1:1</button>
+</div>
+
+<script>
+const PALETTE = {
+  'data-mark':          ['#3b82f6','rgba(59,130,246,.15)'],
+  'data-node':          ['#6366f1','rgba(99,102,241,.15)'],
+  'data-link':          ['#8b5cf6','rgba(139,92,246,.15)'],
+  'data-label':         ['#22d3ee','rgba(34,211,238,.15)'],
+  'data-group':         ['#14b8a6','rgba(20,184,166,.15)'],
+  'data-container':     ['#0f766e','rgba(15,118,110,.10)'],
+  'axis':               ['#fb923c','rgba(251,146,60,.15)'],
+  'axis-tick':          ['#f97316','rgba(249,115,22,.15)'],
+  'axis-label':         ['#ea580c','rgba(234,88,12,.15)'],
+  'axis-title':         ['#c2410c','rgba(194,65,12,.15)'],
+  'grid':               ['#9ca3af','rgba(156,163,175,.10)'],
+  'legend':             ['#34d399','rgba(52,211,153,.15)'],
+  'legend-title':       ['#10b981','rgba(16,185,129,.15)'],
+  'legend-item':        ['#059669','rgba(5,150,105,.15)'],
+  'legend-item-symbol': ['#047857','rgba(4,120,87,.15)'],
+  'legend-item-label':  ['#065f46','rgba(6,95,70,.15)'],
+  'unknown':            ['#ef4444','rgba(239,68,68,.25)'],
+};
+function col(l){ return PALETTE[l]||['#94a3b8','rgba(148,163,184,.12)']; }
+
+let allData = [];
+let scale = 1;
+let hiddenLabels = new Set();
+
+// SVG coordinate space (from viewBox)
+let vbX = 0, vbY = 0, vbW = 1920, vbH = 1080;
+// Display canvas size (from img naturalWidth after load)
+let canvasW = 1920, canvasH = 1080;
+
+// ── JSON ──
+document.getElementById('fileJson').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const r = new FileReader();
+  r.onload = ev => {
+    try {
+      const parsed = JSON.parse(ev.target.result);
+      allData = Array.isArray(parsed) ? parsed : (parsed.aois || []);
+      document.getElementById('dotJson').classList.add('ok');
+      document.getElementById('btnJson').classList.add('loaded');
+      document.getElementById('btnJson').textContent = trim(file.name);
+      document.getElementById('emptyState').style.display = 'none';
+      document.getElementById('viewer').style.display = 'inline-block';
+      buildLegend(); buildStats();
+      // If SVG already loaded, render boxes now
+      if (document.getElementById('dotSvg').classList.contains('ok')) {
+        renderBoxes(); fitZoom();
+      }
+    } catch(err){ alert('JSON parse error: ' + err.message); }
+  };
+  r.readAsText(file);
+});
+
+// ── SVG / image ──
+document.getElementById('fileSvg').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const r = new FileReader();
+  r.onload = ev => {
+    const isSvg = file.name.toLowerCase().endsWith('.svg');
+    let src, svgText = null;
+
+    if (isSvg) {
+      svgText = ev.target.result;
+      // Extract viewBox
+      const vbMatch = svgText.match(/viewBox\s*=\s*["']([\d\s\.\-]+)["']/);
+      if (vbMatch) {
+        const parts = vbMatch[1].trim().split(/[\s,]+/).map(Number);
+        if (parts.length === 4) {
+          [vbX, vbY, vbW, vbH] = parts;
+        }
+      } else {
+        // No viewBox - try width/height
+        const wm = svgText.match(/\bwidth\s*=\s*["']([\d\.]+)/);
+        const hm = svgText.match(/\bheight\s*=\s*["']([\d\.]+)/);
+        if (wm) vbW = parseFloat(wm[1]);
+        if (hm) vbH = parseFloat(hm[1]);
+        vbX = 0; vbY = 0;
+      }
+      const blob = new Blob([svgText], {type:'image/svg+xml'});
+      src = URL.createObjectURL(blob);
+    } else {
+      // PNG/JPG — use bytes directly
+      const bytes = new Uint8Array(ev.target.result);
+      const binary = bytes.reduce((acc, b) => acc + String.fromCharCode(b), '');
+      const mime = file.name.endsWith('.png') ? 'image/png' : 'image/jpeg';
+      src = 'data:' + mime + ';base64,' + btoa(binary);
+      vbX = 0; vbY = 0;
+    }
+
+    document.getElementById('dotSvg').classList.add('ok');
+    document.getElementById('btnSvg').classList.add('loaded');
+    document.getElementById('btnSvg').textContent = trim(file.name);
+
+    const img = document.getElementById('bgImg');
+    img.onload = () => {
+      canvasW = img.naturalWidth;
+      canvasH = img.naturalHeight;
+      img.style.width = canvasW + 'px';
+      img.style.height = canvasH + 'px';
+      img.style.display = 'block';
+      document.getElementById('viewer').style.display = 'inline-block';
+      document.getElementById('emptyState').style.display = 'none';
+      if (allData.length > 0) { renderBoxes(); fitZoom(); }
+    };
+    img.src = src;
+  };
+
+  if (file.name.toLowerCase().endsWith('.svg')) {
+    r.readAsText(file);
+  } else {
+    r.readAsArrayBuffer(file);
+  }
+});
+
+// ── Render ──
+function renderBoxes() {
+  const viewer = document.getElementById('viewer');
+  viewer.querySelectorAll('.aoi-box').forEach(b => b.remove());
+
+  // Scale factor from SVG coords → canvas pixels
+  const scaleX = canvasW / vbW;
+  const scaleY = canvasH / vbH;
+
+  allData.forEach(aoi => {
+    if (!aoi.bbox) return;
+    if (hiddenLabels.has(aoi.aoi_label)) return;
+
+    const [bx1, by1, bx2, by2] = aoi.bbox;
+
+    // Convert SVG coordinates to canvas pixels
+    const px = (bx1 - vbX) * scaleX;
+    const py = (by1 - vbY) * scaleY;
+    const pw = (bx2 - bx1) * scaleX;
+    const ph = (by2 - by1) * scaleY;
+
+    if (pw < 1 || ph < 1) return;
+
+    const [border, bg] = col(aoi.aoi_label);
+    const box = document.createElement('div');
+    box.className = 'aoi-box';
+    box.style.cssText = `left:${px}px;top:${py}px;width:${pw}px;height:${ph}px;background:${bg};border-color:${border};`;
+
+    const tag = document.createElement('div');
+    tag.className = 'aoi-label-tag';
+    tag.style.background = border;
+    tag.textContent = aoi.aoi_label + (aoi.text ? ` · "${aoi.text}"` : '');
+    box.appendChild(tag);
+    if (!aoi.fill || aoi.fill === 'none' || aoi.fill === '') {
+      box.classList.add('no-fill');
+    } else {
+      box.addEventListener('click', function(ev) { ev.stopPropagation(); showDetail(aoi); });
+    }
+    
+    viewer.appendChild(box);
+  });
+}
+
+function showDetail(aoi) {
+  const [border, bg] = col(aoi.aoi_label);
+
+  let categoryHtml = '';
+  if (aoi.category) {
+    if (typeof aoi.category === 'object') {
+      const entries = Object.entries(aoi.category)
+        .map(function(e) { return '<span style="color:#64748b;font-size:10px">' + esc(e[0]) + '</span><br>' + esc(e[1]); })
+        .join('<br><br>');
+      categoryHtml = '<div class="drow"><div class="dkey">Category</div><div class="dval" style="color:#34d399;font-weight:700">' + entries + '</div></div>';
+    } else {
+      categoryHtml = '<div class="drow"><div class="dkey">Category</div><div class="dval" style="color:#34d399;font-weight:700">' + esc(String(aoi.category)) + '</div></div>';
+    }
+  }
+
+  let fillHtml = '';
+  if (aoi.fill && aoi.fill !== 'none' && aoi.fill !== '') {
+    fillHtml = '<div class="drow"><div class="dkey">Fill</div><div class="dval"><span style="display:inline-block;width:12px;height:12px;border-radius:3px;background:' + esc(aoi.fill) + ';vertical-align:middle;margin-right:6px;border:1px solid #444"></span>' + esc(aoi.fill) + '</div></div>';
+  }
+
+  document.getElementById('detail').innerHTML =
+    '<div class="drow"><div class="dkey">Label</div><div class="dval"><span class="label-pill" style="background:' + bg + ';color:' + border + ';border:1.5px solid ' + border + '">' + aoi.aoi_label + '</span></div></div>' +
+    '<div class="drow"><div class="dkey">SVG Tag</div><div class="dval">&lt;' + aoi.tag + '&gt;</div></div>' +
+    (aoi.text ? '<div class="drow"><div class="dkey">Text</div><div class="dval">' + esc(aoi.text) + '</div></div>' : '') +
+    categoryHtml +
+    fillHtml +
+    '<div class="drow"><div class="dkey">Family</div><div class="dval">' + (aoi.family || '—') + '</div></div>' +
+    '<div class="drow"><div class="dkey">AOI ID</div><div class="dval" style="font-size:11px">' + aoi.aoi_id + '</div></div>' +
+    '<div class="drow"><div class="dkey">BBox</div><div class="dval" style="font-size:11px">' + (aoi.bbox ? aoi.bbox.map(function(v){return Math.round(v);}).join(' · ') : '—') + '</div></div>' +
+    '<div class="drow"><div class="dkey">Parent</div><div class="dval" style="font-size:11px">' + (aoi.parent_id || 'root') + '</div></div>';
+}
+
+function buildLegend() {
+  const counts = {};
+  allData.forEach(d => { counts[d.aoi_label] = (counts[d.aoi_label]||0)+1; });
+  const list = document.getElementById('legendList');
+  list.innerHTML = '';
+  Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([label,n]) => {
+    const [border] = col(label);
+    const row = document.createElement('div');
+    row.className = 'legend-row';
+    row.dataset.label = label;
+    row.innerHTML = `<div class="lswatch" style="background:${border}"></div><span>${label}</span><span class="lcount">${n}</span>`;
+    row.addEventListener('click', () => toggleLabel(label));
+    list.appendChild(row);
+  });
+}
+
+function buildStats() {
+  const counts = {};
+  allData.forEach(d => { counts[d.aoi_label] = (counts[d.aoi_label]||0)+1; });
+  const bar = document.getElementById('statsBar');
+  bar.innerHTML = '';
+  Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([label,n]) => {
+    const [border,bg] = col(label);
+    const b = document.createElement('div');
+    b.className = 'stat-badge';
+    b.dataset.label = label;
+    b.style.cssText = `background:${bg};color:${border};border-color:${border}`;
+    b.textContent = `${label}: ${n}`;
+    b.addEventListener('click', () => toggleLabel(label));
+    bar.appendChild(b);
+  });
+}
+
+function toggleLabel(label) {
+  if (hiddenLabels.has(label)) hiddenLabels.delete(label);
+  else hiddenLabels.add(label);
+  document.querySelectorAll(`[data-label="${label}"]`).forEach(el => {
+    el.classList.toggle('hidden', hiddenLabels.has(label));
+  });
+  renderBoxes();
+}
+
+function changeZoom(d){ setZoom(scale+d); }
+function setZoom(s){
+  scale = Math.max(0.1, Math.min(4, s));
+  document.getElementById('viewer').style.transform = `scale(${scale})`;
+  document.getElementById('zoomPct').textContent = Math.round(scale*100)+'%';
+}
+function fitZoom(){
+  const pane = document.getElementById('canvasPane');
+  setZoom(Math.min((pane.clientWidth-40)/canvasW, (pane.clientHeight-60)/canvasH, 1));
+}
+function trim(s){ return s.length > 14 ? s.slice(0,14)+'…' : s; }
+function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+</script>
+</body>
+</html>
