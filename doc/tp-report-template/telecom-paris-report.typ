@@ -118,12 +118,11 @@
     numbering: "1/1",
     header: context {
       set text(size: 0.9em, fill: luma(100))
-      let current-page = here().page()
-      let active-hdgs = query(selector(heading.where(level: 1))).filter(
-        h => h.location().page() <= current-page
+      let active-hdgs = query(selector(heading).before(here())).filter(
+        h => h.level == 1
       )
       let current-section = if active-hdgs.len() > 0 {
-        active-hdgs.first().body
+        active-hdgs.last().body
       } else { none }
 
       grid(

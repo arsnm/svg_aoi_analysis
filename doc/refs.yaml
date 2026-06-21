@@ -12,3 +12,14 @@ shapely:
   - Gillies, Sean
   - contributors
   url: https://shapely.readthedocs.io/
+
+aoi_viewer:
+  type: web
+  title: "Simple AOI web-based AOI viewer"
+  author:
+    - "Charbel ABOU KHEIR"
+    - "Jean Paul AL AM"
+    - "Arsène MALLET"
+    - "Marie-José TANNOURY"
+    - "Alain TRAD"
+  url: https://arsnm.github.io/svg_aoi_analysis/
