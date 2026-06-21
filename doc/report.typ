@@ -2,6 +2,9 @@
 #import "global.typ": *
 #import "utils.typ": *
 
+#let original = "./img/C-b-1.svg"
+#let simplified = "./img/C-b-1_simplified.svg"
+
 #let abstract = [
   This report details the development of an automated data pipeline designed to
   extract positional and semantic information from Areas of Interest (AOIs)
@@ -322,7 +325,7 @@ their legend title, and axis and grid elements each have their own section. Each
 element type only keeps the fields needed for it. For example, data marks keep
 their bounding box, fill color, and category, while text labels keep their text
 and bounding box. This makes the file easier to read when checking the chart
-structure. A short example can be found in #ref(<appendix_output>).
+structure. A short example can be found in #ref(<appendix_json_output>).
 
 The third output is a simplified SVG that shows the computed bounding boxes on
 top of the original chart. This was used as a visual check during development.
@@ -461,8 +464,8 @@ attributes must be prioritized over accumulated probabilistic signals.
 
 Moving forward, the generated data structures provide a robust foundation for
 the eye-tracking correlation phase. Future work could focus on refining text
-bounding approximations---perhaps by integrating font-rendering engines to trace
-exact glyph outlines rather than relying on coordinate frames---and expanding
+bounding approximations (perhaps by integrating font-rendering engines to trace
+exact glyph outlines rather than relying on coordinate frames) and expanding
 the semantic keyword map to natively support a wider array of charting
 frameworks.
 
@@ -490,7 +493,7 @@ lossy rasterization.
 
 = Appendices
 
-== JSON Output Example <appendix_output>
+== JSON Output Example <appendix_json_output>
 
 Below is a short example of a JSON file outputted by our pipeline:
 ```json
@@ -509,6 +512,17 @@ Below is a short example of a JSON file outputted by our pipeline:
    }
  }
 ```
+
+== Simplified SVG Output
+
+#figure(
+  grid(
+    rows: (auto, auto),
+    image(original, width: 100%),
+    image(simplified, width: 65%)
+  ),
+  caption: "Comparison of the SVG input and its simplified output"
+) <fig_comparison>
 
 == AI Usage <appendix_ia>
 
