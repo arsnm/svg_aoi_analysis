@@ -532,18 +532,29 @@ had different type of usage, we decided it was more meaningful to let everyone
 share their methods instead of having a _general/low-relevancy_ overall
 description:
 
-#quote(block: true, attribution: authors.at(0).name)[
-]
+#quote(block: true, attribution: authors.at(0).name)[_
+_]
 
-#quote(block: true, attribution: authors.at(1).name)[
-]
+#quote(block: true, attribution: authors.at(1).name)[_
+  My use of AI (Claude) was mainly for high-level strategy discussions and
+  architectural thinking. When facing a design decision, I would lay out the
+  problem and possible directions, and ask Claude for feedback on trade-offs,
+  alternative structures, or potential pitfalls I hadn't considered, rather than
+  asking it to produce the solution outright. I also relied on it for debugging
+  and surfacing edge cases once a first implementation was in place, since a
+  second perspective was useful for catching issues that are easy to miss when
+  you've been staring at your own code for too long. During the documentation
+  phase, I also used Claude to review, refine, and polish the written report
+  content, focusing on language clarity and structural flow rather than
+  introducing new technical claims.
+_]
 
 #quote(block: true, attribution: authors.at(2).name)[_
   Personally, my use of AI (Gemini 3.1, the Pro model most of the time) is
-  mainly for idea development. By this, I mean that I share my initial thoughts
-  on a process and ask the 'clanker' for its feedback, alternative approaches,
-  and a general architectural view. I strictly avoid having it write raw code
-  for me; it tends to overcomplicate things, use deprecated features, and I
+  mostly for idea development. By this, I mean that I share my initial thoughts
+  on a process and ask the clanker for its feedback, alternative approaches, and
+  a general architectural view. I strictly avoid having it write raw code for
+  me; it tends to overcomplicate things, use deprecated features, and I
   generally find it harder to prompt for exact implementation details than to
   just write it myself. Instead, when a process is clear in my head, or after I
   finish a first implementation, I feed it to the LLM to hunt for structural
@@ -553,11 +564,20 @@ description:
   helped me restructure the logic while still writing the code myself.
  _]
 
-#quote(block: true, attribution: authors.at(3).name)[
-]
+#quote(block: true, attribution: authors.at(3).name)[_
+  I used Claude mainly to help with debugging and implementation, not to design
+  the project for me. When the scoring approach was not working, Claude
+  suggested keeping it and adjusting the thresholds, but I realized the main
+  problem was different: weak signals like canvas position could count more than
+  a clear attribute match. I decided to replace it with a priority-chain
+  approach, and I redesigned and implemented that myself. Claude was helpful for
+  finding specific bugs quickly, such as color values like `#ed8` and `#eedd88`
+  not matching during legend linking. For the report, I wrote most of the
+  content myself and used AI mainly to improve phrasing and sentence structure.
+_]
 
-#quote(block: true, attribution: authors.at(4).name)[
-]
+#quote(block: true, attribution: authors.at(4).name)[_
+_]
 
 
 
