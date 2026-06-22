@@ -577,6 +577,20 @@ _]
 _]
 
 #quote(block: true, attribution: authors.at(4).name)[_
+  My use of AI (Claude) for the semantics and AOI labeling part was mostly
+  limited to specific, targeted tasks rather than any kind of high-level design.
+  The core decisions, like abandoning confidence scoring in favor of a
+  deterministic priority chain, came from my own analysis of where the approach
+  was breaking down. When I noticed that weak positional signals were
+  consistently overriding clear attribute-based ones, I brought that observation
+  to Claude, which actually suggested tuning the thresholds rather than
+  scrapping the scoring system. I disagreed with that direction and went ahead
+  with the priority chain redesign myself, which ended up being the right call.
+  Where Claude was genuinely useful was in catching specific bugs I had been
+  overlooking, the kind of targeted debugging saved me some time. I also used it
+  occasionally during the report writing phase to clean up phrasing and improve
+  sentence flow in the sections I had already drafted, without changing the
+  technical content itself.
 _]
 
 
